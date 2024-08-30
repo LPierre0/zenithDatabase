@@ -1,5 +1,9 @@
+from time import sleep
 import bs4
 import requests
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
@@ -12,13 +16,21 @@ import lxml
 
 
 def get_driver(url):
+    user_data_dir = "/home/pierre/.config/google-chrome"
+
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-    driver = webdriver.Chrome(options=chrome_options)
+    chrome_options.add_argument(f"--user-data-dir={user_data_dir}")
+    chrome_options.add_argument("--profile-directory=Default")
+
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+
+
+    driver.maximize_window()
     driver.get(url)
-    driver.implicitly_wait(1) 
+    driver.implicitly_wait(10) 
     return driver
 
 def get_soup(html):
@@ -27,54 +39,81 @@ def get_soup(html):
 def is_build_page(url):
     return bool(re.match(r'^https://www.zenithwakfu.com/builder/[a-zA-Z0-9]*', url))
 
+def remove_popups(driver):
+    try:
+        close_button = WebDriverWait(driver, 20).until(
+            EC.element_to_be_clickable((By.XPATH, "//button[contains(@class, 'close-button-class')]"))
+        )
+        close_button.click()
+        print("Popup closed.")
+    except TimeoutException:
+        print("Pop-up not found or did not appear in the specified time frame.")
+
+
+def press_research(driver):
+    try:
+        search_button = WebDriverWait(driver, 5).until(
+            EC.element_to_be_clickable((By.XPATH, "//span[text()='Rechercher']"))
+        )
+        search_button.click()
+        print("Bouton de recherche cliqué.")
+    except TimeoutException:
+        print("Le bouton de recherche n'est pas apparu dans le délai spécifié.")
 
 
 def accept_cookies(driver):
     try:
-        # Attendre que le bouton d'autorisation soit visible et cliquable
         consent_button = WebDriverWait(driver, 5).until(
             EC.element_to_be_clickable((By.XPATH, "//p[@class='fc-button-label' and text()='Autoriser']"))
         )
-        # Cliquer sur le bouton
         consent_button.click()
         print("Bouton d'autorisation cliqué.")
     except TimeoutException:
         print("Le bouton d'autorisation n'est pas apparu dans le délai spécifié.")
 
-def change_level_item(driver, is_build_page, lvl_min = 0, lvl_max = 230):
-    if is_build_page:
-        ratio = 194/181
-    else:
-        ratio = 50/35
+def change_level_item(driver, lvl_min = 0, lvl_max = 230):
+
     first_thumb = driver.find_element(By.CSS_SELECTOR, '.MuiSlider-thumb[data-index="0"]')
     second_thumb = driver.find_element(By.CSS_SELECTOR, '.MuiSlider-thumb[data-index="1"]')
 
-    print(first_thumb, second_thumb)
-    initial_value_first = first_thumb.get_attribute('aria-valuenow')
-    initial_value_second = second_thumb.get_attribute('aria-valuenow')
-    print(initial_value_first, initial_value_second)
+    value_first = first_thumb.get_attribute('aria-valuenow')
+    value_second = second_thumb.get_attribute('aria-valuenow')
+    print(value_first, value_second)
 
-    value_to_move_first = int((lvl_min - int(initial_value_first)) * ratio) + 1
-    value_to_move_second = int((lvl_max - int(initial_value_second)) * ratio) - 2
-    print(value_to_move_first, value_to_move_second)
-    actions = ActionChains(driver)
-    actions.click_and_hold(first_thumb).move_by_offset(value_to_move_first, 0).release().perform()
-    actions.click_and_hold(second_thumb).move_by_offset(value_to_move_second, 0).release().perform()
+    while int(value_first) != lvl_min:
+        value_moving = int((lvl_min - int(value_first)))
+        if value_moving == 1 or value_moving == -1:
+            value_moving = value_moving * 2
+        actions = ActionChains(driver)
+        actions.click_and_hold(first_thumb).move_by_offset(value_moving, 0).release().perform()
+        value_first = first_thumb.get_attribute('aria-valuenow')
+    sleep(3)
+    while int(value_second) != lvl_max:
+        value_moving = int((lvl_max - int(value_second)))
+        if value_moving == 1 or value_moving == -1:
+            value_moving = value_moving * 2
+        actions = ActionChains(driver)
+        actions.click_and_hold(second_thumb).move_by_offset(value_moving, 0).release().perform()
+        value_second = second_thumb.get_attribute('aria-valuenow')
 
-    new_value_first = first_thumb.get_attribute('aria-valuenow')
-    new_value_second = second_thumb.get_attribute('aria-valuenow')
-    print(f'Nouvelle valeur du premier curseur: {new_value_first}')
-    print(f'Nouvelle valeur du deuxième curseur: {new_value_second}')
 
 
 
 def main():
     url = 'https://www.zenithwakfu.com/builder/f265c'
-    build_page_bool = is_build_page(url)
     driver = get_driver(url)
+    change_level_item(driver, 141, 155)
+    press_research(driver)
+    sleep(5)
 
-    accept_cookies(driver)
-    change_level_item(driver, is_build_page, 66, 95)
+    html = driver.page_source
+    soup = get_soup(html)
+    items = soup.find_all('a', {"class": "item-link"})
+    for item in items:
+        print(item['href'])
+    driver.quit()
+
+
 
 if __name__ == '__main__':
     main()
