@@ -1,0 +1,3026 @@
+{
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31523": [
+        230,
+        "Lame de Toross",
+        "relic",
+        "https://www.zenithwakfu.com/images/items/22331523.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31462": [
+        230,
+        "Lame de la fin du jour",
+        "memory",
+        "https://www.zenithwakfu.com/images/items/22331289.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30345": [
+        230,
+        "Lame de Goudemane",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22330343.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29637": [
+        230,
+        "Arc séculaire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11729636.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29636": [
+        230,
+        "Arc séculaire",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11729636.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29635": [
+        230,
+        "Grand bâton séculaire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25329634.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29634": [
+        230,
+        "Grand bâton séculaire",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25329634.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29633": [
+        230,
+        "Marteau séculaire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11429632.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29632": [
+        230,
+        "Marteau séculaire",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11429632.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29629": [
+        230,
+        "Pelle séculaire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11129628.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29628": [
+        230,
+        "Pelle séculaire",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11129628.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29627": [
+        230,
+        "Hache séculaire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10129626.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29626": [
+        230,
+        "Hache séculaire",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10129626.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29625": [
+        230,
+        "Grande lame séculaire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22329624.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29624": [
+        230,
+        "Grande lame séculaire",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22329624.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29486": [
+        230,
+        "Sceptre du dernier repos",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25329485.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29485": [
+        230,
+        "Sceptre du dernier repos",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25329485.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29482": [
+        230,
+        "L'Aviolarc",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11729481.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29481": [
+        230,
+        "L'Aviolarc",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11729481.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29480": [
+        230,
+        "Vylus Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11129479.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29479": [
+        230,
+        "Vylus Shushu",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11129479.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29478": [
+        230,
+        "Lame insondable",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22329477.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29477": [
+        230,
+        "Lame insondable",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22329477.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29476": [
+        230,
+        "Tranchoir Abyssal",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10129475.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29475": [
+        230,
+        "Tranchoir Abyssal",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10129475.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30344": [
+        227,
+        "Lame de Goudemane",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22330343.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30343": [
+        220,
+        "Lame de Goudemane",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22330343.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28319": [
+        215,
+        "Flamberge Haire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22328318.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28306": [
+        215,
+        "Marteau du Sumorse",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11428305.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28305": [
+        215,
+        "Marteau du Sumorse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11428305.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28304": [
+        215,
+        "Hache du Sumorse",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10128303.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28243": [
+        215,
+        "Pelle du Casse-cours",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11128242.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28242": [
+        215,
+        "Pelle du Casse-cours",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11128242.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28180": [
+        215,
+        "Arc Hadie",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11728179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28179": [
+        215,
+        "Arc Hadie",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11728179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28178": [
+        215,
+        "Pilastre",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25328177.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28075": [
+        215,
+        "Dernier soupir",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22328073.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27803": [
+        215,
+        "Marteau d'Osamodas",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11427803.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27798": [
+        215,
+        "Pelle dimensionnelle",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11127796.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27745": [
+        215,
+        "L'immaculé",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11727745.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27686": [
+        215,
+        "Epée du rêve noble",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22327685.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27684": [
+        215,
+        "L'Hache édumou",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10127683.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27628": [
+        215,
+        "Gourdin du soleil",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25327627.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28074": [
+        213,
+        "Dernier soupir",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22328073.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27683": [
+        213,
+        "L'Hache édumou",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10127683.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28318": [
+        212,
+        "Flamberge Haire",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22328318.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27797": [
+        212,
+        "Pelle dimensionnelle",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11127796.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28303": [
+        210,
+        "Hache du Sumorse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10128303.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28177": [
+        210,
+        "Pilastre",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25328177.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28073": [
+        210,
+        "Dernier soupir",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22328073.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27685": [
+        210,
+        "Epée du rêve noble",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22327685.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27627": [
+        210,
+        "Gourdin du soleil",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25327627.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27796": [
+        209,
+        "Pelle dimensionnelle",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11127796.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27374": [
+        200,
+        "Scie Kiotamm",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10127373.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27373": [
+        200,
+        "Scie Kiotamm",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10127373.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27011": [
+        200,
+        "La Mire Abel",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11727009.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26987": [
+        200,
+        "Arc Chimède",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11726985.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26960": [
+        200,
+        "L'arme à Niak",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22326959.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25080": [
+        200,
+        "Tronchoneuse",
+        "memory",
+        "https://www.zenithwakfu.com/images/items/10114670.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24832": [
+        200,
+        "Epée Naïca",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22324731.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24806": [
+        200,
+        "La Goultard",
+        "memory",
+        "https://www.zenithwakfu.com/images/items/2239460.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24737": [
+        200,
+        "Rod Gerse",
+        "relic",
+        "https://www.zenithwakfu.com/images/items/25324737.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24720": [
+        200,
+        "Cimetierre",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22324720.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24700": [
+        200,
+        "La Dianine",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22324700.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24699": [
+        200,
+        "Bâton Beurre",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25324697.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24698": [
+        200,
+        "Bâton Beurre",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25324697.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24697": [
+        200,
+        "Bâton Beurre",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25324697.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24696": [
+        200,
+        "Le Hoshin",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11424695.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24695": [
+        200,
+        "Le Hoshin",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11424695.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24257": [
+        200,
+        "Marteau Xik",
+        "memory",
+        "https://www.zenithwakfu.com/images/items/11415034.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24023": [
+        200,
+        "Arc de Crâ",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11724009.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24022": [
+        200,
+        "Marteau d'Osamodas",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11424008.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24021": [
+        200,
+        "Bambou de Pandawa",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25324007.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24019": [
+        200,
+        "Hache de Sacrieur",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10124005.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24016": [
+        200,
+        "Pelle d'Enutrof",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11124002.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24014": [
+        200,
+        "Désincarnator",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22324000.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24009": [
+        200,
+        "Arc de Crâ",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11724009.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24008": [
+        200,
+        "Marteau d'Osamodas",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11424008.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24007": [
+        200,
+        "Bambou de Pandawa",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25324007.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24005": [
+        200,
+        "Hache de Sacrieur",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10124005.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24002": [
+        200,
+        "Pelle d'Enutrof",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11124002.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24000": [
+        200,
+        "Désincarnator",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22324000.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22536": [
+        200,
+        "Trancheuse Draconique",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10120733.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22525": [
+        200,
+        "Arc Prismatique",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11720729.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22018": [
+        200,
+        "Hiche",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10121812.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22016": [
+        200,
+        "Calumet Happé",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25321811.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22000": [
+        200,
+        "Marteau Mashu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11421808.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21940": [
+        200,
+        "Arc Enstone",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11721939.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21866": [
+        200,
+        "Cu'Hier",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22320951.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21766": [
+        200,
+        "Pêlle-Miêlle",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11121728.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21748": [
+        200,
+        "Croc Sournois",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22321721.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20733": [
+        200,
+        "Trancheuse Draconique",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10120733.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20729": [
+        200,
+        "Arc Prismatique",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11720729.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26986": [
+        199,
+        "Arc Chimède",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11726985.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21812": [
+        199,
+        "Hiche",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10121812.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20951": [
+        199,
+        "Cu'Hier",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22320951.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21999": [
+        198,
+        "Marteau Mashu",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11421808.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21939": [
+        198,
+        "Arc Enstone",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11721939.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21747": [
+        198,
+        "Croc Sournois",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22321721.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27010": [
+        197,
+        "La Mire Abel",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11727009.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22015": [
+        197,
+        "Calumet Happé",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25321811.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21765": [
+        197,
+        "Pêlle-Miêlle",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11121728.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24731": [
+        196,
+        "Epée Naïca",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22324731.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27009": [
+        194,
+        "La Mire Abel",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11727009.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26959": [
+        194,
+        "L'arme à Niak",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22326959.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21811": [
+        194,
+        "Calumet Happé",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25321811.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21728": [
+        194,
+        "Pêlle-Miêlle",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11121728.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26985": [
+        191,
+        "Arc Chimède",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11726985.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21808": [
+        190,
+        "Marteau Mashu",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11421808.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21721": [
+        190,
+        "Croc Sournois",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22321721.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26841": [
+        185,
+        "Magnum",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25326838.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26840": [
+        185,
+        "Magnum",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25326838.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22519": [
+        185,
+        "Tige Plantueuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25320357.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22518": [
+        185,
+        "Bastonneur Plantueur",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25320358.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20358": [
+        185,
+        "Bastonneur Plantueur",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25320358.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20357": [
+        185,
+        "Tige Plantueuse",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25320357.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20279": [
+        185,
+        "Marteau de Foul Moon",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11420279.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19897": [
+        185,
+        "Marteau Luterking",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11419897.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19882": [
+        185,
+        "Masse à Tomique",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11419882.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22169": [
+        184,
+        "Marteau Luterking",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11419897.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26839": [
+        182,
+        "Magnum",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25326838.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22167": [
+        182,
+        "Masse à Tomique",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11419882.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22447": [
+        181,
+        "Marteau de Foul Moon",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11420279.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26838": [
+        174,
+        "Magnum",
+        "common",
+        "https://www.zenithwakfu.com/images/items/25326838.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26664": [
+        170,
+        "Pelle Mécanique",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/1114057.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26490": [
+        170,
+        "Epée Kyn",
+        "epic",
+        "https://www.zenithwakfu.com/images/items/22326490.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26267": [
+        170,
+        "Epée Traîtrise",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22311406.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26066": [
+        170,
+        "Porte-Etendard Riktus Elite",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25312340.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26060": [
+        170,
+        "Epée Riktus Elite",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22312339.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26054": [
+        170,
+        "Arc Riktus Elite",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11712341.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25983": [
+        170,
+        "Epée Bon Œil",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22325981.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25967": [
+        170,
+        "Lanco Plumo",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25313777.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25966": [
+        170,
+        "Lanco Plumo",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25313777.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25864": [
+        170,
+        "La Papoutre",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11416883.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25856": [
+        170,
+        "Stalagmite Géante",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25316880.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25832": [
+        170,
+        "L'Epée Poutreuse",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22310980.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24686": [
+        170,
+        "La Planque",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11119252.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24685": [
+        170,
+        "Le Brise-Rois",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11419251.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24684": [
+        170,
+        "La Doubeline",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10119250.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24683": [
+        170,
+        "La Doubeline",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10119250.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24682": [
+        170,
+        "La Doubeline",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/10119250.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22437": [
+        170,
+        "La Flèche du Temps",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11719133.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22424": [
+        170,
+        "Epée Discontinue",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22319135.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22414": [
+        170,
+        "Ravage Instable",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25319132.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22381": [
+        170,
+        "Martôt",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11419051.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21252": [
+        170,
+        "L'Ensanglantée",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10121202.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21206": [
+        170,
+        "La Barre Jô",
+        "epic",
+        "https://www.zenithwakfu.com/images/items/25321206.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19422": [
+        170,
+        "Epée de Serre d'Acier",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22319422.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19252": [
+        170,
+        "La Planque",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11119252.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19251": [
+        170,
+        "Le Brise-Rois",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11419251.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19060": [
+        170,
+        "Epée Millénaire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22319060.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26608": [
+        169,
+        "Pelle Mécanique",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/1114057.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26053": [
+        169,
+        "Arc Riktus Elite",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11712341.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25982": [
+        169,
+        "Epée Bon Œil",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22325981.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21202": [
+        169,
+        "L'Ensanglantée",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10121202.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19133": [
+        169,
+        "La Flèche du Temps",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11719133.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26065": [
+        168,
+        "Porte-Etendard Riktus Elite",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25312340.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26059": [
+        168,
+        "Epée Riktus Elite",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22312339.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25863": [
+        168,
+        "La Papoutre",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11416883.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25855": [
+        168,
+        "Stalagmite Géante",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25316880.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25831": [
+        168,
+        "L'Epée Poutreuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22310980.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19132": [
+        168,
+        "Ravage Instable",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25319132.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19051": [
+        168,
+        "Martôt",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11419051.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22470": [
+        167,
+        "Epée de Serre d'Acier",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22319422.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19135": [
+        167,
+        "Epée Discontinue",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22319135.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26052": [
+        166,
+        "Arc Riktus Elite",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11712341.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26058": [
+        165,
+        "Epée Riktus Elite",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22312339.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25854": [
+        165,
+        "Stalagmite Géante",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25316880.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26607": [
+        164,
+        "Pelle Mécanique",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1114057.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25981": [
+        164,
+        "Epée Bon Œil",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22325981.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22363": [
+        164,
+        "Epée Millénaire",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22319060.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25965": [
+        162,
+        "Lanco Plumo",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25313777.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25830": [
+        160,
+        "L'Epée Poutreuse",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22310980.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22415": [
+        160,
+        "Ravage Instable",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25319132.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22382": [
+        160,
+        "Martôt",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11419051.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31341": [
+        155,
+        "Espadon de Tal Kasha",
+        "relic",
+        "https://www.zenithwakfu.com/images/items/22331341.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31290": [
+        155,
+        "Lame de la fin du jour",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22331289.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31289": [
+        155,
+        "Lame de la fin du jour",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22331289.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26808": [
+        155,
+        "Pelle Hixir",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11126806.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22784": [
+        155,
+        "Gouwdangé",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11417315.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22782": [
+        155,
+        "Fwonde",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11717309.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22776": [
+        155,
+        "Sceptwe du Wa",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11317328.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22729": [
+        155,
+        "Awc Infecté",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11717352.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22700": [
+        155,
+        "Lame de Dranipoch",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22320566.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22682": [
+        155,
+        "Martonneau",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11420568.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22645": [
+        155,
+        "Clef des comptes",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22318565.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22639": [
+        155,
+        "La Débiteuse",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11118562.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22626": [
+        155,
+        "Trancheuse des nuits sans étoiles",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10118558.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18567": [
+        155,
+        "La Pelle personnelle",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11118567.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18565": [
+        155,
+        "Clef des comptes",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22318565.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18562": [
+        155,
+        "La Débiteuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11118562.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18560": [
+        155,
+        "La Faux Rieuse",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25318560.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18456": [
+        155,
+        "Excavatus Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11118456.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18454": [
+        155,
+        "Martus Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11418454.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18453": [
+        155,
+        "Tranchus Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10118453.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18452": [
+        155,
+        "Claymus Shushu",
+        "epic",
+        "https://www.zenithwakfu.com/images/items/22318452.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18451": [
+        155,
+        "Brutus Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25318451.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18450": [
+        155,
+        "Arcus Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11718450.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26807": [
+        154,
+        "Pelle Hixir",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11126806.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20568": [
+        154,
+        "Martonneau",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11420568.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18558": [
+        154,
+        "Trancheuse des nuits sans étoiles",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10118558.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17315": [
+        154,
+        "Gouwdangé",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11417315.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17328": [
+        153,
+        "Sceptwe du Wa",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11317328.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22781": [
+        152,
+        "Fwonde",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11717309.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22640": [
+        152,
+        "La Débiteuse",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11118562.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22629": [
+        152,
+        "La Pelle personnelle",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11118567.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20566": [
+        152,
+        "Lame de Dranipoch",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22320566.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17352": [
+        152,
+        "Awc Infecté",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11717352.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26806": [
+        151,
+        "Pelle Hixir",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11126806.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29830": [
+        150,
+        "Tranchus Shushu",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10118453.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29827": [
+        150,
+        "Martus Shushu",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11418454.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29824": [
+        150,
+        "Excavatus Shushu",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11118456.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29822": [
+        150,
+        "Brutus Shushu",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25318451.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29821": [
+        150,
+        "Arcus Shushu",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11718450.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22592": [
+        150,
+        "La Faux Rieuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25318560.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17309": [
+        149,
+        "Fwonde",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11717309.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22646": [
+        147,
+        "Clef des comptes",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22318565.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22683": [
+        146,
+        "Martonneau",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11420568.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22641": [
+        144,
+        "La Débiteuse",
+        "common",
+        "https://www.zenithwakfu.com/images/items/11118562.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25788": [
+        140,
+        "Arc Abraknyde Ancestral",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11714850.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25762": [
+        140,
+        "Hache Abraknyde",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10114856.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24672": [
+        140,
+        "Le Tranchamp de Bataille",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22318954.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24671": [
+        140,
+        "Le Tranchamp de Bataille",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22318954.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24670": [
+        140,
+        "La Douhast",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11717202.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24669": [
+        140,
+        "La Douhast",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11717202.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24668": [
+        140,
+        "La Zéor",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10117199.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23865": [
+        140,
+        "La Zombo",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11117214.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22953": [
+        140,
+        "Sceptwe de Colèwe",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11317268.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22875": [
+        140,
+        "Hache Ti Wabbit",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10117283.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22872": [
+        140,
+        "Sceptre du Gwand Viziw",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11317293.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22861": [
+        140,
+        "Gwosse Cawotte",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22317288.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22860": [
+        140,
+        "Gwosse Cawotte",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22317288.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22825": [
+        140,
+        "Lancespore",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25318184.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21586": [
+        140,
+        "Marteau Ritaire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/1149645.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25761": [
+        139,
+        "Hache Abraknyde",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10114856.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18184": [
+        139,
+        "Lancespore",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25318184.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17283": [
+        139,
+        "Hache Ti Wabbit",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10117283.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25787": [
+        138,
+        "Arc Abraknyde Ancestral",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11714850.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17268": [
+        138,
+        "Sceptwe de Colèwe",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11317268.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17214": [
+        138,
+        "La Zombo",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11117214.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21565": [
+        137,
+        "Marteau Ritaire",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/1149645.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17293": [
+        137,
+        "Sceptre du Gwand Viziw",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11317293.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21538": [
+        134,
+        "Marteau Ritaire",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1149645.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17288": [
+        132,
+        "Gwosse Cawotte",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22317288.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25760": [
+        131,
+        "Hache Abraknyde",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/10114856.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22826": [
+        131,
+        "Lancespore",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25318184.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25696": [
+        125,
+        "Epée Spadon",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22310370.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25668": [
+        125,
+        "Lezoli Rostre",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25311701.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25627": [
+        125,
+        "Pelaflake",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11115571.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25621": [
+        125,
+        "Gourdin Gueuh",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/2539636.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24143": [
+        125,
+        "La grosse branche",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25310078.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23108": [
+        125,
+        "Scielargh",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10116151.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23107": [
+        125,
+        "Scielargh",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10116151.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23092": [
+        125,
+        "Arc Adoussur",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11716062.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23090": [
+        125,
+        "Mékanne",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11316060.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23027": [
+        125,
+        "Pelle à Glace",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11116083.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18177": [
+        125,
+        "La J'marrache",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11418177.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16062": [
+        125,
+        "Arc Adoussur",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11716062.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14493": [
+        125,
+        "La Chuchoteuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22314493.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25695": [
+        124,
+        "Epée Spadon",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22310370.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25626": [
+        124,
+        "Pelaflake",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11115571.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25620": [
+        124,
+        "Gourdin Gueuh",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/2539636.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16060": [
+        124,
+        "Mékanne",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11316060.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24142": [
+        123,
+        "La grosse branche",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25310078.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23140": [
+        122,
+        "La J'marrache",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11418177.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23028": [
+        122,
+        "Pelle à Glace",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11116083.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16151": [
+        122,
+        "Scielargh",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/10116151.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25619": [
+        121,
+        "Gourdin Gueuh",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/2539636.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25667": [
+        120,
+        "Lezoli Rostre",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25311701.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17496": [
+        120,
+        "Awc d'Appwoche",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11717496.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16083": [
+        119,
+        "Pelle à Glace",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11116083.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23093": [
+        117,
+        "Arc Adoussur",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11716062.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25694": [
+        116,
+        "Epée Spadon",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22310370.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25625": [
+        116,
+        "Pelaflake",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11115571.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23091": [
+        116,
+        "Mékanne",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11316060.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25618": [
+        113,
+        "Gourdin Gueuh",
+        "common",
+        "https://www.zenithwakfu.com/images/items/2539636.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29864": [
+        110,
+        "Bâton de Justin ",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11417617.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25593": [
+        110,
+        "Gourdin des Rois",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/2539385.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25587": [
+        110,
+        "Rhizome Dorée",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/1119468.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25558": [
+        110,
+        "Epée Riktus",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22311867.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25556": [
+        110,
+        "Pelle Riktus",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11111868.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25549": [
+        110,
+        "Porte-Etendard Riktus",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25311866.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24656": [
+        110,
+        "Le Bastion",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25318953.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24655": [
+        110,
+        "Le Bastion",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25318953.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24653": [
+        110,
+        "Le Mousquet",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11717203.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24652": [
+        110,
+        "Le Mousquet",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11717203.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24651": [
+        110,
+        "La Schek",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10117200.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24650": [
+        110,
+        "La Schek",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/10117200.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23264": [
+        110,
+        "Le croc glacé de Fhenris",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22316108.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23243": [
+        110,
+        "Lance chuchotée",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25314360.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23178": [
+        110,
+        "Epée du Corbeau Noir ",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22312489.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17657": [
+        110,
+        "Claymore de Fhenris",
+        "epic",
+        "https://www.zenithwakfu.com/images/items/2235406.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16765": [
+        110,
+        "Lance Diabolo-Fraise",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25316765.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16108": [
+        110,
+        "Le croc glacé de Fhenris",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22316108.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14653": [
+        110,
+        "Le Cure-dent D'Ogrest ",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25314653.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26548": [
+        109,
+        "Bâton Glawi",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25316079.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25594": [
+        109,
+        "Gourdin Cornu",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/2539386.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23297": [
+        109,
+        "Frite Flotteuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25316819.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23257": [
+        109,
+        "Cordelarc craquelé",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11714481.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14667": [
+        109,
+        "Découpeuse de Shushus",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22314667.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26533": [
+        108,
+        "Marteau Glaglacier",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11416010.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25589": [
+        108,
+        "La Défonce",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22311029.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14671": [
+        108,
+        "Hache Tété Pay",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10114671.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14664": [
+        108,
+        "Massue du gardien antique",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11414664.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25586": [
+        107,
+        "Rhizome Dorée",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1119468.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23313": [
+        107,
+        "Lance Diabolo-Fraise",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25316765.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14645": [
+        107,
+        "Arc de Légo l'As",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11714645.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14480": [
+        107,
+        "Marteau Somniboule",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11414480.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26547": [
+        106,
+        "Bâton Glawi",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25316079.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16819": [
+        106,
+        "Frite Flotteuse",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25316819.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16030": [
+        106,
+        "Sabre Cranté",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22316030.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12489": [
+        106,
+        "Epée du Corbeau Noir ",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22312489.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25588": [
+        105,
+        "La Défonce",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22311029.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15989": [
+        105,
+        "La Habrazieff",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10115989.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14481": [
+        104,
+        "Cordelarc craquelé",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11714481.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25557": [
+        102,
+        "Epée Riktus",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22311867.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25555": [
+        102,
+        "Pelle Riktus",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11111868.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25548": [
+        102,
+        "Porte-Etendard Riktus",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25311866.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14360": [
+        102,
+        "Lance chuchotée",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25314360.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26532": [
+        100,
+        "Marteau Glaglacier",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11416010.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13650": [
+        100,
+        "Arc Terre Fanfest #1",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11712341.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13649": [
+        100,
+        "Arc Eau Fanfest #1",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11712341.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13648": [
+        100,
+        "Arc Feu Fanfest #1",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11712341.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13647": [
+        100,
+        "Arc Air Fanfest #1",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11712341.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13646": [
+        100,
+        "Epée Terre Fanfest #1",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22312489.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13645": [
+        100,
+        "Epée Eau Fanfest #1",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22312489.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13644": [
+        100,
+        "Epée Air Fanfest #1",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22312489.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13643": [
+        100,
+        "Epée Feu Fanfest #1",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22312489.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12194": [
+        100,
+        "Makabrapel",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11112194.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12193": [
+        100,
+        "Makabrarteau",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11412193.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12192": [
+        100,
+        "Makabrache",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10112192.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12191": [
+        100,
+        "Grande Epée Makabra",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22312191.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12190": [
+        100,
+        "Gourdin Makabra",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25312190.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12189": [
+        100,
+        "Makabrarc",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11712189.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23314": [
+        99,
+        "Lance Diabolo-Fraise",
+        "common",
+        "https://www.zenithwakfu.com/images/items/25316765.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23298": [
+        98,
+        "Frite Flotteuse",
+        "common",
+        "https://www.zenithwakfu.com/images/items/25316819.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26510": [
+        95,
+        "Hache Kapsy",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/1019625.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25478": [
+        95,
+        "Lame du Chafer",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/2239458.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25456": [
+        95,
+        "Masse Talouego",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/1149421.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23848": [
+        95,
+        "Massue Démente",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11412381.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15276": [
+        95,
+        "Bâton Klor Ophil  ",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25315276.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15274": [
+        95,
+        "Marteau de Percimol",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11415274.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15273": [
+        95,
+        "Epée de Coa Gulay",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22315273.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15272": [
+        95,
+        "Arc de Guy Yomtella ",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11715272.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14675": [
+        95,
+        "Pelle Ancestrale d'Exi",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11114675.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14672": [
+        95,
+        "Hache de Grou",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10114672.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14669": [
+        95,
+        "Grande lame du Tot' ",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22314669.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14665": [
+        95,
+        "Marteau d'Eskarina",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11414665.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14654": [
+        95,
+        "La jambe de Kwoac",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/25314654.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14646": [
+        95,
+        "Arc de Freyrr",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11714646.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14540": [
+        95,
+        "Masse-Tique",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11414540.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14286": [
+        95,
+        "Marteau foudroyant",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11414286.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14285": [
+        95,
+        "Epée Solar",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22314285.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14278": [
+        95,
+        "Lance de Glace",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25314278.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23345": [
+        94,
+        "Sceptre Sacré",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11312600.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21247": [
+        94,
+        "Fouet Lombric",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11312800.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25472": [
+        93,
+        "Le Carqu'Os",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11710969.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23401": [
+        93,
+        "Massue de Trool",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11416891.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23352": [
+        93,
+        "Moine Sonneuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11412606.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23346": [
+        93,
+        "Balayette",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11112628.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12625": [
+        93,
+        "Le Miséricorde",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11712625.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12623": [
+        93,
+        "Faux Nonneuse ",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11312623.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25499": [
+        92,
+        "Pelle Buny",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11114718.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23372": [
+        92,
+        "Le Morteau",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11412881.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16794": [
+        92,
+        "Raquette de Plage",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10116794.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19523": [
+        91,
+        "Os à Moelle",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25319523.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16801": [
+        91,
+        "Pelle Facétieuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11116801.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12381": [
+        91,
+        "Massue Démente",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11412381.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25471": [
+        90,
+        "Le Carqu'Os",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11710969.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19455": [
+        90,
+        "La Succubelle",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11119455.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12606": [
+        90,
+        "Moine Sonneuse",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11412606.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17740": [
+        89,
+        "Le Morteau",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11412881.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12862": [
+        89,
+        "Martombale",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11412862.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25477": [
+        87,
+        "Lame du Chafer",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/2239458.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12600": [
+        86,
+        "Sceptre Sacré",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11312600.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16891": [
+        85,
+        "Massue de Trool",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11416891.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13058": [
+        85,
+        "Pelle Tombale",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11113058.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12628": [
+        85,
+        "Balayette",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11112628.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23420": [
+        84,
+        "Raquette de Plage",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/10116794.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25470": [
+        82,
+        "Le Carqu'Os",
+        "common",
+        "https://www.zenithwakfu.com/images/items/11710969.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12477": [
+        81,
+        "Marteau d'Osamodas ",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11412477.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25413": [
+        80,
+        "Tronchoneuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10114670.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24637": [
+        80,
+        "L'Apelle",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11118952.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24636": [
+        80,
+        "L'Apelle",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11118952.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24634": [
+        80,
+        "La Trireme",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10117201.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24633": [
+        80,
+        "La Trireme",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/10117201.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23859": [
+        80,
+        "La Marave ",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/10112592.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23858": [
+        80,
+        "Archive Pelle ",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11112591.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23537": [
+        80,
+        "Le Rat'O",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11115406.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19339": [
+        80,
+        "L'esprit Orrok",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11419339.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17745": [
+        80,
+        "Lame Onirique",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22312375.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15217": [
+        80,
+        "Pellectron Libre",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11115217.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14652": [
+        80,
+        "Gourdin magique de Sangroku",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25314652.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12592": [
+        80,
+        "La Marave ",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10112592.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12591": [
+        80,
+        "Archive Pelle ",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11112591.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2869": [
+        80,
+        "Epée Ricklès",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/2232869.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25405": [
+        79,
+        "Agride",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10110262.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25371": [
+        79,
+        "Truch'Arc",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11715539.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23531": [
+        79,
+        "Martord-Boyaux",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11415401.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19358": [
+        79,
+        "Lience Acrée",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25319358.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23567": [
+        78,
+        "La Tchernobatte",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25315210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12358": [
+        78,
+        "Hache Ivement",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10112358.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23516": [
+        77,
+        "L'esprit Orrok",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11419339.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15406": [
+        77,
+        "Le Rat'O",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11115406.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25404": [
+        76,
+        "Agride",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/10110262.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25374": [
+        76,
+        "Tape doigts",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10810290.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25332": [
+        75,
+        "Marteau Toh'Lo",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/1149423.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14673": [
+        75,
+        "Pelle à Tarte ",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11114673.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12476": [
+        74,
+        "Gobi-Hache",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10112476.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19383": [
+        73,
+        "Kroach",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22319383.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23510": [
+        71,
+        "Lience Acrée",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25319358.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15401": [
+        71,
+        "Martord-Boyaux",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11415401.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15210": [
+        70,
+        "La Tchernobatte",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25315210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17743": [
+        68,
+        "Gourdin Mastar",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25310101.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30924": [
+        65,
+        "Glaive Engeur",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/22330924.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30428": [
+        65,
+        "Marteau aigri",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11230427.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23650": [
+        65,
+        "L'Arc Bouse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11717773.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23643": [
+        65,
+        "Marteau de Sauvagerie",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11417758.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21438": [
+        65,
+        "La Lance du Skouale Lancier",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25311062.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21143": [
+        65,
+        "Kaskarc",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11715127.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15034": [
+        65,
+        "Marteau Xik",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/11415034.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23664": [
+        64,
+        "Pelle à Gîs",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11115040.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23634": [
+        64,
+        "Corde de Yamato",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/1179349.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25321": [
+        63,
+        "Pelle Koko",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11111597.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23669": [
+        63,
+        "Marteau Xik",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11415034.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23646": [
+        63,
+        "Bâton de Grande Sagesse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/25317757.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21439": [
+        63,
+        "La Skouache",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10115177.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21386": [
+        63,
+        "La Pelle ta Moule",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11111055.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21144": [
+        63,
+        "Le Défibrilateur",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11415128.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17815": [
+        63,
+        "Marteau de Throll",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11417815.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23651": [
+        62,
+        "Claymore aiguisée",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22314666.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17758": [
+        62,
+        "Marteau de Sauvagerie",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11417758.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9349": [
+        61,
+        "Corde de Yamato",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1179349.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25320": [
+        60,
+        "Pelle Koko",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11111597.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17773": [
+        60,
+        "L'Arc Bouse",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11717773.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14879": [
+        60,
+        "Hache Menchô",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10114879.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9471": [
+        60,
+        "Pelle Mechba",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1119471.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/5666": [
+        60,
+        "Arc du Roi des Borins",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1175666.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14666": [
+        59,
+        "Claymore aiguisée",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22314666.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21163": [
+        57,
+        "La Lance du Skouale Lancier",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25311062.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15040": [
+        56,
+        "Pelle à Gîs",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11115040.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30427": [
+        55,
+        "Marteau aigri",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11230427.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21164": [
+        55,
+        "La Skouache",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/10115177.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21131": [
+        55,
+        "La Pelle ta Moule",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11111055.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17757": [
+        55,
+        "Bâton de Grande Sagesse",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/25317757.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11176": [
+        55,
+        "Pelle Munster",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1119470.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9970": [
+        55,
+        "Pelle Pilon de Lumière",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1119970.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9470": [
+        55,
+        "Pelle Munster",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1119470.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9414": [
+        55,
+        "Boulgourde des Clairières",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1019414.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23644": [
+        54,
+        "Marteau de Sauvagerie",
+        "common",
+        "https://www.zenithwakfu.com/images/items/11417758.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25151": [
+        50,
+        "La Mouchonnette",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10115540.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23782": [
+        50,
+        "Marteau Roc",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11412445.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20406": [
+        50,
+        "Pelle du Pâti Noir",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11120406.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17659": [
+        50,
+        "La Fourbash",
+        "epic",
+        "https://www.zenithwakfu.com/images/items/1014053.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11614": [
+        50,
+        "Le Ritérium",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11711614.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9974": [
+        50,
+        "Marteau d'Eclat",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1149974.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9972": [
+        50,
+        "Coupeciel",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1019972.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9460": [
+        50,
+        "La Goultard",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/2239460.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9424": [
+        50,
+        "Marteau Outar",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1149424.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/3601": [
+        50,
+        "Arc Hidsad",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1173601.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25125": [
+        49,
+        "L'Ancre",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11125125.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23781": [
+        49,
+        "Lame du Craqueleur",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/2239442.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25164": [
+        48,
+        "Batte à Moogrr",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11415556.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25124": [
+        48,
+        "La Requinquée",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22325124.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23790": [
+        47,
+        "Pelle Teuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11112448.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23780": [
+        46,
+        "Lame du Craqueleur",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/2239442.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14040": [
+        46,
+        "Pelle Perpote",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11114040.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20791": [
+        45,
+        "Visse-boulon du Némotilus",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11420791.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11164": [
+        45,
+        "Pelle Melle",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1119467.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9968": [
+        45,
+        "Lame de Téhélien",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/2239968.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9467": [
+        45,
+        "Pelle Melle",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1119467.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9413": [
+        45,
+        "Mangeuse de Milicien",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1019413.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12448": [
+        44,
+        "Pelle Teuse",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11112448.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10287": [
+        43,
+        "Arc dit Kéha",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11710287.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25150": [
+        42,
+        "La Mouchonnette",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/10115540.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12445": [
+        42,
+        "Marteau Roc",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11412445.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20404": [
+        40,
+        "L'épée Toncle",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/22320404.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10581": [
+        40,
+        "Domacion",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/11110581.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20403": [
+        39,
+        "La Pelle du Lârge",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11120403.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9942": [
+        38,
+        "Lame du Craqueleur",
+        "common",
+        "https://www.zenithwakfu.com/images/items/2239442.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11219": [
+        35,
+        "Gourdin Dono",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/2539384.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9973": [
+        35,
+        "Gourdin des Cadavres",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/2539973.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9964": [
+        35,
+        "Arc de Moelle",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1179964.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9412": [
+        35,
+        "L'Astero",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1019412.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9384": [
+        35,
+        "Gourdin Dono",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/2539384.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/3924": [
+        35,
+        "Metallicarc",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1173924.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15574": [
+        33,
+        "La Gugulden Axe",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/10115574.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/7048": [
+        33,
+        "Marteau Piou",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/1147048.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9422": [
+        30,
+        "Masse Ibo-Nanga",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1149422.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/5899": [
+        30,
+        "Pelle Gicque",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1115899.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9383": [
+        25,
+        "Gourdin Taidin",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/2539383.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/7034": [
+        23,
+        "Hache Piou",
+        "common",
+        "https://www.zenithwakfu.com/images/items/1017034.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17660": [
+        20,
+        "La Klèmore",
+        "common",
+        "https://www.zenithwakfu.com/images/items/2232201.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10265": [
+        17,
+        "Sargasse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/11410265.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2676": [
+        17,
+        "Marteau Fou",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1142676.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/3599": [
+        16,
+        "Hache du Chef de Guerre",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1013599.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/6572": [
+        15,
+        "Pelle Tofu",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1116572.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9253": [
+        13,
+        "Boufmarteau Royal",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/1149253.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9948": [
+        10,
+        "L'Elagueuse de Pattes",
+        "common",
+        "https://www.zenithwakfu.com/images/items/1119948.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2673": [
+        10,
+        "Gourdin de Boisaille",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/2532673.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2027": [
+        7,
+        "Boufmarteau",
+        "common",
+        "https://www.zenithwakfu.com/images/items/1142027.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17605": [
+        2,
+        "Hache Eve",
+        "common",
+        "https://www.zenithwakfu.com/images/items/1019409.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13798": [
+        1,
+        "Epée Broyeuse",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/22313798.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12505": [
+        1,
+        "Lame Akwafé",
+        "common",
+        "https://www.zenithwakfu.com/images/items/22312505.webp"
+    ]
+}

@@ -1,0 +1,782 @@
+{
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29456": [
+        230,
+        "Dofushu",
+        "relic",
+        "https://www.zenithwakfu.com/images/items/64629456.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29448": [
+        230,
+        "Emblème de l'impur V",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64629420.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29447": [
+        230,
+        "Emblème de l'impur IV",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64629420.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29446": [
+        230,
+        "Emblème de l'impur III",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64629420.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29445": [
+        230,
+        "Emblème de l'impur II",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64629420.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29444": [
+        230,
+        "Emblème du vil V",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/64629419.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29443": [
+        230,
+        "Emblème du vil IV",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/64629419.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29441": [
+        230,
+        "Emblème du vil II",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/64629419.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29440": [
+        230,
+        "Emblème du malin V",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/64629418.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29439": [
+        230,
+        "Emblème du malin IV",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/64629418.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29438": [
+        230,
+        "Emblème du malin III",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/64629418.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29437": [
+        230,
+        "Emblème du malin II",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/64629418.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29420": [
+        230,
+        "Emblème de l'impur I",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64629420.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29419": [
+        230,
+        "Emblème du vil I",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/64629419.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29418": [
+        230,
+        "Emblème du malin I",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/64629418.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29397": [
+        215,
+        "Emblème 230",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29391": [
+        215,
+        "Emblème 215",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28417": [
+        215,
+        "Dofus Turquoise",
+        "relic",
+        "https://www.zenithwakfu.com/images/items/53128392.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28094": [
+        215,
+        "Emblème de mythril",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28093": [
+        215,
+        "Emblème d'acier",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28092": [
+        215,
+        "Emblème de bronze",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28091": [
+        215,
+        "Emblème d'ivoire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27926": [
+        200,
+        "Emblème du Mont Zinit IV",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64627923.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27925": [
+        200,
+        "Emblème du Mont Zinit III",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64627923.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27924": [
+        200,
+        "Emblème du Mont Zinit II",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64627923.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27923": [
+        200,
+        "Emblème du Mont Zinit I",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64627923.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24723": [
+        200,
+        "Emblème des Nécromanciens",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24722": [
+        200,
+        "Emblème Terrestre",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23999": [
+        200,
+        "Fragment de Dofus Pourpre",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64623999.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23998": [
+        200,
+        "Fragment de Dofus Turquoise",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64623998.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23997": [
+        200,
+        "Fragment de Dofus Ocre",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64623997.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23996": [
+        200,
+        "Fragment de Dofus Ivoire",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64623996.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23995": [
+        200,
+        "Fragment de Dofus Émeraude",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64623995.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23994": [
+        200,
+        "Fragment de Dofus Ébène",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64623994.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22126": [
+        200,
+        "Emblème 200",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20720": [
+        200,
+        "Dofus Prismatique",
+        "relic",
+        "https://www.zenithwakfu.com/images/items/51320720.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20707": [
+        185,
+        "Emblème 185",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20369": [
+        185,
+        "Foul de Fourberie",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64620281.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20368": [
+        185,
+        "Foul de Violence",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64620281.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20365": [
+        185,
+        "Foul de Persistance",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64620281.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20364": [
+        185,
+        "Foul de Distance",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64620281.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20363": [
+        185,
+        "Foul de Mêlée",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64620281.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20362": [
+        185,
+        "Foul de Destruction",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64620281.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20281": [
+        185,
+        "Foul de Précision",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64620281.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20706": [
+        170,
+        "Emblème 170",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19421": [
+        170,
+        "Emblème du Corbeau Blanc",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/48019421.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19420": [
+        170,
+        "Emblème du Corbeau Noir",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/48019420.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31366": [
+        155,
+        "Emblème cancéwigène",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64631366.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31365": [
+        155,
+        "Emblème sablonneux",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64631365.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31361": [
+        155,
+        "Dofus Ivoire",
+        "relic",
+        "https://www.zenithwakfu.com/images/items/64631361.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20705": [
+        155,
+        "Emblème 155",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18681": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18680": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18679": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18678": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18677": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18676": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18675": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18674": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18673": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18672": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18671": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18670": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18306": [
+        150,
+        "Emblème Shushu",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31364": [
+        140,
+        "Emblème belligéwant",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64631364.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31363": [
+        140,
+        "Emblème fruité",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64631363.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31362": [
+        140,
+        "Emblème maltial",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64631364.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24333": [
+        140,
+        "Emblème d'Emeraldin",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20704": [
+        140,
+        "Emblème 140",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20051": [
+        130,
+        "Emblème Sombre-Oubliés",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26572": [
+        125,
+        "Emblème de Lard du Combat",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26571": [
+        125,
+        "Emblème de Frigost II",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26564": [
+        125,
+        "Emblème de Taure",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26563": [
+        125,
+        "Emblème de Léviathon",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24332": [
+        125,
+        "Emblème de la Tour",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20703": [
+        125,
+        "Emblème 125",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27090": [
+        110,
+        "Emblème des Craqueleurs Chuchotés",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27089": [
+        110,
+        "Emblème des Chuchoteurs",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26570": [
+        110,
+        "Emblème de Frigost I",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26566": [
+        110,
+        "Emblème du Feu des Ténèbres",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26565": [
+        110,
+        "Emblème des Riktus",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20702": [
+        110,
+        "Emblème 110",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18776": [
+        100,
+        "Emblème du Pouvoir",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/4809727.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26569": [
+        95,
+        "Emblème de Sauvagerie",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26562": [
+        95,
+        "Emblème de Ken la Liche",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26561": [
+        95,
+        "Emblème des Chafers mineurs",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20701": [
+        95,
+        "Emblème 95",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17498": [
+        95,
+        "Insigne des Mérydes",
+        "relic",
+        "https://www.zenithwakfu.com/images/items/64624085.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19457": [
+        90,
+        "I.A.",
+        "mythic",
+        "https://www.zenithwakfu.com/images/items/51319457.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26573": [
+        80,
+        "Emblème de Bonta",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26568": [
+        80,
+        "Emblème des âmes éthérées",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20700": [
+        80,
+        "Emblème 80",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10423": [
+        70,
+        "Idole",
+        "common",
+        "https://www.zenithwakfu.com/images/items/26010423.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20699": [
+        65,
+        "Emblème 65",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26357": [
+        60,
+        "Emblème d'Ouginak",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26356": [
+        60,
+        "Emblème d'Huppermage",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19210": [
+        60,
+        "Emblème d'Eliotrope",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18432": [
+        60,
+        "Emblème du Zobal",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15271": [
+        60,
+        "Emblème du Sram",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15270": [
+        60,
+        "Emblème du Steamer",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15269": [
+        60,
+        "Emblème d'Osamodas",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15268": [
+        60,
+        "Emblème du Féca",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15267": [
+        60,
+        "Emblème du Pandawa",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15266": [
+        60,
+        "Emblème du Roublard",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15265": [
+        60,
+        "Emblème d'Enutrof",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15264": [
+        60,
+        "Emblème du Xelor",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15263": [
+        60,
+        "Emblème du Sadida",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15262": [
+        60,
+        "Emblème d'Eniripsa",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15261": [
+        60,
+        "Emblème d'Ecaflip",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15260": [
+        60,
+        "Emblème du Sacrieur",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15258": [
+        60,
+        "Emblème du Crâ",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15257": [
+        60,
+        "Emblème du Iop",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64619210.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26560": [
+        50,
+        "Emblème des Craqueleurs mineurs",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/34714271.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24314": [
+        50,
+        "Emblème de la Sève",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24313": [
+        50,
+        "Emblème des Noeuds",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24312": [
+        50,
+        "Emblème des Racines",
+        "legendary",
+        "https://www.zenithwakfu.com/images/items/64624312.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20698": [
+        50,
+        "Emblème 50",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20697": [
+        35,
+        "Emblème 35",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20696": [
+        20,
+        "Emblème 20",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20695": [
+        10,
+        "Emblème 10",
+        "rare",
+        "https://www.zenithwakfu.com/images/items/48012179.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17919": [
+        10,
+        "Médaille du mérite",
+        "common",
+        "https://www.zenithwakfu.com/images/items/51317919.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10429": [
+        1,
+        "Insigne de Maître Paysan",
+        "common",
+        "https://www.zenithwakfu.com/images/items/48010429.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10428": [
+        1,
+        "Insigne de Maître Trappeur",
+        "common",
+        "https://www.zenithwakfu.com/images/items/48010428.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10427": [
+        1,
+        "Insigne de Maître Pêcheur",
+        "common",
+        "https://www.zenithwakfu.com/images/items/48010427.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10426": [
+        1,
+        "Insigne de Maître Mineur",
+        "common",
+        "https://www.zenithwakfu.com/images/items/48010426.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10425": [
+        1,
+        "Insigne de Maître Herboriste",
+        "common",
+        "https://www.zenithwakfu.com/images/items/48010425.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10424": [
+        1,
+        "Insigne de Maître Forestier",
+        "common",
+        "https://www.zenithwakfu.com/images/items/48010424.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9728": [
+        1,
+        "Insigne de Soldat",
+        "common",
+        "https://www.zenithwakfu.com/images/items/5139728.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9706": [
+        1,
+        "Idole Stasis",
+        "common",
+        "https://www.zenithwakfu.com/images/items/4589706.webp"
+    ],
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9704": [
+        1,
+        "Fétiche Wakfu",
+        "common",
+        "https://www.zenithwakfu.com/images/items/4589704.webp"
+    ]
+}
