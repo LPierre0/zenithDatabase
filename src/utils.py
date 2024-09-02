@@ -28,7 +28,7 @@ def get_driver(url):
     user_data_dir = "/home/pierre/.config/google-chrome"
 
     chrome_options = Options()
-    chrome_options.add_argument("--headless")
+    #chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument(f"--user-data-dir={user_data_dir}")
@@ -82,7 +82,7 @@ def press_research(driver):
         )
         search_button.click()
         print("Bouton de recherche cliqué.")
-        sleep(10)
+        sleep(1)
     except TimeoutException:
         print("Le bouton de recherche n'est pas apparu dans le délai spécifié.")
 
@@ -146,7 +146,7 @@ def change_level_item(driver, lvl_min = 0, lvl_max = LVL_MAX):
     ajust_thumb(driver, second_thumb, nb_move_second, value_second, lvl_max)
 
     print(f"Final values: {first_thumb.get_attribute('aria-valuenow')}, {second_thumb.get_attribute('aria-valuenow')}")
-
+    sleep(1)
 
 
 def get_item_list_at_lvl(driver, type, lvl):
@@ -174,10 +174,14 @@ def get_all_items(driver, type):
     press_item_type(driver, type)
     dict_items = {}
     lvl = LVL_MAX
+    last_lvl = 0
     while lvl > 1:
+        last_lvl = lvl
         dict_to_treat, lvl = get_item_list_at_lvl(driver, type, lvl)
         dict_items.update(dict_to_treat) 
-        print(lvl)
+        if last_lvl == lvl:
+            break
+        
     press_item_type(driver, type)
     return dict_items
 
@@ -197,11 +201,11 @@ def test_slider():
     sleep(5)
     driver.quit()
 
-def main():
+def get_json_items():
     url = 'https://www.zenithwakfu.com/builder/f265c'
     driver = get_driver(url)
-    #list_type = ['Casque', 'Amulette', 'Anneau', 'Plastron', 'Dague', 'Armes 1 Main', 'Armes 2 Mains', 'Ceinture', 'Bottes', 'Cape', 'Bouclier', 'Emblème']
-    list_type = ['Amulette']
+    list_type = ['Casque', 'Amulette', 'Anneau', 'Plastron', 'Dague', 'Armes 1 Main', 'Armes 2 Mains', 'Ceinture', 'Bottes', 'Cape', 'Bouclier', 'Emblème']
+    list_type = ['Familier', 'Monture']
     for type in list_type:
         dict_item = get_all_items(driver, type)
         save_dict_to_json(dict_item, f'json/{type}.json')
@@ -209,5 +213,5 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    get_json_items()
     
