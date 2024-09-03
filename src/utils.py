@@ -163,6 +163,9 @@ def save_dict_to_json(dict, filename):
     with open (filename, 'w') as file:
         json.dump(dict, file, indent=4, ensure_ascii=False)
 
+def get_json(filename):
+    with open(filename, 'r') as file:
+        return json.load(file)
 
 def relink(url):
     if '../' in url:
