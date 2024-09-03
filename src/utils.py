@@ -24,11 +24,12 @@ def concat_list(list1, list2):
             list1.append(item)
     return list1
 
-def get_driver(url):
+def get_driver(url, headless = True):
     user_data_dir = "/home/pierre/.config/google-chrome"
 
     chrome_options = Options()
-    #chrome_options.add_argument("--headless")
+    if headless:
+        chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument(f"--user-data-dir={user_data_dir}")
@@ -45,7 +46,7 @@ def get_driver(url):
     return driver
 
 def get_html(driver):
-    sleep(1)
+    sleep(2)
     return driver.page_source
 
 def get_soup(html):
@@ -82,7 +83,7 @@ def press_research(driver):
         )
         search_button.click()
         print("Bouton de recherche cliqué.")
-        sleep(1)
+        sleep(2)
     except TimeoutException:
         print("Le bouton de recherche n'est pas apparu dans le délai spécifié.")
 
@@ -133,9 +134,17 @@ def change_level_item(driver, lvl_min = 0, lvl_max = LVL_MAX):
     second_thumb = WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.CSS_SELECTOR, '.MuiSlider-thumb[data-index="1"]'))
     )
+    
+    value_first = first_thumb.get_attribute('aria-valuenow')
+    value_second = second_thumb.get_attribute('aria-valuenow')
 
-    value_first = int(first_thumb.get_attribute('aria-valuenow'))
-    value_second = int(second_thumb.get_attribute('aria-valuenow'))
+    if value_first and value_second:
+        value_first = int(value_first)
+        value_second = int(value_second)
+    else:
+        print("Error: could not get values from thumbs.")
+        return
+
     print(f"Starting values: {value_first}, {value_second}, goal values: {lvl_min}, {lvl_max}")
     
 
@@ -149,47 +158,16 @@ def change_level_item(driver, lvl_min = 0, lvl_max = LVL_MAX):
     sleep(1)
 
 
-def get_item_list_at_lvl(driver, type, lvl):
-    change_level_item(driver, 0, lvl)
-    press_research(driver)
-    html = get_html(driver)
-    soup = get_soup(html)
-    block_items = soup.find_all('div', {"class": "equipment w-full sm:w-1/2-gap-1 md:w-1/2-gap-1 lg:w-full-gap-1 xl:w-1/2-gap-1 2xl:w-2/6-gap-1 flex flex-col"})
-    dict = {}
-    last_lvl = 0
-    for block_item in block_items:
-        lvl = block_item.find('div', {"class" : "item-lvl"}).text
-        lvl = lvl.replace('Niv. ', '')
-        lvl = int(lvl)
-        link_to_wakfu = block_item.find('a', {"class" : "item-link"})['href']
-        item_name, rarity = get_item_name_and_rarity(block_item)
-        img = block_item.find('img', {"class" : "inner-image"})['src']
-        img = img.replace('..', 'https://www.zenithwakfu.com')
-        if link_to_wakfu not in dict:
-            dict[link_to_wakfu] = (lvl, item_name, rarity, img)
-            last_lvl = lvl
-    return dict, last_lvl
-
-def get_all_items(driver, type):
-    press_item_type(driver, type)
-    dict_items = {}
-    lvl = LVL_MAX
-    last_lvl = 0
-    while lvl > 1:
-        last_lvl = lvl
-        dict_to_treat, lvl = get_item_list_at_lvl(driver, type, lvl)
-        dict_items.update(dict_to_treat) 
-        if last_lvl == lvl:
-            break
-        
-    press_item_type(driver, type)
-    return dict_items
-
 
 def save_dict_to_json(dict, filename):
     with open (filename, 'w') as file:
         json.dump(dict, file, indent=4, ensure_ascii=False)
 
+
+def relink(url):
+    if '../' in url:
+        url = url.replace('..', '')
+    return f"https://www.zenithwakfu.com{url}"
 
 def test_slider():
     driver = get_driver('https://www.zenithwakfu.com/builder/f265c')
@@ -201,17 +179,4 @@ def test_slider():
     sleep(5)
     driver.quit()
 
-def get_json_items():
-    url = 'https://www.zenithwakfu.com/builder/f265c'
-    driver = get_driver(url)
-    list_type = ['Casque', 'Amulette', 'Anneau', 'Plastron', 'Dague', 'Armes 1 Main', 'Armes 2 Mains', 'Ceinture', 'Bottes', 'Cape', 'Bouclier', 'Emblème']
-    list_type = ['Familier', 'Monture']
-    for type in list_type:
-        dict_item = get_all_items(driver, type)
-        save_dict_to_json(dict_item, f'json/{type}.json')
 
-
-
-if __name__ == '__main__':
-    get_json_items()
-    
