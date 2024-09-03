@@ -14,6 +14,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.keys import Keys
 import re
+import os
 import lxml
 
 LVL_MAX = 230
@@ -26,6 +27,8 @@ def concat_list(list1, list2):
 
 def get_driver(url, headless = True):
     user_data_dir = "/home/pierre/.config/google-chrome"
+    if not os.path.exists(user_data_dir):
+        user_data_dir = "/root/.config/google-chrome"
 
     chrome_options = Options()
     if headless:
