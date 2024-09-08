@@ -69,25 +69,31 @@ def get_all_build_of_page(soup, data_item_key):
         dico[link] = get_build(build, data_item_key)
     return dico
 
-def get_all_build():
+
+def get_nb_pages():
     driver = get_driver("https://www.zenithwakfu.com/builder?page=1")
     html = get_html(driver)
     soup = get_soup(html)
     pages = soup.find_all("button", {"class" : "MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-rounded MuiPaginationItem-textSecondary"})
-    nbPage = 0
+    nb_pages = 0
     for page in pages:
         if page.text == '':
             continue
         else:
-            nbPage = int(page.text)
-    if nbPage == 0:
+            nb_pages = int(page.text)
+
+    driver.quit()
+    return nb_pages
+
+def get_all_build():
+    nb_pages = get_nb_pages()
+    if nb_pages == 0:
         print("No page found.")
         return
     
-    driver.quit()
     dico_all = {}
     data_item_key = get_json('json/key_item.json')
-    for i in range (1, nbPage + 1):
+    for i in range (1, nb_pages + 1):
         print(f"Treating page {i}")
         url = f"https://www.zenithwakfu.com/builder?page={i}"
         driver = get_driver(url)
@@ -100,3 +106,4 @@ def get_all_build():
 
 if __name__ == "__main__":
     get_all_build()
+
