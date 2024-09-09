@@ -26,6 +26,8 @@ def concat_list(list1, list2):
     return list1
 
 def get_driver(url, headless = True):
+    
+    
     user_data_dir = "/home/pierre/.config/google-chrome"
     if not os.path.exists(user_data_dir):
         user_data_dir = "/root/.config/google-chrome"
@@ -49,7 +51,6 @@ def get_driver(url, headless = True):
     return driver
 
 def get_html(driver):
-    sleep(2)
     return driver.page_source
 
 def get_soup(html):
@@ -163,6 +164,7 @@ def change_level_item(driver, lvl_min = 0, lvl_max = LVL_MAX):
 
 
 def save_dict_to_json(dict, filename):
+    print(f"Saving dict to {filename}")
     with open (filename, 'w') as file:
         json.dump(dict, file, indent=4, ensure_ascii=False)
 
@@ -186,3 +188,13 @@ def test_slider():
     driver.quit()
 
 
+def actualize_temp_state(number_of_page_scraped):
+    temp_file = "temp_state.txt"
+    with open(temp_file, 'w') as file:
+        file.write(str(number_of_page_scraped))
+
+def actualize_error_file(page_number):
+    error_file = "error_pages.txt"
+    with open(error_file, 'a') as file:
+        file.write(str(page_number) + '\n')
+        

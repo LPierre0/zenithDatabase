@@ -1,5 +1,6 @@
 from utils import *
 import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def get_rarity_item(soup):
     classes = soup.get('class')
@@ -59,7 +60,7 @@ def get_build(soup, data_item_key):
     return dico
 
 
-def get_all_build_of_page(soup, data_item_key):
+def get_all_build_of_page(soup, data_item_key, date_fixed = None):
     block_builds = soup.find('div', {"class" : "zn-inner-block"})
 
     builds = block_builds.find_all('a')
@@ -67,11 +68,31 @@ def get_all_build_of_page(soup, data_item_key):
     for build in builds:
         link = relink(build['href'])
         dico[link] = get_build(build, data_item_key)
-    return dico
+
+
+        if dico[link]['date'] == datetime.date.today().isoformat():
+            print("Today's build found, didn't get it.")
+            dico.pop(link)
+            continue
+
+        elif dico[link]['date'] < datetime.date(2023, 10, 3).isoformat():
+            print("Build too old, after items update, didn't get it.")
+            dico.pop(link)
+            return dico, True
+        
+        elif date_fixed is not None and dico[link]['date'] < date_fixed:
+                print("Build too old for the date fixed, didn't get it.")
+                dico.pop(link)
+                return dico, True
+        else :
+            print(f"Build {dico[link]['name']} found.")
+            
+    return dico, False
 
 
 def get_nb_pages():
     driver = get_driver("https://www.zenithwakfu.com/builder?page=1")
+    sleep(2)
     html = get_html(driver)
     soup = get_soup(html)
     pages = soup.find_all("button", {"class" : "MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-rounded MuiPaginationItem-textSecondary"})
@@ -85,24 +106,82 @@ def get_nb_pages():
     driver.quit()
     return nb_pages
 
+
+def process_page(i, data_item_key):
+    print(f"Treating page {i}")
+    url = f"https://www.zenithwakfu.com/builder?page={i}"
+    driver = get_driver(url)
+    sleep(3)
+    html = get_html(driver)
+    soup = get_soup(html)
+    dico, end_stade = get_all_build_of_page(soup, data_item_key)
+    driver.quit()
+    return dico, end_stade
+
 def get_all_build():
     nb_pages = get_nb_pages()
     if nb_pages == 0:
         print("No page found.")
         return
+    print("Number of pages found: ", nb_pages)
     
+    dico_all = {}
+    data_item_key = get_json('json/key_item.json')
+    nb_lines_treated = 1
+    if os.path.exists('json/builds.json'):
+        dico_all = get_json('json/builds.json')
+    if os.path.exists("temp_state.txt"):
+        with open("temp_state.txt", 'r') as file:
+            temp = file.read()
+            if temp:
+                nb_lines_treated = int(temp)
+                if nb_lines_treated > 0:
+                    nb_pages = nb_pages - nb_lines_treated
+                    print(f"Temp state found, {nb_lines_treated} page already scraped.")
+                    print(f"Remaining pages to scrape: {nb_pages}")
+
+    for i in range (nb_lines_treated, nb_pages + 1):
+        try : 
+            dico, end_stade = process_page(i, data_item_key)
+            dico_all.update(dico)
+            if i % 1000 == 0:
+                save_dict_to_json(dico_all, f'json/builds.json')
+                actualize_temp_state(i)
+        except:
+            print(f"Error on page {i}")
+            actualize_error_file(i)
+            continue
+        
+    save_dict_to_json(dico_all, f'json/builds.json')
+
+def get_yesterday_date():
+    today = datetime.date.today()
+    yesterday = today - datetime.timedelta(days = 1)
+    return yesterday.isoformat()
+
+def get_all_build_from_date(date_fixed):
+    nb_pages = get_nb_pages()
+    if nb_pages == 0:
+        print("No page found.")
+        return
+    print(date_fixed)
     dico_all = {}
     data_item_key = get_json('json/key_item.json')
     for i in range (1, nb_pages + 1):
         print(f"Treating page {i}")
         url = f"https://www.zenithwakfu.com/builder?page={i}"
         driver = get_driver(url)
+        sleep(3)
         html = get_html(driver)
         soup = get_soup(html)
-        dico = get_all_build_of_page(soup, data_item_key)
+        dico, end_state = get_all_build_of_page(soup, data_item_key, date_fixed)
         dico_all.update(dico)
         driver.quit()
-    save_dict_to_json(dico_all, f'json/builds.json')
+        if end_state:
+            break
+    dico_actu = get_json('json/builds.json')
+    dico_actu.update(dico_all)
+    save_dict_to_json(dico_actu, f'json/builds.json')
 
 if __name__ == "__main__":
     get_all_build()
