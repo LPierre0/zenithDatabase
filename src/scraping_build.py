@@ -184,5 +184,5 @@ def get_all_build_from_date(date_fixed):
     save_dict_to_json(dico_actu, f'json/builds.json')
 
 if __name__ == "__main__":
-    get_all_build()
+    get_all_build_from_date(get_yesterday_date())
 
