@@ -1,5 +1,5 @@
 from utils import *
-from sql.sql_insert import *
+from sql.sql_insert import add_build_dictionnary
 import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
