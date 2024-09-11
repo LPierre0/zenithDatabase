@@ -1,4 +1,5 @@
 from utils import *
+from sql.sql_insert import *
 import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -179,10 +180,7 @@ def get_all_build_from_date(date_fixed):
         driver.quit()
         if end_state:
             break
-    dico_actu = get_json('json/builds.json')
-    dico_actu.update(dico_all)
-    save_dict_to_json(dico_actu, f'json/builds.json')
+    add_build_dictionnary(dico_all)
 
 if __name__ == "__main__":
     get_all_build_from_date(get_yesterday_date())
-
