@@ -5,7 +5,7 @@ def get_item_list_at_lvl(driver, type, lvl, dict_key_item):
     change_level_item(driver, 0, lvl)
     press_research(driver)
     html = get_html(driver)
-    soup = get_soup(html)
+    soup = get_soup_from_driver(html)
     block_items = soup.find_all('div', {"class": "equipment w-full sm:w-1/2-gap-1 md:w-1/2-gap-1 lg:w-full-gap-1 xl:w-1/2-gap-1 2xl:w-2/6-gap-1 flex flex-col"})
     dict_stat_item = {}
 

@@ -57,7 +57,6 @@ def get_item_recipe(soup):
     for block_recipe in blocks_recipe:
 
         title = block_recipe.find("div", {"class": "ak-panel-title"}).text.strip()
-        print(title)
 
         if title is None:
             return "No recipe", "not use for craft"

@@ -95,7 +95,7 @@ def get_nb_pages():
     driver = get_driver("https://www.zenithwakfu.com/builder?page=1")
     sleep(2)
     html = get_html(driver)
-    soup = get_soup(html)
+    soup = get_soup_from_driver(html)
     pages = soup.find_all("button", {"class" : "MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-rounded MuiPaginationItem-textSecondary"})
     nb_pages = 0
     for page in pages:
@@ -114,7 +114,7 @@ def process_page(i, data_item_key):
     driver = get_driver(url)
     sleep(3)
     html = get_html(driver)
-    soup = get_soup(html)
+    soup = get_soup_from_driver(html)
     dico, end_stade = get_all_build_of_page(soup, data_item_key)
     driver.quit()
     return dico, end_stade
@@ -174,7 +174,7 @@ def get_all_build_from_date(date_fixed):
         driver = get_driver(url)
         sleep(3)
         html = get_html(driver)
-        soup = get_soup(html)
+        soup = get_soup_from_driver(html)
         dico, end_state = get_all_build_of_page(soup, data_item_key, date_fixed)
         dico_all.update(dico)
         driver.quit()
