@@ -1,11 +1,11 @@
 from utils import * 
-from bs4 import BeautifulSoup
-
 
 def get_nb_pages_wakfu(link_page):
     soup = get_soup(link_page)
 
     soup = soup.find("ul", {"class": "ak-pagination pagination ak-ajaxloader"})
+    if soup is None:
+        return 1
     next = False
     for li in soup.find_all("li"):
         text = li.text
@@ -17,7 +17,10 @@ def get_nb_pages_wakfu(link_page):
     return 
 
 def get_type_item(soup):
-    type_item = soup.find("div", {"class": "ak-encyclo-detail-type col-xs-6"}).text.strip()
+    type_item = soup.find("div", {"class": "ak-encyclo-detail-type col-xs-6"})
+    if type_item is None:
+        return "No type"
+    type_item = type_item.text.strip()
     type_item = type_item.replace("Type :", "")
     if 'Arme' in type_item:
         type_item = type_item.replace('{[~1]?s:}', 's')
@@ -34,12 +37,18 @@ def get_item_stats(soup):
     else:
         all_stats = soup.find("div", {"class": "ak-container ak-content-list ak-displaymode-col"})
 
+    if all_stats is None:
+        return "No stats"
+
     carac_ligne = all_stats.find_all("div", {"class": "ak-list-element"})
     if carac_ligne is None:
         return
     stats = {}
     for carac_block in carac_ligne:
-        carac = carac_block.find("div", {"class": "ak-content"}).text.strip()
+        carac = carac_block.find("div", {"class": "ak-content"})
+        if carac is None:
+            continue
+        carac = carac.text.strip()
         carac = carac.split(" ")
         quantity = carac[0]
         carac = " ".join(carac[1:])
@@ -67,7 +76,11 @@ def get_item_recipe(soup):
                 continue
 
             for element in elements_recipe:
-                quantity = element.find("div", {"class": "ak-front"}).text.strip()
+                quantity = element.find("div", {"class": "ak-front"})
+                if quantity is None:
+                    quantity = 1
+                else:
+                    quantity = quantity.text
                 quantity = quantity.replace("x", "")
                 quantity = quantity.strip()
                 item = f"https://www.wakfu.com{element.find("a")['href']}"
@@ -92,6 +105,8 @@ def get_item_recipe(soup):
 
 def get_item_drop(soup):
     blocks_drop = soup.find_all("div", {"class": "ak-container ak-panel"})
+    if blocks_drop is None:
+        return "No drop"
     drop = None
     for block in blocks_drop:
         panel_title = block.find("div", {"class": "ak-panel-title"})
@@ -108,13 +123,18 @@ def get_item_drop(soup):
 
     if drop is None:
         return "No drop"
+    
     dict_drop = {}
     for block in drop:
         link = block.find("a")
         if link is None:
             continue
         url = f"https://www.wakfu.com{link['href']}"
-        rate = block.find("div", {"class": "ak-aside"}).text
+        rate = block.find("div", {"class": "ak-aside"})
+        if rate is None:
+            rate = "Unknown"
+        else:
+            rate = rate.text
         dict_drop[url] = rate
     return dict_drop
 

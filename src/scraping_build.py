@@ -172,7 +172,7 @@ def get_all_build_from_date(date_fixed):
         print(f"Treating page {i}")
         url = f"https://www.zenithwakfu.com/builder?page={i}"
         driver = get_driver(url)
-        sleep(3)
+        sleep(30)
         html = get_html(driver)
         soup = get_soup_from_driver(html)
         dico, end_state = get_all_build_of_page(soup, data_item_key, date_fixed)
