@@ -59,7 +59,7 @@ def add_build_dictionnary(build_dict):
 
         except sqlite3.Error as e:
             print(f"An error occurred: {e} with the build {link}")
-            break
+            continue
     conn.close()
     return
 
