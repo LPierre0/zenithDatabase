@@ -74,8 +74,13 @@ def get_driver(url, headless = True, max_retry = 5, backoff_factor = 10):
             sleep(retry * backoff_factor)
     return driver
 
-def get_html(driver):
-    return driver.page_source
+def get_html(driver, max_retry = 5, backoff_factor = 10):
+    for retry in range(max_retry):
+        try:
+            return driver.page_source
+        except Exception as e:
+            print(f"Error: {e} try {retry + 1}/{max_retry}")
+            sleep(retry * backoff_factor)
 
 def get_soup(url):
     headers = {
