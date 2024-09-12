@@ -176,7 +176,7 @@ def get_all_build_from_date(date_fixed):
                 driver = get_driver(url)
                 sleep(1)
                 html = get_html(driver)
-            except
+            except : 
                 print(f"Error on page {i}")
                 sleep(5 * retry)
                 driver.quit()
