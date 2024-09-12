@@ -171,9 +171,15 @@ def get_all_build_from_date(date_fixed):
     for i in range (1, nb_pages + 1):
         print(f"Treating page {i}")
         url = f"https://www.zenithwakfu.com/builder?page={i}"
-        driver = get_driver(url)
-        sleep(1)
-        html = get_html(driver)
+        for retry in range(5):
+            try:
+                driver = get_driver(url)
+                sleep(1)
+                html = get_html(driver)
+            except
+                print(f"Error on page {i}")
+                sleep(5 * retry)
+                driver.quit()
         soup = get_soup_from_driver(html)
         dico, end_state = get_all_build_of_page(soup, data_item_key, date_fixed)
         dico_all.update(dico)
