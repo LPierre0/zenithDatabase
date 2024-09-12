@@ -43,7 +43,7 @@ def concat_list(list1, list2):
             list1.append(item)
     return list1
 
-def get_driver(url, headless = True):
+def get_driver(url, headless = True, max_retry = 5, backoff_factor = 10):
     
     
     user_data_dir = "/home/pierre/.config/google-chrome"
@@ -61,11 +61,17 @@ def get_driver(url, headless = True):
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
     driver.maximize_window()
-    driver.get(url)
-    driver.delete_all_cookies()
-    driver.execute_script("window.localStorage.clear();")
-    driver.execute_script("window.sessionStorage.clear();")
-    driver.implicitly_wait(10) 
+    for retry in range(max_retry):
+        try:
+            driver.get(url)
+            driver.delete_all_cookies()
+            driver.execute_script("window.localStorage.clear();")
+            driver.execute_script("window.sessionStorage.clear();")
+            driver.implicitly_wait(10) 
+            return driver
+        except Exception as e:
+            print(f"Error: {e} try {retry + 1}/{max_retry}")
+            sleep(retry * backoff_factor)
     return driver
 
 def get_html(driver):

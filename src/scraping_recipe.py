@@ -24,6 +24,8 @@ def get_type_item(soup):
     type_item = type_item.replace("Type :", "")
     if 'Arme' in type_item:
         type_item = type_item.replace('{[~1]?s:}', 's')
+    elif "Anneau" in type_item:
+        type_item = type_item.replace('{[~1]?x:}', '')
     else:
         type_item = type_item.replace('{[~1]?s:}', '')
     
@@ -153,10 +155,11 @@ def get_all_items_information():
     items = {}
     for link in links:
         try:
-            sleep(0.5)
+            sleep(3)
             link = link.strip()
             print(f"Getting information for {link}")
             type_item, stats, recipe, use_for_craft, drop = get_item_information(link)
+            print("Type item: ", type_item)
             if type_item not in items:
                 items[type_item] = {}
             items[type_item][link] = (stats, recipe, use_for_craft, drop)
