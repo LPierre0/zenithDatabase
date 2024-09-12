@@ -58,6 +58,7 @@ def get_driver(url, headless = True, max_retry = 5, backoff_factor = 10):
     chrome_options.add_argument(f"--user-data-dir={user_data_dir}")
     chrome_options.add_argument("--profile-directory=Default")
 
+
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
     driver.maximize_window()
@@ -72,6 +73,9 @@ def get_driver(url, headless = True, max_retry = 5, backoff_factor = 10):
         except Exception as e:
             print(f"Error: {e} try {retry + 1}/{max_retry}")
             sleep(retry * backoff_factor)
+            if retry == max_retry - 1:
+                print("Too many retries, stopping.")
+                raise
     return driver
 
 def get_html(driver, max_retry = 5, backoff_factor = 10):

@@ -166,6 +166,7 @@ def get_all_build_from_date(date_fixed):
         print("No page found.")
         return
     print(date_fixed)
+
     dico_all = {}
     data_item_key = get_json('json/key_item.json')
     for i in range (1, nb_pages + 1):
@@ -176,11 +177,16 @@ def get_all_build_from_date(date_fixed):
                 driver = get_driver(url)
                 sleep(1)
                 html = get_html(driver)
+                soup = get_soup_from_driver(html)
+                break
+
             except Exception as e: 
                 print(f"Error {e} on page {i}")
                 sleep(5 * retry)
                 driver.quit()
-        soup = get_soup_from_driver(html)
+                if retry == 4:
+                    print("Too many retries, stopping.")
+                    raise
         dico, end_state = get_all_build_of_page(soup, data_item_key, date_fixed)
         dico_all.update(dico)
         driver.quit()
