@@ -177,7 +177,7 @@ def get_all_build_from_date(date_fixed):
                 sleep(1)
                 html = get_html(driver)
             except : 
-                print(f"Error on page {i}")
+                print(f"Error {e} on page {i}")
                 sleep(5 * retry)
                 driver.quit()
         soup = get_soup_from_driver(html)
