@@ -6,7 +6,9 @@ def get_item_list_at_lvl(driver, type, lvl, dict_key_item):
     press_research(driver)
     html = get_html(driver)
     soup = get_soup_from_driver(html)
-    block_items = soup.find_all('div', {"class": "equipment w-full sm:w-1/2-gap-1 md:w-1/2-gap-1 lg:w-full-gap-1 xl:w-1/2-gap-1 2xl:w-2/6-gap-1 flex flex-col"})
+    block_items = soup.find_all('div', {"class": "equipment"})
+    
+    block_items 
     dict_stat_item = {}
 
     last_lvl = 0
@@ -45,15 +47,16 @@ def get_all_items(driver, type):
 
 def get_json_items():
     url = 'https://www.zenithwakfu.com/builder/f265c'
-    driver = get_driver(url)
+    driver = get_driver(url, 1)
     list_type = ['Casque', 'Amulette', 'Anneau', 'Plastron', 'Dague', 'Epaulettes', 'Armes 1 Main', 'Armes 2 Mains', 'Ceinture', 'Bottes', 'Cape', 'Bouclier', 'Emblème']
     dict_key_item = {}
     for type in list_type:
         dict_item, dict_key_item_to_treat = get_all_items(driver, type)
         dict_key_item.update(dict_key_item_to_treat)
-        save_dict_to_json(dict_item, f'json/{type}.json')
-    save_dict_to_json(dict_key_item, 'json/key_item.json')
+        save_dict_to_json(dict_item, f'json2/{type}.json')
+    save_dict_to_json(dict_key_item, 'json2/key_item.json')
 
 
 if __name__ == '__main__':
     get_json_items()
+

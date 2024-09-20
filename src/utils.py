@@ -37,16 +37,35 @@ user_agents = [
 ]
 
 
+list_profile = [
+    "google-chrome-profile1",
+    "google-chrome-profile2",
+    "google-chrome-profile3",
+    "google-chrome-profile4",
+    "google-chrome-profile5",
+    "google-chrome-profile6",
+    "google-chrome-profile7",
+    "google-chrome-profile8",
+    "google-chrome-profile9",
+    "google-chrome-profile10",
+    "google-chrome-profile11",
+    "google-chrome-profile12",
+    "google-chrome-profile13",
+    "google-chrome-profile14",
+    "google-chrome-profile15",
+    "google-chrome-profile16"
+]
+
 def concat_list(list1, list2):
     for item in list2:
         if item not in list1:
             list1.append(item)
     return list1
 
-def get_driver(url, headless = True, max_retry = 5, backoff_factor = 10):
+def get_driver(url, chrome_profile, headless = True, max_retry = 5, backoff_factor = 10):
     
-    
-    user_data_dir = "/home/pierre/.config/google-chrome"
+    global list_profile
+    user_data_dir = f"/home/pierre/Documents/Scraping/chrome-profile/{list_profile[chrome_profile - 1]}"
     if not os.path.exists(user_data_dir):
         user_data_dir = "/root/.config/google-chrome"
 
@@ -216,7 +235,7 @@ def relink(url):
     return f"https://www.zenithwakfu.com{url}"
 
 def test_slider():
-    driver = get_driver('https://www.zenithwakfu.com/builder/f265c')
+    driver = get_driver('https://www.zenithwakfu.com/builder/f265c', 1)
     change_level_item(driver, 0, 230)
     change_level_item(driver, 0, 100)
     change_level_item(driver, 0, 50)

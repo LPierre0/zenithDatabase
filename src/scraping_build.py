@@ -2,6 +2,7 @@ from utils import *
 from sql.sql_insert import add_build_dictionnary
 import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import multiprocessing
 
 def get_rarity_item(soup):
     classes = soup.get('class')
@@ -61,7 +62,7 @@ def get_build(soup, data_item_key):
     return dico
 
 
-def get_all_build_of_page(soup, data_item_key, date_fixed = None):
+def get_all_build_of_page(soup, data_item_key, date_fixed = None, debug = False):
     block_builds = soup.find('div', {"class" : "zn-inner-block"})
 
     builds = block_builds.find_all('a')
@@ -72,27 +73,25 @@ def get_all_build_of_page(soup, data_item_key, date_fixed = None):
 
 
         if dico[link]['date'] == datetime.date.today().isoformat():
-            print("Today's build found, didn't get it.")
+            if debug:
+                print("Today's build found, didn't get it.")
             dico.pop(link)
             continue
-
-        elif dico[link]['date'] < datetime.date(2023, 10, 3).isoformat():
-            print("Build too old, after items update, didn't get it.")
-            dico.pop(link)
-            return dico, True
         
         elif date_fixed is not None and dico[link]['date'] < date_fixed:
+            if debug:
                 print("Build too old for the date fixed, didn't get it.")
-                dico.pop(link)
-                return dico, True
+            dico.pop(link)
+            return dico, True
         else :
-            print(f"Build {dico[link]['name']} found.")
+            if debug: 
+                print(f"Build {dico[link]['name']} found.")
             
     return dico, False
 
 
 def get_nb_pages():
-    driver = get_driver("https://www.zenithwakfu.com/builder?page=1")
+    driver = get_driver("https://www.zenithwakfu.com/builder?page=1", 1)
     sleep(2)
     html = get_html(driver)
     soup = get_soup_from_driver(html)
@@ -108,18 +107,39 @@ def get_nb_pages():
     return nb_pages
 
 
-def process_page(i, data_item_key):
-    print(f"Treating page {i}")
-    url = f"https://www.zenithwakfu.com/builder?page={i}"
-    driver = get_driver(url)
+def process_page(url, data_item_key, driver):
+    print(f"Treating page {url}")
+    driver.get(url)
     sleep(3)
     html = get_html(driver)
     soup = get_soup_from_driver(html)
     dico, end_stade = get_all_build_of_page(soup, data_item_key)
-    driver.quit()
     return dico, end_stade
 
+def get_actual_state():
+    if os.path.exists("temp_state.txt"):
+        with open("temp_state.txt", 'r') as file:
+            temp = file.read()
+            if temp:
+                nb_lines_treated = int(temp)
+                if nb_lines_treated > 0:
+                    nb_pages = nb_pages - nb_lines_treated
+                    print(f"Temp state found, {nb_lines_treated} page already scraped.")
+                    print(f"Remaining pages to scrape: {nb_pages}")
+                    return nb_lines_treated
+    return 0
+
+
+
+def init_driver(max_worker):
+    list_driver = []
+    for i in range (1, max_worker + 1):
+        driver = get_driver("https://www.zenithwakfu.com/builder?page=1", i)
+        list_driver.append(driver)
+    return list_driver
+
 def get_all_build():
+    save_interval = 50
     nb_pages = get_nb_pages()
     if nb_pages == 0:
         print("No page found.")
@@ -131,29 +151,42 @@ def get_all_build():
     nb_lines_treated = 1
     if os.path.exists('json/builds.json'):
         dico_all = get_json('json/builds.json')
-    if os.path.exists("temp_state.txt"):
-        with open("temp_state.txt", 'r') as file:
-            temp = file.read()
-            if temp:
-                nb_lines_treated = int(temp)
-                if nb_lines_treated > 0:
-                    nb_pages = nb_pages - nb_lines_treated
-                    print(f"Temp state found, {nb_lines_treated} page already scraped.")
-                    print(f"Remaining pages to scrape: {nb_pages}")
+        nb_lines_treated = get_actual_state()
+    
 
-    for i in range (nb_lines_treated, nb_pages + 1):
-        try : 
-            dico, end_stade = process_page(i, data_item_key)
-            dico_all.update(dico)
-            if i % 1000 == 0:
-                save_dict_to_json(dico_all, f'json/builds.json')
-                actualize_temp_state(i)
-        except:
-            print(f"Error on page {i}")
-            actualize_error_file(i)
-            continue
-        
-    save_dict_to_json(dico_all, f'json/builds.json')
+    urls = [f"https://www.zenithwakfu.com/builder?page={i}" for i in range(nb_lines_treated, nb_pages + 1)]
+
+    num_workers = 16
+    list_driver = init_driver(max_worker=num_workers)
+    with ThreadPoolExecutor(max_workers=num_workers) as executor:
+        futures = []
+
+        for i, (url) in enumerate(urls[nb_lines_treated:], start=0):
+            # Calculate worker_id, ensuring it wraps between 1 and num_workers (16)
+            worker_id = (i % num_workers) + 1
+            print(f"Assigned worker_id: {worker_id} for URL {url}")
+            
+            # Submit the task using the driver corresponding to worker_id
+            futures.append(executor.submit(process_page, url, data_item_key, list_driver[worker_id - 1]))
+
+        i = 0
+        for future in as_completed(futures):
+            i += 1
+            try:
+                dico, end_state = future.result()
+                dico_all.update(dico)
+
+                if i % save_interval == 0:
+                    save_dict_to_json(dico_all, f'json/builds.json')
+                    actualize_temp_state(i)
+                    
+                if end_state:
+                    break
+            except Exception as e:
+                print(f"Error {e} on page {i}")
+                actualize_error_file(i)
+                continue
+
 
 def get_yesterday_date():
     today = datetime.date.today()
@@ -174,7 +207,7 @@ def get_all_build_from_date(date_fixed):
         url = f"https://www.zenithwakfu.com/builder?page={i}"
         for retry in range(5):
             try:
-                driver = get_driver(url)
+                driver = get_driver(url, 1)
                 sleep(1)
                 html = get_html(driver)
                 soup = get_soup_from_driver(html)
@@ -195,4 +228,4 @@ def get_all_build_from_date(date_fixed):
     add_build_dictionnary(dico_all)
 
 if __name__ == "__main__":
-    get_all_build_from_date(get_yesterday_date())
+    get_all_build()
