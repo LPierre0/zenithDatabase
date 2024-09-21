@@ -226,4 +226,4 @@ def get_all_build_from_date(date_fixed):
     add_build_dictionnary(dico_all)
 
 if __name__ == "__main__":
-    get_all_build()
+    get_all_build_from_date(datetime.date(2019, 3, 26).isoformat())
