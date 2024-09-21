@@ -3,7 +3,7 @@ from sql.sql_insert import add_build_dictionnary
 import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import multiprocessing
-
+import time
 def get_rarity_item(soup):
     classes = soup.get('class')
     for classe in classes:
@@ -140,12 +140,11 @@ def init_driver(max_worker):
 
 def get_all_build():
     nb_pages = get_nb_pages()
-    nb_pages = 2000
     if nb_pages == 0:
         print("No page found.")
         return
     print("Number of pages found: ", nb_pages)
-    
+    start = time.time()
     dico_all = {}
     data_item_key = get_json('json/key_item.json')
     nb_lines_treated = 1
@@ -173,6 +172,7 @@ def get_all_build():
         for future in as_completed(futures):
             i += 1
             try:
+                print(f"Estimated time remaining: {((((time.time() - start) / i) * (len(futures) - i)) / 60):.2f} minutes")
                 dico, end_state = future.result()
                 dico_all.update(dico)
 
