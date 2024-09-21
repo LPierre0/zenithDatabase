@@ -139,8 +139,8 @@ def init_driver(max_worker):
     return list_driver
 
 def get_all_build():
-    save_interval = 50
     nb_pages = get_nb_pages()
+    nb_pages = 2000
     if nb_pages == 0:
         print("No page found.")
         return
@@ -156,7 +156,7 @@ def get_all_build():
 
     urls = [f"https://www.zenithwakfu.com/builder?page={i}" for i in range(nb_lines_treated, nb_pages + 1)]
 
-    num_workers = 16
+    num_workers = 1
     list_driver = init_driver(max_worker=num_workers)
     with ThreadPoolExecutor(max_workers=num_workers) as executor:
         futures = []
@@ -176,9 +176,6 @@ def get_all_build():
                 dico, end_state = future.result()
                 dico_all.update(dico)
 
-                if i % save_interval == 0:
-                    save_dict_to_json(dico_all, f'json/builds.json')
-                    actualize_temp_state(i)
                     
                 if end_state:
                     break
@@ -186,6 +183,7 @@ def get_all_build():
                 print(f"Error {e} on page {i}")
                 actualize_error_file(i)
                 continue
+    save_dict_to_json(dico_all, f'json/builds.json')
 
 
 def get_yesterday_date():

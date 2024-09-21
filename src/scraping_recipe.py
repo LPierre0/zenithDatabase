@@ -9,6 +9,7 @@ dict_bouclier = get_json("json/Bouclier.json")
 dict_dague = get_json("json/Dague.json")
 
 def get_nb_pages_wakfu(link_page):
+    # Return the number of pages in the wakfu amures or weapons
     soup = get_soup(link_page)
 
     soup = soup.find("ul", {"class": "ak-pagination pagination ak-ajaxloader"})
@@ -25,6 +26,7 @@ def get_nb_pages_wakfu(link_page):
     return 
 
 def get_type_item(soup, url):
+    # Return the type of the item
     global dict_bouclier
     global dict_dague
     
@@ -55,6 +57,7 @@ def get_type_item(soup, url):
     return type_item.strip()
 
 def get_item_stats(soup, url):
+    
     type_item = get_type_item(soup, url)
 
     if 'Arme' in type_item or 'Dague' in type_item:

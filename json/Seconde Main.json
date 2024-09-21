@@ -1,0 +1,22 @@
+{
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12835": {
+        "stats": {
+            "PV": "20",
+            "Tacle": "10"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/4145": {
+        "stats": {
+            "PV": "10",
+            "Tacle": "3",
+            "Parade": "5%",
+            "Résistance Élémentaire": "2"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    }
+}

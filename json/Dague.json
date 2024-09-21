@@ -1,782 +1,1602 @@
 {
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31561": [
-        230,
-        "Dague Odac",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11231561.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30792": [
-        230,
-        "Dague Ario",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11230252.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30791": [
-        230,
-        "Dague Ario",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11230252.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30149": [
-        230,
-        "Dague Ora",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11230148.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29646": [
-        230,
-        "Dague séculaire",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11229645.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29645": [
-        230,
-        "Dague séculaire",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11229645.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29492": [
-        230,
-        "Dague Marabouteuse",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11229491.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29491": [
-        230,
-        "Dague Marabouteuse",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11229491.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30148": [
-        227,
-        "Dague Ora",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11230148.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27687": [
-        215,
-        "Dague Rhume",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11227687.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27626": [
-        215,
-        "Désertique",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11227625.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27625": [
-        213,
-        "Désertique",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11227625.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26887": [
-        200,
-        "Poignard Balète",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11226886.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26728": [
-        200,
-        "Le Seum",
-        "memory",
-        "https://www.zenithwakfu.com/images/items/11211592.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26287": [
-        200,
-        "Coiffeuse Mortelle",
-        "epic",
-        "https://www.zenithwakfu.com/images/items/11226287.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24707": [
-        200,
-        "L'Erréotype",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11224701.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24702": [
-        200,
-        "L'Erréotype",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11224701.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24701": [
-        200,
-        "L'Erréotype",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11224701.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24256": [
-        200,
-        "Les Revenantes",
-        "memory",
-        "https://www.zenithwakfu.com/images/items/11215039.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24017": [
-        200,
-        "Dague de Sram",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11224003.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24003": [
-        200,
-        "Dague de Sram",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11224003.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22010": [
-        200,
-        "Dague Azeuze",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11221810.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21771": [
-        200,
-        "Les Crox",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11221724.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21750": [
-        200,
-        "Dague Suture",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11221722.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21749": [
-        200,
-        "Dague Suture",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11221722.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26886": [
-        197,
-        "Poignard Balète",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11226886.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21724": [
-        197,
-        "Les Crox",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11221724.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21810": [
-        195,
-        "Dague Azeuze",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11221810.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21722": [
-        192,
-        "Dague Suture",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11221722.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26822": [
-        185,
-        "Dague Orafob",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11226821.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22206": [
-        185,
-        "Poignard des Âmes",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11219900.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20152": [
-        185,
-        "Dagues Réceuses",
-        "relic",
-        "https://www.zenithwakfu.com/images/items/11220151.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20151": [
-        185,
-        "Dagues Réceuses",
-        "relic",
-        "https://www.zenithwakfu.com/images/items/11220151.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19900": [
-        185,
-        "Poignard des Âmes",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11219900.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19885": [
-        185,
-        "Poignard Sinueux",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11219885.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22204": [
-        182,
-        "Poignard Sinueux",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11219885.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26821": [
-        181,
-        "Dague Orafob",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11226821.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25985": [
-        170,
-        "Dague Deux-Lames",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11225984.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25970": [
-        170,
-        "Dague de Karne",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/1129891.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25969": [
-        170,
-        "Dague de Karne",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/1129891.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25866": [
-        170,
-        "Le Seum",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11211592.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22439": [
-        170,
-        "Dague intemporelle",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11219122.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22392": [
-        170,
-        "Dague des nouveaux Anciens",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11219144.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22361": [
-        170,
-        "Les Vent-Vies",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11219064.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21286": [
-        170,
-        "La Sanguinolente",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11221227.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19247": [
-        170,
-        "La Victorine",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11219247.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19144": [
-        170,
-        "Dague des nouveaux Anciens",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11219144.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19064": [
-        170,
-        "Les Vent-Vies",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11219064.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25865": [
-        169,
-        "Le Seum",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11211592.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19122": [
-        169,
-        "Dague intemporelle",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11219122.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25984": [
-        167,
-        "Dague Deux-Lames",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11225984.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21227": [
-        167,
-        "La Sanguinolente",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11221227.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25968": [
-        162,
-        "Dague de Karne",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1129891.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22732": [
-        155,
-        "Daguawotte Moisie",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11217776.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22609": [
-        155,
-        "Dague Nataraja",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11218557.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22590": [
-        155,
-        "Dague Longuelames",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11218556.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18557": [
-        155,
-        "Dague Nataraja",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11218557.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18556": [
-        154,
-        "Dague Longuelames",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11218556.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17776": [
-        153,
-        "Daguawotte Moisie",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11217776.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22733": [
-        150,
-        "Daguawotte Moisie",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11217776.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22610": [
-        147,
-        "Dague Nataraja",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11218557.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22608": [
-        146,
-        "Dague Longuelames",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11218556.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31335": [
-        140,
-        "Parastiqueue",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11231334.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25759": [
-        140,
-        "Dague Abraknyde",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11214854.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24674": [
-        140,
-        "La Bienveillante",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11217205.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24673": [
-        140,
-        "La Bienveillante",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11217205.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22952": [
-        140,
-        "Daguawotte noiwe",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11217258.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22858": [
-        140,
-        "Daguawotte",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11217287.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22806": [
-        140,
-        "Dague de l'Esprit Ancestral",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11218387.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18645": [
-        140,
-        "Dague de Vizion",
-        "epic",
-        "https://www.zenithwakfu.com/images/items/11218645.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25758": [
-        139,
-        "Dague Abraknyde",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11214854.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17287": [
-        139,
-        "Daguawotte",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11217287.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31334": [
-        138,
-        "Parastiqueue",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11231334.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22951": [
-        137,
-        "Daguawotte noiwe",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11217258.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18387": [
-        137,
-        "Dague de l'Esprit Ancestral",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11218387.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17258": [
-        132,
-        "Daguawotte noiwe",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11217258.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25757": [
-        131,
-        "Dague Abraknyde",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11214854.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22859": [
-        131,
-        "Daguawotte",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11217287.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23145": [
-        125,
-        "L'arracheuse",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11218169.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23056": [
-        125,
-        "L'Arête De Buste",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/1126051.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23026": [
-        125,
-        "Däague ",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11216042.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21496": [
-        125,
-        "Les Hélices",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11215332.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23057": [
-        124,
-        "L'Arête De Buste",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/1126051.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18169": [
-        124,
-        "L'arracheuse",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11218169.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21479": [
-        123,
-        "Les Hélices",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11215332.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16042": [
-        123,
-        "Däague ",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11216042.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23146": [
-        121,
-        "L'arracheuse",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11218169.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21474": [
-        120,
-        "Les Hélices",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11215332.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16051": [
-        116,
-        "L'Arête De Buste",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1126051.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20977": [
-        112,
-        "Les Hélices",
-        "common",
-        "https://www.zenithwakfu.com/images/items/11215332.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24659": [
-        110,
-        "La Poche",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11217206.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26543": [
-        109,
-        "Lady Gladague",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11216013.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14660": [
-        108,
-        "Dagues de l'Assassin n°1337 ",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11214660.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23260": [
-        105,
-        "Dagues de l'Assassin n°1337 ",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11214660.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26542": [
-        104,
-        "Lady Gladague",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11216013.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12188": [
-        100,
-        "Makadabra",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11212188.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23408": [
-        95,
-        "Poignard d'El Pochito",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11216900.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21343": [
-        95,
-        "Dague Outante",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11221242.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19521": [
-        95,
-        "Couperet de poche",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11219521.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16792": [
-        95,
-        "Crochet Capitaine",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11216792.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14812": [
-        95,
-        "La seconde jumelle d'Azael",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11214661.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14284": [
-        95,
-        "Dague de Djaul",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11214284.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14138": [
-        95,
-        "La Sanguinaire",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11214138.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23387": [
-        94,
-        "Démandibule",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11219522.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21242": [
-        92,
-        "Dague Outante",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11221242.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16900": [
-        92,
-        "Poignard d'El Pochito",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11216900.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19522": [
-        89,
-        "Démandibule",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11219522.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23383": [
-        87,
-        "Couperet de poche",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11219521.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24642": [
-        80,
-        "La Vogue",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11217207.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24641": [
-        80,
-        "La Vogue",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11217207.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19448": [
-        80,
-        "Coupe-Papier",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11219448.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19357": [
-        80,
-        "La Vrille",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11219357.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17735": [
-        74,
-        "Daguorbac",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11212466.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23508": [
-        72,
-        "La Vrille",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11219357.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30922": [
-        65,
-        "Poignard Ondi",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/11230922.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23660": [
-        65,
-        "Les Revenantes",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11215039.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25247": [
-        61,
-        "Bashers",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11210269.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15039": [
-        57,
-        "Les Revenantes",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/11215039.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9967": [
-        55,
-        "Charogneuses",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1129967.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9435": [
-        55,
-        "Dague Eulasse",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1129435.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12450": [
-        48,
-        "Pierre Ponce",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11212450.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30252": [
-        47,
-        "Dague Ario",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11230252.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25134": [
-        47,
-        "Dagu'Etoile de Xiangu",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11214731.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25123": [
-        47,
-        "Dague Poulpeuse",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11225123.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9434": [
-        45,
-        "Dagues Tylo",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1129434.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/7030": [
-        30,
-        "Dague Piou",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1127030.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20405": [
-        20,
-        "Le Couteau d'Eumer",
-        "common",
-        "https://www.zenithwakfu.com/images/items/11220405.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10278": [
-        18,
-        "Lames en Table",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/11210278.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18770": [
-        8,
-        "Chacoupe",
-        "common",
-        "https://www.zenithwakfu.com/images/items/11218770.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9430": [
-        8,
-        "Dague de Boisaille",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1129430.webp"
-    ]
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29646": {
+        "lvl": 230,
+        "name": "Dague séculaire",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11229645.webp",
+        "stats": {
+            "PV": "172",
+            "Esquive": "130",
+            "Maîtrise sur 3 éléments aléatoires": "259",
+            "Maîtrise Critique": "113"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "574",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//28740-bois-desolation": "11",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//29040-orbe-infernal": "11",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24017-dague-sram": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//29034-manche-infernal": "45",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24029-larme-ogrest": "400",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/29621-poils-ogrest": "6",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29645-dague-seculaire": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4378-ogrest": "0.25%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30792": {
+        "lvl": 230,
+        "name": "Dague Ario",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11230252.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "220",
+            "Maîtrise sur 3 éléments aléatoires": "318"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/30269-ferraille-stasifiee": "104",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/30270-gantelet-stasifie": "11",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/30271-corne-sir-comte-flex": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30791-dague-ario": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/29041-sioupere-glou-infernale": "95",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//29034-manche-infernal": "45",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//28743-bois-folie": "11",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "574"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5378-protopoulpe": "0.125%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5400-sir-comte-flex": "0.125%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30791": {
+        "lvl": 230,
+        "name": "Dague Ario",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11230252.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "191",
+            "Maîtrise sur 3 éléments aléatoires": "271"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30792-dague-ario"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5378-protopoulpe": "1%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5400-sir-comte-flex": "1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31561": {
+        "lvl": 230,
+        "name": "Dague Odac",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11231561.webp",
+        "stats": {
+            "PV": "200",
+            "Tacle": "45",
+            "Esquive": "45",
+            "Maîtrise Dos": "400",
+            "Coup critique": "3%"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5589-toross-mordal": "0.125%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30148": {
+        "lvl": 227,
+        "name": "Dague Ora",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11230148.webp",
+        "stats": {
+            "PV": "189",
+            "Esquive": "100",
+            "Maîtrise sur 2 éléments aléatoires": "104",
+            "Maîtrise Soin": "170",
+            "Coup critique": "3%"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30149-dague-ora"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5396-cire-momoriss": "0.5%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27626": {
+        "lvl": 215,
+        "name": "Désertique",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11227625.webp",
+        "stats": {
+            "PV": "175",
+            "Esquive": "23",
+            "Coup critique": "3%",
+            "Maîtrise sur 2 éléments aléatoires": "196",
+            "Maîtrise Critique": "147"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27625-desertique": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "287",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//27879-manche-divin": "38",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27886-sioupere-glou-divine": "63",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27820-epicuticule-cagnardeur": "75",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27822-queue-scorpietineur": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27821-queue-cagnardeur": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//27847-bois-caryoka": "8"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5175-carabajoie": "0.015%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5173-castorbital": "0.015%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5174-tatourbillon": "0.015%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27687": {
+        "lvl": 215,
+        "name": "Dague Rhume",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11227687.webp",
+        "stats": {
+            "PV": "171",
+            "Esquive": "28",
+            "Coup critique": "3%",
+            "Maîtrise Dos": "345"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5182-crustacerebro": "0.125%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27625": {
+        "lvl": 213,
+        "name": "Désertique",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11227625.webp",
+        "stats": {
+            "PV": "160",
+            "Esquive": "19",
+            "Coup critique": "3%",
+            "Maîtrise sur 2 éléments aléatoires": "173",
+            "Maîtrise Critique": "107"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27626-desertique"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5175-carabajoie": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5173-castorbital": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5174-tatourbillon": "0.025%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21750": {
+        "lvl": 200,
+        "name": "Dague Suture",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11221722.webp",
+        "stats": {
+            "PV": "134",
+            "Esquive": "30",
+            "Coup critique": "3%",
+            "Maîtrise sur 3 éléments aléatoires": "129",
+            "Maîtrise Soin": "106"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "144",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21775-griffe-blerox": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21774-croc-blerox": "75",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "63",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21779-oeil-blerox": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21749-dague-suture": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21647-acier-eternel": "38",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22055-bois-acajoule": "8"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4203-fouirox": "0.015%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4204-blerage": "0.015%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4205-blerours": "0.015%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26728": {
+        "lvl": 200,
+        "name": "Le Seum",
+        "rarity": "memory",
+        "img": "https://www.zenithwakfu.com/images/items/11211592.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "134",
+            "Maîtrise sur 2 éléments aléatoires": "183",
+            "Maîtrise Mêlée": "60"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25866-seum": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19900-poignard-ames": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22488-orbe-eternel": "10",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//20182-bois-sakoura": "10",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "83",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21052-manche-imparfait": "50",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "144",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24029-larme-ogrest": "190"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24702": {
+        "lvl": 200,
+        "name": "L'Erréotype",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11224701.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "145",
+            "Coup critique": "3%",
+            "Maîtrise sur 3 éléments aléatoires": "159"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24701-erreotype": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21647-acier-eternel": "38",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24705-medaille-bravoure": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "63",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22055-bois-acajoule": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "144",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24706-galon-dechire": "75"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21771": {
+        "lvl": 200,
+        "name": "Les Crox",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11221724.webp",
+        "stats": {
+            "PV": "173",
+            "Coup critique": "3%",
+            "Maîtrise sur 3 éléments aléatoires": "165",
+            "Maîtrise Critique": "78"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "144",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22055-bois-acajoule": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21724-crox": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21062-manche-eternel": "38",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21775-griffe-blerox": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "63",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21774-croc-blerox": "75",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21779-oeil-blerox": "7"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22010": {
+        "lvl": 200,
+        "name": "Dague Azeuze",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11221810.webp",
+        "stats": {
+            "PV": "161",
+            "Tacle": "85",
+            "Esquive": "85",
+            "Maîtrise sur 2 éléments aléatoires": "244"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "63",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22055-bois-acajoule": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21647-acier-eternel": "38",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "144",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21817-vapeur-apre": "75",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21819-cendres-chaudes": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21818-fragrance-rance": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21810-dague-azeuze": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4260-cendragon": "0.125%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24256": {
+        "lvl": 200,
+        "name": "Les Revenantes",
+        "rarity": "memory",
+        "img": "https://www.zenithwakfu.com/images/items/11215039.webp",
+        "stats": {
+            "PV": "170",
+            "Esquive": "80",
+            "Maîtrise sur 2 éléments aléatoires": "150",
+            "Maîtrise Distance": "75",
+            "Coup critique": "3%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23660-revenantes": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25970-dague-karne": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22488-orbe-eternel": "10",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22143-bois-bananagrumier-exemplaire": "10",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "83",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21055-manche-brut": "50",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "144",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24029-larme-ogrest": "400"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24707": {
+        "lvl": 200,
+        "name": "L'Erréotype",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/11224701.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "111",
+            "Coup critique": "2%",
+            "Maîtrise sur 3 éléments aléatoires": "106"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24701-erreotype"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21724": {
+        "lvl": 197,
+        "name": "Les Crox",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11221724.webp",
+        "stats": {
+            "PV": "166",
+            "Coup critique": "3%",
+            "Maîtrise sur 3 éléments aléatoires": "135",
+            "Maîtrise Critique": "49"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "72",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21775-griffe-blerox": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22055-bois-acajoule": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21779-oeil-blerox": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21774-croc-blerox": "38",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "28",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21636-essence-eternelle": "19"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21771-crox"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21810": {
+        "lvl": 195,
+        "name": "Dague Azeuze",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11221810.webp",
+        "stats": {
+            "PV": "161",
+            "Tacle": "63",
+            "Esquive": "63",
+            "Maîtrise sur 2 éléments aléatoires": "183"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22010-dague-azeuze"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4260-cendragon": "0.5%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26822": {
+        "lvl": 185,
+        "name": "Dague Orafob",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11226821.webp",
+        "stats": {
+            "PV": "115",
+            "Esquive": "50",
+            "Coup critique": "3%",
+            "Maîtrise Critique": "117"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27047-bock-lait-bambou-fermente": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26821-dague-orafob": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27046-peau-pandissidan": "59",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21061-manche-mystique": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27048-boite-pandore": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21124-sioupere-glou-mystique": "50",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "86",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//19755-kokos-nucifera": "7"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20151": {
+        "lvl": 185,
+        "name": "Dagues Réceuses",
+        "rarity": "relic",
+        "img": "https://www.zenithwakfu.com/images/items/11220151.webp",
+        "stats": {
+            "PM": "1",
+            "PV": "76",
+            "Tacle": "23",
+            "Esquive": "23",
+            "Maîtrise sur 3 éléments aléatoires": "187",
+            "Coup critique": "6%"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3866-grozepine": "0.1%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3971-roi-dunil": "0.1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19885": {
+        "lvl": 185,
+        "name": "Poignard Sinueux",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11219885.webp",
+        "stats": {
+            "PV": "120",
+            "Esquive": "25",
+            "Coup critique": "3%",
+            "Maîtrise sur 3 éléments aléatoires": "100",
+            "Maîtrise Dos": "41"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "86",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19793-masque-fissure": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//19755-kokos-nucifera": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19798-poil-singe-noir": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19792-baton-kanniboul": "59",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21124-sioupere-glou-mystique": "50",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21646-acier-mystique": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22204-poignard-sinueux": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26821": {
+        "lvl": 181,
+        "name": "Dague Orafob",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11226821.webp",
+        "stats": {
+            "PV": "115",
+            "Esquive": "50",
+            "Coup critique": "2%",
+            "Maîtrise Critique": "83"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26822-dague-orafob"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5044-pandissidan-dominant": "0.6%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22392": {
+        "lvl": 170,
+        "name": "Dague des nouveaux Anciens",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11219144.webp",
+        "stats": {
+            "PV": "102",
+            "Esquive": "35",
+            "Maîtrise sur 2 éléments aléatoires": "73",
+            "Maîtrise Soin": "18",
+            "Coup critique": "2%"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19144-dague-nouveaux-anciens"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4358-oiseau-temps": "0.7%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19144": {
+        "lvl": 170,
+        "name": "Dague des nouveaux Anciens",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11219144.webp",
+        "stats": {
+            "PV": "102",
+            "Esquive": "40",
+            "Maîtrise sur 2 éléments aléatoires": "91",
+            "Maîtrise Soin": "25",
+            "Coup critique": "3%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "54",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19151-aiguille-cadran": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//20182-bois-sakoura": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19147-plume-raipiode": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19150-plume-engrenee": "50",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21123-sioupere-glou-exquise": "42",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21634-essence-exquise": "26",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22392-dague-nouveaux-anciens": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22361": {
+        "lvl": 170,
+        "name": "Les Vent-Vies",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11219064.webp",
+        "stats": {
+            "PV": "58",
+            "Tacle": "30",
+            "Esquive": "30",
+            "Coup critique": "2%",
+            "Maîtrise sur 3 éléments aléatoires": "65",
+            "Maîtrise Critique": "18"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19064-vent-vies"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4357-rib-eri-routourneur": "0.7%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19247": {
+        "lvl": 170,
+        "name": "La Victorine",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11219247.webp",
+        "stats": {
+            "PV": "159",
+            "Esquive": "25",
+            "Maîtrise Dos": "134"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25865": {
+        "lvl": 169,
+        "name": "Le Seum",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11211592.webp",
+        "stats": {
+            "PV": "86",
+            "Esquive": "50",
+            "Coup critique": "2%",
+            "Maîtrise Mêlée": "78"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "28",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//20182-bois-sakoura": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26602-oeil-lave": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26606-stalagmama": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26601-stalagmite": "27",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21060-manche-exquis": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21123-sioupere-glou-exquise": "21"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25866-seum"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19122": {
+        "lvl": 169,
+        "name": "Dague intemporelle",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11219122.webp",
+        "stats": {
+            "PV": "70",
+            "Esquive": "45",
+            "Maîtrise sur 2 éléments aléatoires": "73",
+            "Maîtrise Dos": "21",
+            "Coup critique": "2%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "28",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//20182-bois-sakoura": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19151-aiguille-cadran": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19147-plume-raipiode": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21634-essence-exquise": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19150-plume-engrenee": "27",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21123-sioupere-glou-exquise": "21"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22439-dague-intemporelle"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21227": {
+        "lvl": 167,
+        "name": "La Sanguinolente",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11221227.webp",
+        "stats": {
+            "PV": "94",
+            "Tacle": "20",
+            "Esquive": "20",
+            "Coup critique": "2%",
+            "Maîtrise sur 3 éléments aléatoires": "53",
+            "Maîtrise Berserk": "28"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21286-sanguinolente"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4217-kali": "0.7%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25968": {
+        "lvl": 162,
+        "name": "Dague de Karne",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/1129891.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "65",
+            "Maîtrise Distance": "53"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25969-dague-karne"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2016-brise-tibias": "2.8%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2014-roublard-tiste": "0.28%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18557": {
+        "lvl": 155,
+        "name": "Dague Nataraja",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11218557.webp",
+        "stats": {
+            "PV": "80",
+            "Esquive": "35",
+            "Coup critique": "2%",
+            "Maîtrise sur 2 éléments aléatoires": "49",
+            "Maîtrise Critique": "20"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/18517-substance-grise": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22786-bois-capricieux": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/18519-osgasmik": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22610-dague-nataraja": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21059-manche-precieux": "6",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21122-sioupere-glou-precieuse": "20",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/18516-os-dimensionnel": "12"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22609-dague-nataraja"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3077-dresseur-longuelames": "0.04%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3076-bulldague-nain": "0.04%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3079-sramva": "0.04%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3078-apothicaire-macchabrant": "0.04%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22732": {
+        "lvl": 155,
+        "name": "Daguawotte Moisie",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11217776.webp",
+        "stats": {
+            "PV": "108",
+            "Esquive": "35",
+            "Coup critique": "3%",
+            "Maîtrise sur 2 éléments aléatoires": "61",
+            "Maîtrise Soin": "24"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17776-daguawotte-moisie": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "33",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22785-bois-mortel": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21059-manche-precieux": "21",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21122-sioupere-glou-precieuse": "35",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17349-viwus": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17337-dent-acewee": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17336-fouwwuwe-infectee": "40"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18556": {
+        "lvl": 154,
+        "name": "Dague Longuelames",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11218556.webp",
+        "stats": {
+            "PV": "82",
+            "Tacle": "20",
+            "Esquive": "20",
+            "Maîtrise sur 2 éléments aléatoires": "55",
+            "Maîtrise Dos": "19",
+            "Coup critique": "2%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/18517-substance-grise": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22786-bois-capricieux": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/18519-osgasmik": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22608-dague-longuelames": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21059-manche-precieux": "6",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21122-sioupere-glou-precieuse": "20",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/18516-os-dimensionnel": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "12"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22590-dague-longuelames"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3077-dresseur-longuelames": "0.04%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3076-bulldague-nain": "0.04%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3079-sramva": "0.04%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3078-apothicaire-macchabrant": "0.04%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17776": {
+        "lvl": 153,
+        "name": "Daguawotte Moisie",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11217776.webp",
+        "stats": {
+            "PV": "90",
+            "Esquive": "30",
+            "Coup critique": "2%",
+            "Maîtrise sur 2 éléments aléatoires": "46",
+            "Maîtrise Soin": "20"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17337-dent-acewee": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22785-bois-mortel": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17349-viwus": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22733-daguawotte-moisie": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17336-fouwwuwe-infectee": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21059-manche-precieux": "6",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21122-sioupere-glou-precieuse": "20",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "12"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22732-daguawotte-moisie"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22733": {
+        "lvl": 150,
+        "name": "Daguawotte Moisie",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/11217776.webp",
+        "stats": {
+            "PV": "79",
+            "Esquive": "20",
+            "Coup critique": "2%",
+            "Maîtrise sur 2 éléments aléatoires": "37",
+            "Maîtrise Soin": "11"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17337-dent-acewee": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22785-bois-mortel": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17336-fouwwuwe-infectee": "23",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21122-sioupere-glou-precieuse": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21059-manche-precieux": "5"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17776-daguawotte-moisie"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22610": {
+        "lvl": 147,
+        "name": "Dague Nataraja",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/11218557.webp",
+        "stats": {
+            "PV": "64",
+            "Esquive": "25",
+            "Coup critique": "2%",
+            "Maîtrise sur 2 éléments aléatoires": "37",
+            "Maîtrise Critique": "8"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18557-dague-nataraja"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3078-apothicaire-macchabrant": "0.32%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3076-bulldague-nain": "0.32%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3077-dresseur-longuelames": "0.32%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3079-sramva": "0.32%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22858": {
+        "lvl": 140,
+        "name": "Daguawotte",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11217287.webp",
+        "stats": {
+            "PV": "76",
+            "Esquive": "30",
+            "Maîtrise sur 2 éléments aléatoires": "61",
+            "Maîtrise Critique": "21",
+            "Coup critique": "2%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "22",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22960-bois-belgamete-resplendissant": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17277-colowation-vewte": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17289-queue-pompon": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17276-fouwwuwe-wabbit": "34",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21058-manche-raffine": "17",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17287-daguawotte": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2565-ti-wabbit": "0.023%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2566-wabbit": "0.023%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2568-gwand-pa-wabbit": "0.023%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2567-wabbit": "0.023%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24674": {
+        "lvl": 140,
+        "name": "La Bienveillante",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11217205.webp",
+        "stats": {
+            "PV": "84",
+            "Tacle": "25",
+            "Esquive": "25",
+            "Coup critique": "2%",
+            "Maîtrise Mêlée": "71"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24673-bienveillante": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24705-medaille-bravoure": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24706-galon-dechire": "34",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "22",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22959-bois-myscandelle-fortifie": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21058-manche-raffine": "17"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25759": {
+        "lvl": 140,
+        "name": "Dague Abraknyde",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11214854.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "69",
+            "Maîtrise Mêlée": "72"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25758-dague-abraknyde": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26466-ecorce-abraknyde-ancestral": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26464-racine-sombre": "34",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22960-bois-belgamete-resplendissant": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "22",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26465-bourgeon-abraknyde": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21058-manche-raffine": "17"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4886-abraknyde-ancestral": "0.023%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4887-tronknyde-sombre": "0.023%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4888-abraknyde-sombre": "0.023%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22806": {
+        "lvl": 140,
+        "name": "Dague de l'Esprit Ancestral",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11218387.webp",
+        "stats": {
+            "PV": "79",
+            "Esquive": "35",
+            "Coup critique": "2%",
+            "Maîtrise sur 2 éléments aléatoires": "54",
+            "Maîtrise Dos": "25"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18387-dague-esprit-ancestral": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "22",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22959-bois-myscandelle-fortifie": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/18146-poison-noirespore": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17264-enewgie-noiwe": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17250-fouwwuwe-black-wabbit": "34",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21632-essence-raffinee": "17",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "30"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17287": {
+        "lvl": 139,
+        "name": "Daguawotte",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11217287.webp",
+        "stats": {
+            "PV": "61",
+            "Esquive": "28",
+            "Maîtrise sur 2 éléments aléatoires": "43",
+            "Maîtrise Critique": "14",
+            "Coup critique": "2%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "18",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17276-fouwwuwe-wabbit": "11",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21058-manche-raffine": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22960-bois-belgamete-resplendissant": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17277-colowation-vewte": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22859-daguawotte": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17289-queue-pompon": "1"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22858-daguawotte"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2565-ti-wabbit": "0.045%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2566-wabbit": "0.045%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2568-gwand-pa-wabbit": "0.045%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2567-wabbit": "0.045%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25758": {
+        "lvl": 139,
+        "name": "Dague Abraknyde",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11214854.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "57",
+            "Maîtrise Mêlée": "52"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "18",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26464-racine-sombre": "11",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21058-manche-raffine": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22960-bois-belgamete-resplendissant": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26465-bourgeon-abraknyde": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25757-dague-abraknyde": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26466-ecorce-abraknyde-ancestral": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "8"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25759-dague-abraknyde"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4886-abraknyde-ancestral": "0.045%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4887-tronknyde-sombre": "0.045%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4888-abraknyde-sombre": "0.045%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31334": {
+        "lvl": 138,
+        "name": "Parastiqueue",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11231334.webp",
+        "stats": {
+            "PV": "84",
+            "Tacle": "20",
+            "Esquive": "20",
+            "Maîtrise sur 3 éléments aléatoires": "40",
+            "Coup critique": "2%"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/31335-parastiqueue"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5472-parasicawotte-dominante": "0.9%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18387": {
+        "lvl": 137,
+        "name": "Dague de l'Esprit Ancestral",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11218387.webp",
+        "stats": {
+            "PV": "74",
+            "Esquive": "30",
+            "Coup critique": "1%",
+            "Maîtrise sur 2 éléments aléatoires": "44",
+            "Maîtrise Dos": "14"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22806-dague-esprit-ancestral"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2983-esprit-ancestral": "0.9%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4372-cepomwe-innocent": "0.9%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22859": {
+        "lvl": 131,
+        "name": "Daguawotte",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/11217287.webp",
+        "stats": {
+            "PV": "52",
+            "Esquive": "25",
+            "Maîtrise sur 2 éléments aléatoires": "30",
+            "Maîtrise Critique": "7",
+            "Coup critique": "1%"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17287-daguawotte"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2566-wabbit": "0.36%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2565-ti-wabbit": "0.36%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2568-gwand-pa-wabbit": "0.36%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2567-wabbit": "0.36%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21496": {
+        "lvl": 125,
+        "name": "Les Hélices",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11215332.webp",
+        "stats": {
+            "PV": "116",
+            "Tacle": "17",
+            "Esquive": "17",
+            "Maîtrise Mêlée": "48",
+            "Coup critique": "2%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21479-helices": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21120-sioupere-glou-durable": "25",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20997-coque-smare": "28",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//13111-bois-if-surnaturel": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20998-aileron-smare": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20999-smaraboulette": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21057-manche-durable": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "14"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4229-gros-smare": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4228-smarmot": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4230-smare-couatique": "0.025%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23056": {
+        "lvl": 125,
+        "name": "L'Arête De Buste",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/1126051.webp",
+        "stats": {
+            "PV": "63",
+            "Tacle": "13",
+            "Esquive": "13",
+            "Maîtrise sur 2 éléments aléatoires": "49",
+            "Maîtrise Mêlée": "24",
+            "Coup critique": "2%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21120-sioupere-glou-durable": "25",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21057-manche-durable": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23057-arete-buste": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//13111-bois-if-surnaturel": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15827-os-congele": "28",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/16106-cuir-taroude": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15829-batonnet-glace": "3"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2345-garde-nord": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2346-archer-nord": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2344-brute-nord": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2347-traqueur-nord": "0.025%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23057": {
+        "lvl": 124,
+        "name": "L'Arête De Buste",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/1126051.webp",
+        "stats": {
+            "PV": "56",
+            "Tacle": "13",
+            "Esquive": "13",
+            "Maîtrise sur 2 éléments aléatoires": "37",
+            "Maîtrise Mêlée": "18",
+            "Coup critique": "1%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15827-os-congele": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21057-manche-durable": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21120-sioupere-glou-durable": "16",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//13111-bois-if-surnaturel": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/16106-cuir-taroude": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16051-arete-buste": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15829-batonnet-glace": "1"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23056-arete-buste"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2345-garde-nord": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2346-archer-nord": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2344-brute-nord": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2347-traqueur-nord": "0.05%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21479": {
+        "lvl": 123,
+        "name": "Les Hélices",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11215332.webp",
+        "stats": {
+            "PV": "63",
+            "Tacle": "20",
+            "Esquive": "20",
+            "Coup critique": "1%",
+            "Maîtrise Mêlée": "40"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//13111-bois-if-surnaturel": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20998-aileron-smare": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20999-smaraboulette": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21474-helices": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21057-manche-durable": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21120-sioupere-glou-durable": "16",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20997-coque-smare": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "5"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21496-helices"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4229-gros-smare": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4228-smarmot": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4230-smare-couatique": "0.05%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23146": {
+        "lvl": 121,
+        "name": "L'arracheuse",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/11218169.webp",
+        "stats": {
+            "PV": "62",
+            "Tacle": "9",
+            "Esquive": "9",
+            "Maîtrise sur 2 éléments aléatoires": "24",
+            "Maîtrise Critique": "10",
+            "Coup critique": "1%"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18169-arracheuse"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2971-cactoblong": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2969-cactiflore": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2970-pampactus": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2968-tartanque": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2967-scorpique": "0.4%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26543": {
+        "lvl": 109,
+        "name": "Lady Gladague",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11216013.webp",
+        "stats": {
+            "PV": "52",
+            "Esquive": "24",
+            "Maîtrise sur 1 élément aléatoire": "38",
+            "Coup critique": "2%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21118-sioupere-glou-brute": "15",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15846-cuir-glagla": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21056-manche-solide": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26542-lady-gladague": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/23331-boucle-nasale-glagla": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15847-cuir-lady-glagla": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2363-lady-glagla": "0.5%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14660": {
+        "lvl": 108,
+        "name": "Dagues de l'Assassin n°1337 ",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11214660.webp",
+        "stats": {
+            "PV": "62",
+            "Tacle": "10",
+            "Esquive": "10",
+            "Maîtrise sur 1 élément aléatoire": "26",
+            "Maîtrise Dos": "23"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//23328-bois-frigostifie": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/14359-metal-chuchote": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23260-dagues-assassin-1337": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/14436-metal-susurre": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21119-sioupere-glou-solide": "15",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/14357-tissu-opale": "9"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23260": {
+        "lvl": 105,
+        "name": "Dagues de l'Assassin n°1337 ",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/11214660.webp",
+        "stats": {
+            "PV": "61",
+            "Tacle": "7",
+            "Esquive": "7",
+            "Maîtrise sur 1 élément aléatoire": "18",
+            "Maîtrise Dos": "16"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/14359-metal-chuchote": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/14357-tissu-opale": "16",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21119-sioupere-glou-solide": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21056-manche-solide": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "1"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14660-dagues-assassin-1337"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14138": {
+        "lvl": 95,
+        "name": "La Sanguinaire",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11214138.webp",
+        "stats": {
+            "PV": "51",
+            "Tacle": "10",
+            "Esquive": "10",
+            "Maîtrise sur 3 éléments aléatoires": "24",
+            "Maîtrise Critique": "8",
+            "Maîtrise Berserk": "9",
+            "Coup critique": "2%"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1987-milkar-meulou": "0.835%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23408": {
+        "lvl": 95,
+        "name": "Poignard d'El Pochito",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11216900.webp",
+        "stats": {
+            "PV": "45",
+            "Tacle": "9",
+            "Esquive": "9",
+            "Maîtrise sur 1 élément aléatoire": "26",
+            "Maîtrise Critique": "8",
+            "Coup critique": "2%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/23334-tetrool": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/23335-karne-trool": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16900-poignard-pochito": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/23333-poil-trool": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21055-manche-brut": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21118-sioupere-glou-brute": "14"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14284": {
+        "lvl": 95,
+        "name": "Dague de Djaul",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11214284.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "40",
+            "Tacle": "7",
+            "Esquive": "7",
+            "Maîtrise sur 3 éléments aléatoires": "35"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14812": {
+        "lvl": 95,
+        "name": "La seconde jumelle d'Azael",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/11214661.webp",
+        "stats": {
+            "PV": "50",
+            "Esquive": "25",
+            "Maîtrise sur 3 éléments aléatoires": "35",
+            "Maîtrise Critique": "6",
+            "Coup critique": "3%",
+            "Résistance Élémentaire": "5"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19522": {
+        "lvl": 89,
+        "name": "Démandibule",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/11219522.webp",
+        "stats": {
+            "PV": "38",
+            "Tacle": "7",
+            "Esquive": "7",
+            "Maîtrise sur 3 éléments aléatoires": "18",
+            "Coup critique": "1%"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23387-demandibule"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3735-viktoria-france-kenstein": "4%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23383": {
+        "lvl": 87,
+        "name": "Couperet de poche",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/11219521.webp",
+        "stats": {
+            "PV": "30",
+            "Esquive": "8",
+            "Maîtrise sur 2 éléments aléatoires": "30"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19521-couperet-poche"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3733-gore-gone": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3734-gargrouilleur": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3732-aplatissier": "0.4%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24642": {
+        "lvl": 80,
+        "name": "La Vogue",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11217207.webp",
+        "stats": {
+            "PV": "19",
+            "Esquive": "15",
+            "Coup critique": "2%",
+            "Maîtrise sur 3 éléments aléatoires": "18",
+            "Maîtrise Critique": "5"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24705-medaille-bravoure": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24641-vogue": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22144-bois-pouplier-sacro-sain": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21117-sioupere-glou-rustique": "13",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24706-galon-dechire": "7"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24641": {
+        "lvl": 80,
+        "name": "La Vogue",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/11217207.webp",
+        "stats": {
+            "PV": "14",
+            "Esquive": "13",
+            "Coup critique": "2%",
+            "Maîtrise sur 3 éléments aléatoires": "12",
+            "Maîtrise Critique": "4"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24642-vogue"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23660": {
+        "lvl": 65,
+        "name": "Les Revenantes",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11215039.webp",
+        "stats": {
+            "PV": "28",
+            "Tacle": "12",
+            "Coup critique": "1%",
+            "Maîtrise sur 1 élément aléatoire": "19",
+            "Maîtrise Dos": "3",
+            "Maîtrise Mêlée": "6"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21053-manche-fragile": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21116-sioupere-glou-fragile": "18",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/30351-substance-mort-brule": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/15039-revenantes": "1"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24256-revenantes"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15039": {
+        "lvl": 57,
+        "name": "Les Revenantes",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/11215039.webp",
+        "stats": {
+            "PV": "19",
+            "Tacle": "7",
+            "Coup critique": "1%",
+            "Maîtrise sur 1 élément aléatoire": "14",
+            "Maîtrise Dos": "2",
+            "Maîtrise Mêlée": "5"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21053-manche-fragile": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21116-sioupere-glou-fragile": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/30351-substance-mort-brule": "1"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23660-revenantes",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//14813-panoplie-jumelles-azael"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12450": {
+        "lvl": 48,
+        "name": "Pierre Ponce",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11212450.webp",
+        "stats": {
+            "PV": "31",
+            "Tacle": "5",
+            "Esquive": "5",
+            "Maîtrise Critique": "11",
+            "Coup critique": "2%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/12435-diamant-craquele": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15162-tres-joli-bouc-roux": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21115-sioupere-glou-imparfaite": "11",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21637-acier-imparfait": "5"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25134": {
+        "lvl": 47,
+        "name": "Dagu'Etoile de Xiangu",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11214731.webp",
+        "stats": {
+            "PV": "14",
+            "Esquive": "5",
+            "Coup critique": "2%",
+            "Maîtrise Élémentaire": "20",
+            "Maîtrise Dos": "3"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2118-moogrron-dominant": "1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25123": {
+        "lvl": 47,
+        "name": "Dague Poulpeuse",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11225123.webp",
+        "stats": {
+            "PV": "24",
+            "Esquive": "7",
+            "Coup critique": "2%",
+            "Maîtrise Critique": "11"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4022-pati-noir": "2.5%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9434": {
+        "lvl": 45,
+        "name": "Dagues Tylo",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/1129434.webp",
+        "stats": {
+            "PA max": "-1",
+            "PM": "1",
+            "PV": "20",
+            "Maîtrise Dos": "8"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//26433-cou-truche": "49",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//26432-plume-truche": "41",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//20665-manche-rudimentaire": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21649-planche-fragile": "3"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20405": {
+        "lvl": 20,
+        "name": "Le Couteau d'Eumer",
+        "rarity": "common",
+        "img": "https://www.zenithwakfu.com/images/items/11220405.webp",
+        "stats": {
+            "d'action:                                3": "Points",
+            "                               1": "Portée:"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10278": {
+        "lvl": 18,
+        "name": "Lames en Table",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/11210278.webp",
+        "stats": {
+            "PV": "10",
+            "Tacle": "3",
+            "Esquive": "3",
+            "Maîtrise Élémentaire": "18"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4097-lartifice-explosive": "1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9430": {
+        "lvl": 8,
+        "name": "Dague de Boisaille",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/1129430.webp",
+        "stats": {
+            "PV": "5",
+            "Esquive": "5",
+            "Maîtrise Élémentaire": "12"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20600-dent-chacha": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20605-sioupere-glou-grossiere": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//18782-manche-grossier": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    }
 }

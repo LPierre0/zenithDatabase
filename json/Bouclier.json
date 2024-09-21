@@ -1,950 +1,1643 @@
 {
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31559": [
-        230,
-        "Rempart Adox",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18931559.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31459": [
-        230,
-        "Bouclier Pompon",
-        "memory",
-        "https://www.zenithwakfu.com/images/items/18917291.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30275": [
-        230,
-        "Bouclier du grand solide",
-        "epic",
-        "https://www.zenithwakfu.com/images/items/18930275.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29590": [
-        230,
-        "Le Constant",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18929299.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29589": [
-        230,
-        "Le Constant",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18929299.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29490": [
-        230,
-        "Egide de la fin des temps",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18929489.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29489": [
-        230,
-        "Egide de la fin des temps",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18929489.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27816": [
-        215,
-        "Bouclier du Capitaine Amakna",
-        "relic",
-        "https://www.zenithwakfu.com/images/items/18927816.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27740": [
-        215,
-        "L'égide belle époque",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18927738.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27629": [
-        215,
-        "Carapace Thèque",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18927629.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27739": [
-        212,
-        "L'égide belle époque",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18927738.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27738": [
-        209,
-        "L'égide belle époque",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18927738.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27036": [
-        200,
-        "Bouclier de la tortue noire",
-        "epic",
-        "https://www.zenithwakfu.com/images/items/18927036.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24800": [
-        200,
-        "Bouclier du comte Harebourg",
-        "memory",
-        "https://www.zenithwakfu.com/images/items/18916146.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24719": [
-        200,
-        "Macchabouclier",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18924719.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24704": [
-        200,
-        "Le Boclida",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18924703.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24703": [
-        200,
-        "Le Boclida",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18924703.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24018": [
-        200,
-        "Bouclier de Féca",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18924004.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24004": [
-        200,
-        "Bouclier de Féca",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18924004.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21938": [
-        200,
-        "Écu de Frêne",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18921936.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21849": [
-        200,
-        "Petite Coquille",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18920933.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20957": [
-        200,
-        "Bouclier Ventaille",
-        "relic",
-        "https://www.zenithwakfu.com/images/items/18920957.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21937": [
-        199,
-        "Écu de Frêne",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18921936.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21831": [
-        199,
-        "Petite Coquille",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18920933.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21936": [
-        196,
-        "Écu de Frêne",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18921936.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20933": [
-        191,
-        "Petite Coquille",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18920933.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26865": [
-        185,
-        "L'égide Léjone",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18926864.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22166": [
-        185,
-        "Rempart Aplui",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18919883.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19898": [
-        185,
-        "Rempart Siramparla",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18919898.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19883": [
-        185,
-        "Rempart Aplui",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18919883.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26864": [
-        183,
-        "L'égide Léjone",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18926864.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22168": [
-        183,
-        "Rempart Siramparla",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18919898.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26057": [
-        170,
-        "Bouclier Riktus Elite",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18912342.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24687": [
-        170,
-        "L'Hextatique",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18919244.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19244": [
-        170,
-        "L'Hextatique",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18919244.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19143": [
-        170,
-        "Bouclier Durable",
-        "epic",
-        "https://www.zenithwakfu.com/images/items/18919143.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26056": [
-        168,
-        "Bouclier Riktus Elite",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18912342.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26055": [
-        165,
-        "Bouclier Riktus Elite",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18912342.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19121": [
-        160,
-        "Bouclier Dimensionnel",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18919121.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25922": [
-        155,
-        "Bouclivore",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18911393.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22765": [
-        155,
-        "Wo Bouclier",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18917317.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22665": [
-        155,
-        "Bouclier Fort Blindé",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18918564.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22591": [
-        155,
-        "Dombre Tombant",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18918559.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18564": [
-        154,
-        "Bouclier Fort Blindé",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18918564.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25921": [
-        153,
-        "Bouclivore",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18911393.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17317": [
-        151,
-        "Wo Bouclier",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917317.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25920": [
-        150,
-        "Bouclivore",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18911393.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18559": [
-        149,
-        "Dombre Tombant",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18918559.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31115": [
-        140,
-        "Targe des rêves",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18931113.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24677": [
-        140,
-        "Le Rapport",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18918951.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24676": [
-        140,
-        "Le Rapport",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18918951.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24675": [
-        140,
-        "Le Rapport",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18918951.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22977": [
-        140,
-        "Bouclier du Sage",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18917210.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22933": [
-        140,
-        "Le Wompifeste",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18917257.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22878": [
-        140,
-        "Bouclier Pompon",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18917291.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22877": [
-        140,
-        "Bouclier Pompon",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917291.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22843": [
-        140,
-        "Bouclier GG de Troyle",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917744.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18897": [
-        140,
-        "Bouclier d'Asse",
-        "relic",
-        "https://www.zenithwakfu.com/images/items/18910028.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18388": [
-        140,
-        "Bouclier d'Asse",
-        "relic",
-        "https://www.zenithwakfu.com/images/items/18910028.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17783": [
-        140,
-        "Bouclier du Sage",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917210.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17744": [
-        140,
-        "Bouclier GG de Troyle",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18917744.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17257": [
-        140,
-        "Le Wompifeste",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917257.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17291": [
-        137,
-        "Bouclier Pompon",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18917291.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31114": [
-        135,
-        "Targe des rêves",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18931113.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22934": [
-        132,
-        "Le Wompifeste",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18917257.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31113": [
-        130,
-        "Targe des rêves",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18931113.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23170": [
-        125,
-        "Bouclier du comte Harebourg",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18916146.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23148": [
-        125,
-        "Bouclier Pikpik",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18918175.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23073": [
-        125,
-        "Bouclier de l'Initié",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18917783.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23052": [
-        125,
-        "Bouclier Chaferisé",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18916049.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18175": [
-        125,
-        "Bouclier Pikpik",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18918175.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17549": [
-        125,
-        "La Twanche",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917549.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16146": [
-        125,
-        "Bouclier du comte Harebourg",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18916146.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17782": [
-        124,
-        "Bouclier de l'Initié",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917783.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16049": [
-        123,
-        "Bouclier Chaferisé",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18916049.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23053": [
-        115,
-        "Bouclier Chaferisé",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18916049.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25552": [
-        110,
-        "Bouclier Riktus",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18911870.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24658": [
-        110,
-        "L'Azailé",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917208.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24657": [
-        110,
-        "L'Azailé",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18917208.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14121": [
-        110,
-        "Mogmatique",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18914121.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23191": [
-        109,
-        "Mogmatique",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18914121.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23274": [
-        108,
-        "Pavois Givré",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18916026.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25551": [
-        107,
-        "Bouclier Riktus",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18911870.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14736": [
-        107,
-        "L'égide de Khiel",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18914736.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16767": [
-        106,
-        "Rondelle de Citron",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18916767.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16827": [
-        105,
-        "Bouclier Gonflable",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18916827.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16026": [
-        105,
-        "Pavois Givré",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18916026.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23317": [
-        101,
-        "Rondelle de Citron",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18916767.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25550": [
-        99,
-        "Bouclier Riktus",
-        "common",
-        "https://www.zenithwakfu.com/images/items/18911870.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23275": [
-        97,
-        "Pavois Givré",
-        "common",
-        "https://www.zenithwakfu.com/images/items/18916026.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25476": [
-        95,
-        "Bouclier Chafer",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18910970.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23425": [
-        95,
-        "Bouclier Nuancé",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18916800.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21245": [
-        95,
-        "Bouclier Prisonnier",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18912801.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16795": [
-        95,
-        "Planche de Nage",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18916795.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14631": [
-        95,
-        "Targe du Défenseur Impérial ",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18914631.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/4144": [
-        95,
-        "Le Ventaille",
-        "common",
-        "https://www.zenithwakfu.com/images/items/1894144.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23343": [
-        94,
-        "La Paroisse",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18912604.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17210": [
-        94,
-        "Bouclier de l'Apprenti",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917782.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23406": [
-        93,
-        "Egide d'El Pochito",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18916899.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19508": [
-        93,
-        "Boucle mort",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18919508.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12604": [
-        91,
-        "La Paroisse",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18912604.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16800": [
-        90,
-        "Bouclier Nuancé",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18916800.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16899": [
-        88,
-        "Egide d'El Pochito",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18916899.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25475": [
-        87,
-        "Bouclier Chafer",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18910970.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23422": [
-        87,
-        "Planche de Nage",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18916795.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19449": [
-        85,
-        "Couvercle Remisé",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18919449.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23344": [
-        83,
-        "La Paroisse",
-        "common",
-        "https://www.zenithwakfu.com/images/items/18912604.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24640": [
-        80,
-        "Le Ryfé",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917209.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24639": [
-        80,
-        "Le Ryfé",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18917209.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19337": [
-        80,
-        "Passerrok",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18919337.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15404": [
-        80,
-        "Le Résidu",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18915404.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23548": [
-        79,
-        "Le Demimoune",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18910100.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25447": [
-        78,
-        "Bougligli",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18911030.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25394": [
-        78,
-        "Targe à Truche",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18910093.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23492": [
-        78,
-        "Porte Etoile Bleu ",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18912481.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25346": [
-        77,
-        "Bouclier Collant",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/1899655.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23535": [
-        77,
-        "Le Résidu",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18915404.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17747": [
-        77,
-        "Le Foulmoune",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18910099.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25446": [
-        75,
-        "Bougligli",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18911030.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25345": [
-        74,
-        "Bouclier Collant",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1899655.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10100": [
-        71,
-        "Le Demimoune",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18910100.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25393": [
-        70,
-        "Targe à Truche",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18910093.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12481": [
-        70,
-        "Porte Etoile Bleu ",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18912481.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25344": [
-        66,
-        "Bouclier Collant",
-        "common",
-        "https://www.zenithwakfu.com/images/items/1899655.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30923": [
-        65,
-        "Pelta Rabiscotée",
-        "legendary",
-        "https://www.zenithwakfu.com/images/items/18930923.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14851": [
-        65,
-        "Bouclier Abraknyde Ancestral",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18914851.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23627": [
-        64,
-        "Bouclier Bwork",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18917819.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21170": [
-        64,
-        "L'Ecu M'Demer",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18915180.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30439": [
-        63,
-        "Bouclier de Jim",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18930438.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23633": [
-        63,
-        "La Montre",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18911805.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23665": [
-        62,
-        "Bouclier Ktoplasme",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18915037.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21444": [
-        62,
-        "Le Fiskouale",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/1893974.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17794": [
-        60,
-        "La Montre",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18911805.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/5945": [
-        60,
-        "Bouclier Etoilé",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1895945.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21166": [
-        59,
-        "Le Fiskouale",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1893974.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17819": [
-        56,
-        "Bouclier Bwork",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18917819.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30438": [
-        55,
-        "Bouclier de Jim",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18930438.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15037": [
-        54,
-        "Bouclier Ktoplasme",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18915037.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12057": [
-        50,
-        "Bouclier Dlamoule",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18912057.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15158": [
-        48,
-        "Pétra-Pack",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18915158.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25166": [
-        47,
-        "Bouclier du Mont Kipou",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/1899931.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24308": [
-        45,
-        "Le Durrr!!",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18924308.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10563": [
-        45,
-        "Booclier",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/18910563.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9976": [
-        45,
-        "Bouclier du Déni",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1899976.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25165": [
-        44,
-        "Bouclier du Mont Kipou",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1899931.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/3976": [
-        40,
-        "Le Bouclier Taverne",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1893976.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24160": [
-        35,
-        "Bouclier Eliotrope",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/18924160.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9930": [
-        32,
-        "L'Encaisseur",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/1899930.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/4192": [
-        32,
-        "Le Beau-Reflet",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/1894192.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9927": [
-        31,
-        "Bouclier en Slip",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1899927.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9975": [
-        30,
-        "Bouclier Necropete",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1899975.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11030": [
-        28,
-        "Bougligli",
-        "common",
-        "https://www.zenithwakfu.com/images/items/18911030.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9254": [
-        17,
-        "Bouflier Royal",
-        "mythic",
-        "https://www.zenithwakfu.com/images/items/1892080.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2090": [
-        17,
-        "Bouclier du Tofu",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1892090.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2057": [
-        16,
-        "Bouflier",
-        "rare",
-        "https://www.zenithwakfu.com/images/items/1892057.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10817": [
-        13,
-        "Bouclibarre",
-        "common",
-        "https://www.zenithwakfu.com/images/items/18910817.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11393": [
-        10,
-        "Bouclivore",
-        "common",
-        "https://www.zenithwakfu.com/images/items/18911393.webp"
-    ],
-    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18285": [
-        1,
-        "Bouclier du débutant",
-        "common",
-        "https://www.zenithwakfu.com/images/items/18918285.webp"
-    ]
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29589": {
+        "lvl": 230,
+        "name": "Le Constant",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18929299.webp",
+        "stats": {
+            "Portée": "-1",
+            "PV": "605",
+            "Tacle": "114",
+            "Parade": "20%",
+            "Résistance sur 2 éléments aléatoires": "97",
+            "Armure reçue": "15%"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29590-constant"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5303-constant-eternel": "0.5%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31459": {
+        "lvl": 230,
+        "name": "Bouclier Pompon",
+        "rarity": "memory",
+        "img": "https://www.zenithwakfu.com/images/items/18917291.webp",
+        "stats": {
+            "PV": "520",
+            "Tacle": "70",
+            "Esquive": "70",
+            "Parade": "22%",
+            "Résistance sur 3 éléments aléatoires": "50"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27629-carapace-theque": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//13634-noweille": "20",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22878-bouclier-pompon": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "820",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24029-larme-ogrest": "400",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//28759-pierre-symbolique": "16",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/29375-crochet-crateros": "20",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//29029-acier-infernal": "75"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29590": {
+        "lvl": 230,
+        "name": "Le Constant",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18929299.webp",
+        "stats": {
+            "Portée": "-1",
+            "PV": "617",
+            "Tacle": "136",
+            "Parade": "20%",
+            "Résistance sur 2 éléments aléatoires": "97",
+            "Armure reçue": "15%"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "574",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//28743-bois-folie": "11",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/29386-coeur-ravageur": "11",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/29387-pointe-sceptre-k-abah": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/29385-bras-ravageur": "104",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/29041-sioupere-glou-infernale": "95",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//29029-acier-infernal": "45",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29589-constant": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27816": {
+        "lvl": 215,
+        "name": "Bouclier du Capitaine Amakna",
+        "rarity": "relic",
+        "img": "https://www.zenithwakfu.com/images/items/18927816.webp",
+        "stats": {
+            "PM": "1",
+            "PW": "1",
+            "PV": "574",
+            "Parade": "20%",
+            "Résistance Élémentaire": "40"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5176-scorpietineur": "0.1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27739": {
+        "lvl": 212,
+        "name": "L'égide belle époque",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18927738.webp",
+        "stats": {
+            "PV": "496",
+            "Tacle": "76",
+            "Esquive": "76",
+            "Armure reçue": "10%",
+            "Résistance  Air": "79",
+            "Résistance  Terre": "79"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "104",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//27866-zircon-poli": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27833-griffe-toundrasoir": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27834-fragment-totem": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27738-egide-belle-epoque": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27886-sioupere-glou-divine": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27832-cuir-toundrasoir": "21",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//27874-acier-divin": "9"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27740-egide-belle-epoque"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5186-loupin": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5187-renard-valo": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5185-tigris": "0.025%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27738": {
+        "lvl": 209,
+        "name": "L'égide belle époque",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18927738.webp",
+        "stats": {
+            "PV": "406",
+            "Tacle": "57",
+            "Esquive": "57",
+            "Armure reçue": "10%",
+            "Résistance  Air": "79",
+            "Résistance  Terre": "79"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27739-egide-belle-epoque"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5186-loupin": "0.2%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5187-renard-valo": "0.2%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5185-tigris": "0.2%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24704": {
+        "lvl": 200,
+        "name": "Le Boclida",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18924703.webp",
+        "stats": {
+            "PV": "541",
+            "Tacle": "60",
+            "Parade": "15%",
+            "Résistance sur 1 élément aléatoire": "125"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24703-boclida": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22075-obsidienne-irisee": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24705-medaille-bravoure": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24706-galon-dechire": "75",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "63",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "144",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21075-plaque-eternelle": "38"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24004": {
+        "lvl": 200,
+        "name": "Bouclier de Féca",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18924004.webp",
+        "stats": {
+            "PW max": "-1",
+            "Contrôle": "1",
+            "PV": "500",
+            "Tacle": "50",
+            "Parade": "12%",
+            "Résistance Élémentaire": "40"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24018-bouclier-feca"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4378-ogrest": "1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24018": {
+        "lvl": 200,
+        "name": "Bouclier de Féca",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18924004.webp",
+        "stats": {
+            "PW max": "-1",
+            "Contrôle": "1",
+            "PV": "540",
+            "Tacle": "50",
+            "Parade": "14%",
+            "Résistance Élémentaire": "40"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22075-obsidienne-irisee": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24029-larme-ogrest": "210",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "63",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "144",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24004-bouclier-feca": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22488-orbe-eternel": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21075-plaque-eternelle": "38"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4378-ogrest": "0.25%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21831": {
+        "lvl": 199,
+        "name": "Petite Coquille",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18920933.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "279",
+            "Esquive": "35",
+            "Parade": "15%",
+            "Résistance Élémentaire": "30"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "52",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20962-petit-oeuf-dragoeuf": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20961-coquille-dragoeuf": "21",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21636-essence-eternelle": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22075-obsidienne-irisee": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20963-oeufs-poches": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20933-petite-coquille": "1"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21849-petite-coquille"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4209-dragoeuf-coque": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4210-dragoeuf-guerrier": "0.025%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4208-dragoeu-r": "0.025%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21937": {
+        "lvl": 199,
+        "name": "Écu de Frêne",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18921936.webp",
+        "stats": {
+            "PV": "521",
+            "Tacle": "40",
+            "Parade": "8%",
+            "Résistance sur 3 éléments aléatoires": "56"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21125-sioupere-glou-eternelle": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21647-acier-eternel": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/22036-braises-magmatiques": "21",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/22037-basalte": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22073-minerai-veuf-argent-etincelant": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/22041-granite": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "52",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21936-ecu-frene": "1"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21938-ecu-frene"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20933": {
+        "lvl": 191,
+        "name": "Petite Coquille",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18920933.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "240",
+            "Esquive": "20",
+            "Parade": "11%",
+            "Résistance Élémentaire": "30"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21831-petite-coquille"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4209-dragoeuf-coque": "0.2%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4210-dragoeuf-guerrier": "0.2%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4208-dragoeu-r": "0.2%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19883": {
+        "lvl": 185,
+        "name": "Rempart Aplui",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18919883.webp",
+        "stats": {
+            "PV": "310",
+            "Tacle": "30",
+            "Parade": "19%",
+            "Résistance sur 3 éléments aléatoires": "44"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "86",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19785-noix-tropikoko-traumatisee": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19791-essence-koko-nutt": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19784-ecorce-tropikoko": "59",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21074-plaque-mystique": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22166-rempart-aplui": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21124-sioupere-glou-mystique": "50",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//19752-ambre-prehistorique": "7"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24800-bouclier-comte-harebourg"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20367": {
+        "lvl": 185,
+        "name": "Egide de Moon",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18920367.webp",
+        "stats": {
+            "Portée": "1",
+            "PV": "250",
+            "Coup critique": "-10%",
+            "Parade": "8%",
+            "Résistance Élémentaire": "30"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22453-egide-moon": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "86",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22487-orbe-mystique": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//19752-ambre-prehistorique": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20280-poils-foul-moon": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21124-sioupere-glou-mystique": "50",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21646-acier-mystique": "30"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22453": {
+        "lvl": 185,
+        "name": "Egide de Moon",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18920367.webp",
+        "stats": {
+            "Portée": "1",
+            "PV": "250",
+            "Coup critique": "-10%",
+            "Parade": "8%",
+            "Résistance Élémentaire": "20"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22487-orbe-mystique": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//20177-mercure-chrome": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20280-poils-foul-moon": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21124-sioupere-glou-mystique": "24",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21074-plaque-mystique": "16",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "43"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20367-egide-moon"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22168": {
+        "lvl": 183,
+        "name": "Rempart Siramparla",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18919898.webp",
+        "stats": {
+            "PV": "371",
+            "Parade": "15%",
+            "Résistance sur 2 éléments aléatoires": "63"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19898-rempart-siramparla"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/3867-hem-kokora": "0.6%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19244": {
+        "lvl": 170,
+        "name": "L'Hextatique",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18919244.webp",
+        "stats": {
+            "PV": "189",
+            "Tacle": "30",
+            "Parade": "10%",
+            "Résistance sur 2 éléments aléatoires": "76",
+            "Résistance Critique": "20"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24687-hextatique"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26057": {
+        "lvl": 170,
+        "name": "Bouclier Riktus Elite",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18912342.webp",
+        "stats": {
+            "PV": "351",
+            "Tacle": "50",
+            "Esquive": "50",
+            "Parade": "15%",
+            "Résistance  Feu": "22",
+            "Résistance  Eau": "22",
+            "Résistance  Air": "22"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26056-bouclier-riktus-elite": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//19176-sryanur-acide": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26587-toile-chef-riktus": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26584-haleine-brigand": "50",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21123-sioupere-glou-exquise": "42",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "54",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26585-marti-fouette": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21073-plaque-exquise": "26"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26056": {
+        "lvl": 168,
+        "name": "Bouclier Riktus Elite",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18912342.webp",
+        "stats": {
+            "PV": "295",
+            "Tacle": "40",
+            "Esquive": "40",
+            "Parade": "12%",
+            "Résistance  Feu": "22",
+            "Résistance  Eau": "22",
+            "Résistance  Air": "22"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26587-toile-chef-riktus": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26585-marti-fouette": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//19176-sryanur-acide": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26055-bouclier-riktus-elite": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "20",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21123-sioupere-glou-exquise": "22",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21073-plaque-exquise": "6",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26584-haleine-brigand": "15"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26057-bouclier-riktus-elite"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25922": {
+        "lvl": 155,
+        "name": "Bouclivore",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18911393.webp",
+        "stats": {
+            "PV": "364",
+            "Parade": "19%",
+            "Résistance Critique": "23",
+            "Résistance Dos": "23"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "33",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//18486-titan-veritable": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26471-guitare-blop": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21122-sioupere-glou-precieuse": "35",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21072-plaque-precieuse": "21",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25921-bouclivore": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26472-essence-blopzart": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26470-fausse-note": "40"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18564": {
+        "lvl": 154,
+        "name": "Bouclier Fort Blindé",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18918564.webp",
+        "stats": {
+            "PV": "220",
+            "Esquive": "30",
+            "Parade": "10%",
+            "Résistance Élémentaire": "30"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/18522-planchette-animee": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//18486-titan-veritable": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/18520-serrure-beante": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/18523-dorure-cuivre": "23",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21122-sioupere-glou-precieuse": "19",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21644-acier-precieux": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "17"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22665-bouclier-fort-blinde"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25921": {
+        "lvl": 153,
+        "name": "Bouclivore",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18911393.webp",
+        "stats": {
+            "PV": "326",
+            "Parade": "15%",
+            "Résistance Critique": "23",
+            "Résistance Dos": "23"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//18484-saphir-matte": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25920-bouclivore": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21072-plaque-precieuse": "6",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21122-sioupere-glou-precieuse": "20",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26471-guitare-blop": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26472-essence-blopzart": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26470-fausse-note": "12"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25922-bouclivore"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17317": {
+        "lvl": 151,
+        "name": "Wo Bouclier",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18917317.webp",
+        "stats": {
+            "PV": "232",
+            "Tacle": "40",
+            "Parade": "6%",
+            "Résistance sur 3 éléments aléatoires": "39"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22765-bouclier"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2582-wa-wabbit": "0.8%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25920": {
+        "lvl": 150,
+        "name": "Bouclivore",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18911393.webp",
+        "stats": {
+            "PV": "306",
+            "Parade": "10%",
+            "Résistance Critique": "20",
+            "Résistance Dos": "20"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//18486-titan-veritable": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21122-sioupere-glou-precieuse": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21633-essence-precieuse": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26470-fausse-note": "23",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26471-guitare-blop": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "4"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25921-bouclivore"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22843": {
+        "lvl": 140,
+        "name": "Bouclier GG de Troyle",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18917744.webp",
+        "stats": {
+            "PV": "244",
+            "Parade": "9%",
+            "Résistance Élémentaire": "30"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17744-bouclier-gg-troyle"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4386-igow-souffwe-douleuw": "0.8%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24677": {
+        "lvl": 140,
+        "name": "Le Rapport",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18918951.webp",
+        "stats": {
+            "PV": "251",
+            "Tacle": "20",
+            "Parade": "13%",
+            "Résistance sur 1 élément aléatoire": "108"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24676-rapport": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24706-galon-dechire": "34",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22957-minerai-onyx": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "22",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24705-medaille-bravoure": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21071-plaque-raffinee": "17"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18388": {
+        "lvl": 140,
+        "name": "Bouclier d'Asse",
+        "rarity": "relic",
+        "img": "https://www.zenithwakfu.com/images/items/18910028.webp",
+        "stats": {
+            "Portée": "1",
+            "PV": "303",
+            "Tacle": "13",
+            "Esquive": "13",
+            "Parade": "18%",
+            "Résistance Élémentaire": "45",
+            "Résistance Critique": "10",
+            "Résistance Dos": "10"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2827-spectrex-tourmenteur": "0.1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22933": {
+        "lvl": 140,
+        "name": "Le Wompifeste",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18917257.webp",
+        "stats": {
+            "PV": "137",
+            "Esquive": "60",
+            "Parade": "10%",
+            "Résistance sur 2 éléments aléatoires": "69"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17250-fouwwuwe-black-wabbit": "34",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17257-wompifeste": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17264-enewgie-noiwe": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "22",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22958-minerai-mythwil-somptueux": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17251-tissu-wubis": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21071-plaque-raffinee": "17"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2561-black-wabbit": "0.023%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2562-black-gwand-pa-wabbit": "0.023%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2559-black-ti-wabbit": "0.023%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2560-black-wabbit": "0.023%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22977": {
+        "lvl": 140,
+        "name": "Bouclier du Sage",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18917210.webp",
+        "stats": {
+            "PV": "206",
+            "Tacle": "30",
+            "Esquive": "30",
+            "Parade": "10%",
+            "Résistance Élémentaire": "30"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "22",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17251-tissu-wubis": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22958-minerai-mythwil-somptueux": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17264-enewgie-noiwe": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17250-fouwwuwe-black-wabbit": "34",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "30",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21071-plaque-raffinee": "17",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17783-bouclier-sage": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31115": {
+        "lvl": 140,
+        "name": "Targe des rêves",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18931113.webp",
+        "stats": {
+            "PV": "195",
+            "Tacle": "30",
+            "Parade": "14%",
+            "Résistance sur 3 éléments aléatoires": "40"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "26",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22959-bois-myscandelle-fortifie": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/31064-sepale-mutant": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/31065-jus-potofeu": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/31114-targe-reves": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/31063-feuille-fletrie": "34",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "29",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21058-manche-raffine": "17"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17783": {
+        "lvl": 140,
+        "name": "Bouclier du Sage",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18917210.webp",
+        "stats": {
+            "PV": "198",
+            "Tacle": "25",
+            "Esquive": "25",
+            "Parade": "7%",
+            "Résistance Élémentaire": "25"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "11",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22958-minerai-mythwil-somptueux": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17251-tissu-wubis": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17264-enewgie-noiwe": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17250-fouwwuwe-black-wabbit": "20",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "17",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21071-plaque-raffinee": "10"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22977-bouclier-sage"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17291": {
+        "lvl": 137,
+        "name": "Bouclier Pompon",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18917291.webp",
+        "stats": {
+            "PV": "154",
+            "Tacle": "25",
+            "Parade": "6%",
+            "Résistance Élémentaire": "25"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17277-colowation-vewte": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22958-minerai-mythwil-somptueux": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/17276-fouwwuwe-wabbit": "23",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21071-plaque-raffinee": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "3"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22877-bouclier-pompon"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31113": {
+        "lvl": 130,
+        "name": "Targe des rêves",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18931113.webp",
+        "stats": {
+            "PV": "160",
+            "Tacle": "20",
+            "Parade": "6%",
+            "Résistance sur 3 éléments aléatoires": "30"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22960-bois-belgamete-resplendissant": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/31064-sepale-mutant": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/31063-feuille-fletrie": "20",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21121-sioupere-glou-raffinee": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21058-manche-raffine": "7"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/31114-targe-reves"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23170": {
+        "lvl": 125,
+        "name": "Bouclier du comte Harebourg",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18916146.webp",
+        "stats": {
+            "PV": "235",
+            "Parade": "10%",
+            "Résistance sur 3 éléments aléatoires": "42"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//23167-rose-sables": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/23150-meka-piquet": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15837-clesalyde": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15835-bouboulon": "28",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16146-bouclier-comte-harebourg": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21070-plaque-durable": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21120-sioupere-glou-durable": "25"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24800-bouclier-comte-harebourg"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14121": {
+        "lvl": 110,
+        "name": "Mogmatique",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18914121.webp",
+        "stats": {
+            "PV": "155",
+            "Tacle": "10",
+            "Esquive": "10",
+            "Parade": "10%",
+            "Résistance Élémentaire": "26"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "10",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//22482-orbe-solide": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/14126-braises-boufrog": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21119-sioupere-glou-solide": "22",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23191-mogmatique": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//23325-taroudium-poli": "3"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/42-magmog-boufrog": "0.5%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24657": {
+        "lvl": 110,
+        "name": "L'Azailé",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18917208.webp",
+        "stats": {
+            "PV": "128",
+            "Tacle": "20",
+            "Parade": "6%",
+            "Résistance sur 1 élément aléatoire": "67"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24658-azaile"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24658": {
+        "lvl": 110,
+        "name": "L'Azailé",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18917208.webp",
+        "stats": {
+            "PV": "151",
+            "Tacle": "20",
+            "Parade": "6%",
+            "Résistance sur 1 élément aléatoire": "75"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24705-medaille-bravoure": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24657-azaile": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//13181-barriere-korail": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24706-galon-dechire": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21119-sioupere-glou-solide": "15",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "4"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23274": {
+        "lvl": 108,
+        "name": "Pavois Givré",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18916026.webp",
+        "stats": {
+            "PV": "175",
+            "Tacle": "10",
+            "Esquive": "10",
+            "Parade": "8%",
+            "Résistance Dos": "33"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21119-sioupere-glou-solide": "15",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15848-poils-plume-neiges": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//23325-taroudium-poli": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/23233-touffe-poils-mulmouth": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16026-pavois-givre": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/15849-croc-yech-ti-wawa": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2364-corbamouth": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2367-mulmouth-enrage": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2365-cormoune": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2366-mulmoune": "0.05%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25551": {
+        "lvl": 107,
+        "name": "Bouclier Riktus",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18911870.webp",
+        "stats": {
+            "PW": "1",
+            "PV": "106",
+            "Résistance Élémentaire": "20"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25550-bouclier-riktus": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//23325-taroudium-poli": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21119-sioupere-glou-solide": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "1"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25552-bouclier-riktus"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1166-maluss": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1169-malocac": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1167-malopo": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1168-malobouc": "0.4%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16026": {
+        "lvl": 105,
+        "name": "Pavois Givré",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18916026.webp",
+        "stats": {
+            "PV": "171",
+            "Tacle": "8",
+            "Esquive": "8",
+            "Parade": "5%",
+            "Résistance Dos": "29"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21119-sioupere-glou-solide": "9",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//23325-taroudium-poli": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23275-pavois-givre": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "1"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23274-pavois-givre"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2364-corbamouth": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2367-mulmouth-enrage": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2365-cormoune": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2366-mulmoune": "0.4%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16827": {
+        "lvl": 105,
+        "name": "Bouclier Gonflable",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18916827.webp",
+        "stats": {
+            "PV": "116",
+            "Esquive": "30",
+            "Parade": "4%",
+            "Résistance Élémentaire": "20"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2469-bilby-queen": "1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23317": {
+        "lvl": 101,
+        "name": "Rondelle de Citron",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18916767.webp",
+        "stats": {
+            "PV": "138",
+            "Parade": "6%",
+            "Résistance Élémentaire": "18",
+            "Résistance Critique": "10"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16767-rondelle-citron"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1358-gelee-citron": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1341-gelee-fraise": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1339-gelee-framboise": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1340-gelee-menthe": "0.4%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23275": {
+        "lvl": 97,
+        "name": "Pavois Givré",
+        "rarity": "common",
+        "img": "https://www.zenithwakfu.com/images/items/18916026.webp",
+        "stats": {
+            "PV": "133",
+            "Tacle": "6",
+            "Esquive": "6",
+            "Parade": "5%",
+            "Résistance Dos": "23"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16026-pavois-givre"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14631": {
+        "lvl": 95,
+        "name": "Targe du Défenseur Impérial ",
+        "rarity": "legendary",
+        "img": "https://www.zenithwakfu.com/images/items/18914631.webp",
+        "stats": {
+            "PV": "154",
+            "Tacle": "20",
+            "Parade": "8%",
+            "Résistance Élémentaire": "20"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//14695-sceau-maitre-armurier": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12481-porte-etoile-bleu": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12604-paroisse": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25165-bouclier-mont-kipou": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/2057-bouflier": "24",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/10100-demimoune": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25345-bouclier-collant": "6"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16795": {
+        "lvl": 95,
+        "name": "Planche de Nage",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18916795.webp",
+        "stats": {
+            "PV": "123",
+            "Parade": "6%",
+            "Résistance sur 2 éléments aléatoires": "46",
+            "Résistance Critique": "10"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21068-plaque-brute": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21118-sioupere-glou-brute": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/16784-sable-dore": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/16785-ecaille-sablonneuse": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23422-planche-nage": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/16797-perle-nuancee": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2460-moulstacho": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2463-ver-moule-vorace": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2461-requin-moularteau": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2462-ver-moule-immature": "0.05%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17210": {
+        "lvl": 94,
+        "name": "Bouclier de l'Apprenti",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18917782.webp",
+        "stats": {
+            "PV": "121",
+            "Tacle": "6",
+            "Esquive": "6",
+            "Parade": "6%",
+            "Résistance Élémentaire": "20"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21118-sioupere-glou-brute": "13",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21068-plaque-brute": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19488-gene-vampyrisation": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19500-fourrure-kiki": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19487-pourriture": "14"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23343": {
+        "lvl": 94,
+        "name": "La Paroisse",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18912604.webp",
+        "stats": {
+            "PV": "120",
+            "Tacle": "15",
+            "Parade": "4%",
+            "Résistance Élémentaire": "20"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/12594-glas-age": "8",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21118-sioupere-glou-brute": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/12595-bouton-mone-austere": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//17221-amethyste-coeur-dragon": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12604-paroisse": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/12615-prisme-ectoplasme": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1778-grimm-beurguen": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1779-gros-nambourg": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1777-raymond-garden": "0.05%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19508": {
+        "lvl": 93,
+        "name": "Boucle mort",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18919508.webp",
+        "stats": {
+            "PV": "120",
+            "Tacle": "10",
+            "Parade": "6%",
+            "Résistance Élémentaire": "19"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21118-sioupere-glou-brute": "13",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21068-plaque-brute": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19488-gene-vampyrisation": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19500-fourrure-kiki": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/19487-pourriture": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "3"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23406": {
+        "lvl": 93,
+        "name": "Egide d'El Pochito",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18916899.webp",
+        "stats": {
+            "PV": "122",
+            "Tacle": "9",
+            "Esquive": "9",
+            "Parade": "7%",
+            "Résistance Élémentaire": "14"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21068-plaque-brute": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21118-sioupere-glou-brute": "14",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/23334-tetrool": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16899-egide-pochito": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/23335-karne-trool": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/23333-poil-trool": "8"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2443-pochito": "0.5%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16899": {
+        "lvl": 88,
+        "name": "Egide d'El Pochito",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18916899.webp",
+        "stats": {
+            "PV": "97",
+            "Tacle": "7",
+            "Esquive": "7",
+            "Parade": "6%",
+            "Résistance Élémentaire": "14"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23406-egide-pochito"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2443-pochito": "4%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25475": {
+        "lvl": 87,
+        "name": "Bouclier Chafer",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18910970.webp",
+        "stats": {
+            "Contrôle": "1",
+            "PV": "94",
+            "Tacle": "11",
+            "Esquive": "11",
+            "Résistance sur 1 élément aléatoire": "50"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25476-bouclier-chafer"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4740-chafer-archer": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4741-chafer-elite": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4742-chafer-lancier": "0.4%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19449": {
+        "lvl": 85,
+        "name": "Couvercle Remisé",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18919449.webp",
+        "stats": {
+            "PV": "120",
+            "Tacle": "14",
+            "Parade": "5%",
+            "Résistance Élémentaire": "12"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24640": {
+        "lvl": 80,
+        "name": "Le Ryfé",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18917209.webp",
+        "stats": {
+            "PV": "112",
+            "Parade": "6%",
+            "Résistance Élémentaire": "18"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//11486-kroum-flamboyant": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24705-medaille-bravoure": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24639-ryfe": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21117-sioupere-glou-rustique": "13",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/24706-galon-dechire": "7"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23492": {
+        "lvl": 78,
+        "name": "Porte Etoile Bleu ",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18912481.webp",
+        "stats": {
+            "PV": "91",
+            "Tacle": "7",
+            "Esquive": "7",
+            "Parade": "5%",
+            "Résistance Élémentaire": "17"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21067-plaque-rustique": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21117-sioupere-glou-rustique": "13",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/5438-serre-corbac": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12481-porte-etoile-bleu": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/5437-bec-corbac": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/12470-etoile-bleue": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1155-corbac-chef": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1152-corbac": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/1153-corbic": "0.05%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25394": {
+        "lvl": 78,
+        "name": "Targe à Truche",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18910093.webp",
+        "stats": {
+            "PV": "105",
+            "Tacle": "50",
+            "Esquive": "-100",
+            "Parade": "8%",
+            "Résistance Élémentaire": "15"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26428-bec-truche": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21117-sioupere-glou-rustique": "13",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26429-patte-truche": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//23686-quartz-fume": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26430-titanoeuf": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25393-targe-truche": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "2"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4867-truche": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4868-truchon": "0.05%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4869-truchemuche": "0.05%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17747": {
+        "lvl": 77,
+        "name": "Le Foulmoune",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18910099.webp",
+        "stats": {
+            "PV": "79",
+            "Tacle": "7",
+            "Esquive": "7",
+            "Parade": "6%",
+            "Résistance Élémentaire": "15",
+            "Résistance Critique": "10"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/5126-mulou-garou-roux-grisonnant": "1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23535": {
+        "lvl": 77,
+        "name": "Le Résidu",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18915404.webp",
+        "stats": {
+            "PV": "90",
+            "Tacle": "10",
+            "Parade": "6%",
+            "Résistance Élémentaire": "15"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/15404-residu"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/2313-ratachouille": "1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25345": {
+        "lvl": 74,
+        "name": "Bouclier Collant",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/1899655.webp",
+        "stats": {
+            "PV": "88",
+            "Tacle": "12",
+            "Résistance Élémentaire": "15"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25344-bouclier-collant": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21628-essence-rustique": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21117-sioupere-glou-rustique": "7"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25346-bouclier-collant",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14631-targe-defenseur-imperial"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4915-gros-boo": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4916-moskito": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4917-sangsuce-tsu-tsu": "0.4%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25393": {
+        "lvl": 70,
+        "name": "Targe à Truche",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18910093.webp",
+        "stats": {
+            "PV": "83",
+            "Tacle": "50",
+            "Esquive": "-100",
+            "Parade": "8%",
+            "Résistance Élémentaire": "10"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25394-targe-truche"
+        ],
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4867-truche": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4868-truchon": "0.4%",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4869-truchemuche": "0.4%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25344": {
+        "lvl": 66,
+        "name": "Bouclier Collant",
+        "rarity": "common",
+        "img": "https://www.zenithwakfu.com/images/items/1899655.webp",
+        "stats": {
+            "PV": "68",
+            "Tacle": "9",
+            "Résistance Élémentaire": "11"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25345-bouclier-collant"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14851": {
+        "lvl": 65,
+        "name": "Bouclier Abraknyde Ancestral",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18914851.webp",
+        "stats": {
+            "PV": "74",
+            "Tacle": "4",
+            "Esquive": "4",
+            "Parade": "5%",
+            "Résistance Élémentaire": "7"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21170": {
+        "lvl": 64,
+        "name": "L'Ecu M'Demer",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18915180.webp",
+        "stats": {
+            "PV": "81",
+            "Tacle": "10",
+            "Parade": "5%",
+            "Résistance sur 2 éléments aléatoires": "17"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//23686-quartz-fume": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21427-nageoire-sanglante": "2",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21424-peau-skouale": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21116-sioupere-glou-fragile": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "2"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21444": {
+        "lvl": 62,
+        "name": "Le Fiskouale",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/1893974.webp",
+        "stats": {
+            "PV": "63",
+            "Tacle": "6",
+            "Esquive": "6",
+            "Parade": "6%",
+            "Résistance Élémentaire": "13"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21116-sioupere-glou-fragile": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//23686-quartz-fume": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21423-dent-skouale": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21166-fiskouale": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21427-nageoire-sanglante": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "1"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/5945": {
+        "lvl": 60,
+        "name": "Bouclier Etoilé",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/1895945.webp",
+        "stats": {
+            "PV": "52",
+            "Parade": "5%",
+            "Résistance sur 2 éléments aléatoires": "18",
+            "Résistance  Feu": "12",
+            "Résistance  Eau": "12"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21066-plaque-fragile": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//6162-bois-charme": "24",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/5521-pince-cwabe-langoureuse": "18",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/8412-oeil-etoile": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//8082-tentacule-etoile": "10"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30438": {
+        "lvl": 55,
+        "name": "Bouclier de Jim",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18930438.webp",
+        "stats": {
+            "PV": "62",
+            "Parade": "4%",
+            "Résistance Élémentaire": "12"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//23685-silex-inflammable": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/30386-cuir-nimbo": "12",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21116-sioupere-glou-fragile": "5"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30439-bouclier-jim"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15037": {
+        "lvl": 54,
+        "name": "Bouclier Ktoplasme",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18915037.webp",
+        "stats": {
+            "PV": "51",
+            "Esquive": "8",
+            "Parade": "5%",
+            "Résistance Élémentaire": "8"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15158": {
+        "lvl": 48,
+        "name": "Pétra-Pack",
+        "rarity": "mythic",
+        "img": "https://www.zenithwakfu.com/images/items/18915158.webp",
+        "stats": {
+            "PV": "60",
+            "Parade": "6%",
+            "Résistance Élémentaire": "8",
+            "Résistance Dos": "8"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/4519-craqueleur-royal": "1%"
+        }
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10563": {
+        "lvl": 45,
+        "name": "Booclier",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/18910563.webp",
+        "stats": {
+            "PV": "44",
+            "Tacle": "3",
+            "Esquive": "3",
+            "Parade": "4%",
+            "Résistance Élémentaire": "7"
+        },
+        "recipe": "No recipe",
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25165": {
+        "lvl": 44,
+        "name": "Bouclier du Mont Kipou",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/1899931.webp",
+        "stats": {
+            "PV": "50",
+            "Tacle": "8",
+            "Résistance sur 2 éléments aléatoires": "14"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/26398-grelot": "10",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/21115-sioupere-glou-imparfaite": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//21065-plaque-imparfaite": "3",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/27093-poudre": "1"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25166-bouclier-mont-kipou",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14631-targe-defenseur-imperial"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9927": {
+        "lvl": 31,
+        "name": "Bouclier en Slip",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/1899927.webp",
+        "stats": {
+            "PV": "25",
+            "Tacle": "10",
+            "Résistance Élémentaire": "10"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20679-peau-tofeu": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20606-sioupere-glou-rudimentaire": "5",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//20662-plaque-rudimentaire": "2"
+        },
+        "use_for_craft": [
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//14695-sceau-maitre-armurier"
+        ],
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9975": {
+        "lvl": 30,
+        "name": "Bouclier Necropete",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/1899975.webp",
+        "stats": {
+            "PV": "24",
+            "Tacle": "7",
+            "Parade": "5%",
+            "Résistance Élémentaire": "4"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//20662-plaque-rudimentaire": "7",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//1851-minerai-cuivre": "13",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//2243-planche-rudimentaire": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//20653-acier-rudimentaire": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//26421-groin": "35"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    },
+    "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2090": {
+        "lvl": 17,
+        "name": "Bouclier du Tofu",
+        "rarity": "rare",
+        "img": "https://www.zenithwakfu.com/images/items/1892090.webp",
+        "stats": {
+            "PV": "17",
+            "Tacle": "4",
+            "Esquive": "4",
+            "Résistance Élémentaire": "5"
+        },
+        "recipe": {
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie//20584-sel-ebos": "1",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/20605-sioupere-glou-grossiere": "4",
+            "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources/6256-pheromones-tofu": "10"
+        },
+        "use_for_craft": "not use for craft",
+        "drop": "No drop"
+    }
 }

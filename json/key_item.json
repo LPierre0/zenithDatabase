@@ -111,6 +111,10 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29187",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29186"
     },
+    "https://www.zenithwakfu.com/images/items/13429177.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29178",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29177"
+    },
     "https://www.zenithwakfu.com/images/items/13429173.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29174",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29173"
@@ -132,6 +136,10 @@
     "https://www.zenithwakfu.com/images/items/13429139.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29140",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29139"
+    },
+    "https://www.zenithwakfu.com/images/items/13429115.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29116",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29115"
     },
     "https://www.zenithwakfu.com/images/items/13429102.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29104",
@@ -220,6 +228,10 @@
     "https://www.zenithwakfu.com/images/items/13427819.webp": {
         "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27819"
     },
+    "https://www.zenithwakfu.com/images/items/13410767.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27806",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28409"
+    },
     "https://www.zenithwakfu.com/images/items/13427794.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27795",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27794"
@@ -228,6 +240,12 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27770",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27769",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27768"
+    },
+    "https://www.zenithwakfu.com/images/items/13416035.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27747",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23018",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23019",
+        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16035"
     },
     "https://www.zenithwakfu.com/images/items/13427707.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27709",
@@ -316,6 +334,14 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26917",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26916"
     },
+    "https://www.zenithwakfu.com/images/items/13426303.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26323",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26303"
+    },
+    "https://www.zenithwakfu.com/images/items/13426292.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26313",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26292"
+    },
     "https://www.zenithwakfu.com/images/items/13426274.webp": {
         "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26274",
         "epic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26599"
@@ -359,6 +385,11 @@
         "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24124",
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24221",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/7574"
+    },
+    "https://www.zenithwakfu.com/images/items/13411413.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24123",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24149",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11413"
     },
     "https://www.zenithwakfu.com/images/items/13423975.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23976",
@@ -669,10 +700,6 @@
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25886",
         "common": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25885"
     },
-    "https://www.zenithwakfu.com/images/items/13411413.webp": {
-        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24149",
-        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11413"
-    },
     "https://www.zenithwakfu.com/images/items/13418222.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23221",
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18222"
@@ -857,6 +884,11 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25656",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25655"
     },
+    "https://www.zenithwakfu.com/images/items/13415721.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25630",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25629",
+        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25628"
+    },
     "https://www.zenithwakfu.com/images/items/13411811.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25617",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25616",
@@ -909,11 +941,6 @@
     "https://www.zenithwakfu.com/images/items/13417101.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23033",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17101"
-    },
-    "https://www.zenithwakfu.com/images/items/13416035.webp": {
-        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23018",
-        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23019",
-        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16035"
     },
     "https://www.zenithwakfu.com/images/items/13415962.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23004",
@@ -1512,6 +1539,9 @@
     "https://www.zenithwakfu.com/images/items/13415359.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15359"
     },
+    "https://www.zenithwakfu.com/images/items/1344224.webp": {
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/4224"
+    },
     "https://www.zenithwakfu.com/images/items/1342296.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2296"
     },
@@ -1816,6 +1846,10 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23153",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18639"
     },
+    "https://www.zenithwakfu.com/images/items/12030235.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30794",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30235"
+    },
     "https://www.zenithwakfu.com/images/items/12030313.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30314",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30313"
@@ -1976,6 +2010,10 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28063",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28062"
     },
+    "https://www.zenithwakfu.com/images/items/12010777.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27809",
+        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10777"
+    },
     "https://www.zenithwakfu.com/images/items/12027786.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27788",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27787",
@@ -2087,8 +2125,14 @@
         "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24252",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10288"
     },
+    "https://www.zenithwakfu.com/images/items/12010276.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24116",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13603"
+    },
     "https://www.zenithwakfu.com/images/items/12011410.webp": {
-        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24115"
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24115",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24146",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11410"
     },
     "https://www.zenithwakfu.com/images/items/12024027.webp": {
         "epic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24027"
@@ -2096,6 +2140,10 @@
     "https://www.zenithwakfu.com/images/items/12023985.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23986",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23985"
+    },
+    "https://www.zenithwakfu.com/images/items/12023969.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23970",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23969"
     },
     "https://www.zenithwakfu.com/images/items/12023924.webp": {
         "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23924"
@@ -2591,6 +2639,9 @@
     "https://www.zenithwakfu.com/images/items/12015243.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20055"
     },
+    "https://www.zenithwakfu.com/images/items/12010145.webp": {
+        "epic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26579"
+    },
     "https://www.zenithwakfu.com/images/items/12014601.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25720",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25719",
@@ -2718,9 +2769,6 @@
     },
     "https://www.zenithwakfu.com/images/items/12016012.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26544"
-    },
-    "https://www.zenithwakfu.com/images/items/12010276.webp": {
-        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13603"
     },
     "https://www.zenithwakfu.com/images/items/1209358.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25584",
@@ -3044,9 +3092,6 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14599",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23704"
     },
-    "https://www.zenithwakfu.com/images/items/12030235.webp": {
-        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30235"
-    },
     "https://www.zenithwakfu.com/images/items/12030224.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30225",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30224"
@@ -3103,9 +3148,6 @@
     },
     "https://www.zenithwakfu.com/images/items/1209555.webp": {
         "common": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9555"
-    },
-    "https://www.zenithwakfu.com/images/items/12010777.webp": {
-        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10777"
     },
     "https://www.zenithwakfu.com/images/items/1202986.webp": {
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2986"
@@ -3212,6 +3254,11 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29328",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29327"
     },
+    "https://www.zenithwakfu.com/images/items/10329285.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29287",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29286",
+        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29285"
+    },
     "https://www.zenithwakfu.com/images/items/10329273.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29274",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29273"
@@ -3219,6 +3266,9 @@
     "https://www.zenithwakfu.com/images/items/10329263.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29264",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29263"
+    },
+    "https://www.zenithwakfu.com/images/items/10329243.webp": {
+        "epic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29243"
     },
     "https://www.zenithwakfu.com/images/items/10329237.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29238",
@@ -3232,6 +3282,10 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29185",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29184",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29183"
+    },
+    "https://www.zenithwakfu.com/images/items/10329167.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29168",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29167"
     },
     "https://www.zenithwakfu.com/images/items/10329161.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29163",
@@ -3358,6 +3412,10 @@
     "https://www.zenithwakfu.com/images/items/10327698.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27699",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27698"
+    },
+    "https://www.zenithwakfu.com/images/items/10314132.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27689",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14132"
     },
     "https://www.zenithwakfu.com/images/items/10327678.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27679",
@@ -3495,6 +3553,13 @@
     "https://www.zenithwakfu.com/images/items/10313574.webp": {
         "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24117",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13574"
+    },
+    "https://www.zenithwakfu.com/images/items/10324028.webp": {
+        "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24028"
+    },
+    "https://www.zenithwakfu.com/images/items/10323983.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23984",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23983"
     },
     "https://www.zenithwakfu.com/images/items/10323981.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23982",
@@ -4065,7 +4130,8 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21544"
     },
     "https://www.zenithwakfu.com/images/items/10320996.webp": {
-        "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20996"
+        "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20996",
+        "common": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21697"
     },
     "https://www.zenithwakfu.com/images/items/10320563.webp": {
         "epic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20563"
@@ -4392,9 +4458,6 @@
     },
     "https://www.zenithwakfu.com/images/items/10315201.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15201"
-    },
-    "https://www.zenithwakfu.com/images/items/10314132.webp": {
-        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14132"
     },
     "https://www.zenithwakfu.com/images/items/10314591.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25440",
@@ -4807,6 +4870,11 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29276",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29275"
     },
+    "https://www.zenithwakfu.com/images/items/13629257.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29259",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29258",
+        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29257"
+    },
     "https://www.zenithwakfu.com/images/items/13629235.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29236",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29235"
@@ -4967,6 +5035,10 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27399",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27398"
     },
+    "https://www.zenithwakfu.com/images/items/13627297.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27298",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27297"
+    },
     "https://www.zenithwakfu.com/images/items/13626854.webp": {
         "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27277",
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26856",
@@ -4985,9 +5057,21 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27002",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27001"
     },
+    "https://www.zenithwakfu.com/images/items/13626953.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26954",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26953"
+    },
     "https://www.zenithwakfu.com/images/items/13626928.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26929",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26928"
+    },
+    "https://www.zenithwakfu.com/images/items/13626299.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26318",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26299"
+    },
+    "https://www.zenithwakfu.com/images/items/13626290.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26311",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26290"
     },
     "https://www.zenithwakfu.com/images/items/13624732.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24833",
@@ -5006,6 +5090,11 @@
     "https://www.zenithwakfu.com/images/items/13624578.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24579",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24578"
+    },
+    "https://www.zenithwakfu.com/images/items/13612888.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24253",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12888",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23369"
     },
     "https://www.zenithwakfu.com/images/items/1369616.webp": {
         "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24128",
@@ -5101,6 +5190,10 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27472",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27471",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27470"
+    },
+    "https://www.zenithwakfu.com/images/items/13627443.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27444",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27443"
     },
     "https://www.zenithwakfu.com/images/items/13626872.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26874",
@@ -5377,6 +5470,10 @@
     "https://www.zenithwakfu.com/images/items/13617116.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24483",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24482"
+    },
+    "https://www.zenithwakfu.com/images/items/13624328.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24359",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24328"
     },
     "https://www.zenithwakfu.com/images/items/13618458.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23211",
@@ -5673,10 +5770,6 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14136",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23844"
     },
-    "https://www.zenithwakfu.com/images/items/13612888.webp": {
-        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12888",
-        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23369"
-    },
     "https://www.zenithwakfu.com/images/items/13616787.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23415",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16787",
@@ -5966,6 +6059,9 @@
     "https://www.zenithwakfu.com/images/items/13611011.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23703",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11011"
+    },
+    "https://www.zenithwakfu.com/images/items/13615155.webp": {
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15155"
     },
     "https://www.zenithwakfu.com/images/items/13615546.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25161"
@@ -6521,6 +6617,10 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30796",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30354"
     },
+    "https://www.zenithwakfu.com/images/items/13830677.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30678",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30677"
+    },
     "https://www.zenithwakfu.com/images/items/13830318.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30319",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30318"
@@ -6696,10 +6796,21 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27757",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27756"
     },
+    "https://www.zenithwakfu.com/images/items/13816007.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27749",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26529",
+        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26528",
+        "common": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26527"
+    },
     "https://www.zenithwakfu.com/images/items/13827713.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27715",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27714",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27713"
+    },
+    "https://www.zenithwakfu.com/images/items/13814140.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27693",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23177",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14140"
     },
     "https://www.zenithwakfu.com/images/items/13827676.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27677",
@@ -6761,6 +6872,10 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27021",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27020"
     },
+    "https://www.zenithwakfu.com/images/items/13826997.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26998",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26997"
+    },
     "https://www.zenithwakfu.com/images/items/13826932.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26934",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26933",
@@ -6786,6 +6901,14 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26049",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26048",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26047"
+    },
+    "https://www.zenithwakfu.com/images/items/13826304.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26324",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26304"
+    },
+    "https://www.zenithwakfu.com/images/items/13826289.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26310",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26289"
     },
     "https://www.zenithwakfu.com/images/items/13824727.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24827",
@@ -6888,6 +7011,10 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27464",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27463"
     },
+    "https://www.zenithwakfu.com/images/items/13827449.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27450",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27449"
+    },
     "https://www.zenithwakfu.com/images/items/13826869.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26871",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26870",
@@ -6927,6 +7054,9 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19881",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22236",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22237"
+    },
+    "https://www.zenithwakfu.com/images/items/13819859.webp": {
+        "epic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19859"
     },
     "https://www.zenithwakfu.com/images/items/13819713.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19713",
@@ -7015,6 +7145,10 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31358",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31357"
     },
+    "https://www.zenithwakfu.com/images/items/13831351.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31352",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31351"
+    },
     "https://www.zenithwakfu.com/images/items/13831277.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31278",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31277"
@@ -7043,6 +7177,10 @@
     "https://www.zenithwakfu.com/images/items/13811388.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25934",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25933"
+    },
+    "https://www.zenithwakfu.com/images/items/13825911.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25912",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25911"
     },
     "https://www.zenithwakfu.com/images/items/13818644.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22773",
@@ -7128,6 +7266,9 @@
     "https://www.zenithwakfu.com/images/items/13824327.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24358",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24327"
+    },
+    "https://www.zenithwakfu.com/images/items/11924331.webp": {
+        "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24331"
     },
     "https://www.zenithwakfu.com/images/items/13818461.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23217",
@@ -7289,10 +7430,6 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23182",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12484"
     },
-    "https://www.zenithwakfu.com/images/items/13814140.webp": {
-        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23177",
-        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14140"
-    },
     "https://www.zenithwakfu.com/images/items/13814123.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14123",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23186"
@@ -7320,11 +7457,6 @@
     "https://www.zenithwakfu.com/images/items/13814432.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14432",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23250"
-    },
-    "https://www.zenithwakfu.com/images/items/13816007.webp": {
-        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26529",
-        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26528",
-        "common": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26527"
     },
     "https://www.zenithwakfu.com/images/items/13816774.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23319",
@@ -7409,6 +7541,9 @@
     },
     "https://www.zenithwakfu.com/images/items/13821241.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21241"
+    },
+    "https://www.zenithwakfu.com/images/items/1389997.webp": {
+        "epic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18691"
     },
     "https://www.zenithwakfu.com/images/items/13829805.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29806"
@@ -7916,9 +8051,17 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27623",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27622"
     },
+    "https://www.zenithwakfu.com/images/items/25427377.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27378",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27377"
+    },
     "https://www.zenithwakfu.com/images/items/11027371.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27372",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27371"
+    },
+    "https://www.zenithwakfu.com/images/items/25427299.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27300",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27299"
     },
     "https://www.zenithwakfu.com/images/items/10827022.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27023",
@@ -7949,6 +8092,9 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26914",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26913"
     },
+    "https://www.zenithwakfu.com/images/items/11026498.webp": {
+        "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26593"
+    },
     "https://www.zenithwakfu.com/images/items/11026497.webp": {
         "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26497"
     },
@@ -7960,6 +8106,10 @@
     },
     "https://www.zenithwakfu.com/images/items/11026494.webp": {
         "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26494"
+    },
+    "https://www.zenithwakfu.com/images/items/10826295.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26316",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26295"
     },
     "https://www.zenithwakfu.com/images/items/11024729.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24830",
@@ -7975,7 +8125,9 @@
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23828"
     },
     "https://www.zenithwakfu.com/images/items/11516139.webp": {
-        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24799"
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24799",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23171",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16139"
     },
     "https://www.zenithwakfu.com/images/items/10824724.webp": {
         "epic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24724"
@@ -8067,6 +8219,10 @@
     "https://www.zenithwakfu.com/images/items/25420198.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20198",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22243"
+    },
+    "https://www.zenithwakfu.com/images/items/11019899.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19899",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22205"
     },
     "https://www.zenithwakfu.com/images/items/11019884.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19884",
@@ -8233,6 +8389,10 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25785",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25784"
     },
+    "https://www.zenithwakfu.com/images/items/11524667.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24667",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24666"
+    },
     "https://www.zenithwakfu.com/images/items/11017190.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24665",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24664",
@@ -8288,6 +8448,10 @@
     "https://www.zenithwakfu.com/images/items/10814715.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25666",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25665"
+    },
+    "https://www.zenithwakfu.com/images/items/11511627.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25664",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25663"
     },
     "https://www.zenithwakfu.com/images/items/11011558.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25662",
@@ -8453,6 +8617,9 @@
     },
     "https://www.zenithwakfu.com/images/items/11014663.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14663"
+    },
+    "https://www.zenithwakfu.com/images/items/25414656.webp": {
+        "epic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14656"
     },
     "https://www.zenithwakfu.com/images/items/11314651.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14651"
@@ -8910,6 +9077,10 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27374",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27373"
     },
+    "https://www.zenithwakfu.com/images/items/10127298.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27288",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27287"
+    },
     "https://www.zenithwakfu.com/images/items/11727009.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27011",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27010",
@@ -8923,6 +9094,10 @@
     "https://www.zenithwakfu.com/images/items/22326959.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26960",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26959"
+    },
+    "https://www.zenithwakfu.com/images/items/11126300.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26319",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26300"
     },
     "https://www.zenithwakfu.com/images/items/10114670.webp": {
         "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25080",
@@ -9295,6 +9470,10 @@
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25619",
         "common": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25618"
     },
+    "https://www.zenithwakfu.com/images/items/22324325.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24356",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24325"
+    },
     "https://www.zenithwakfu.com/images/items/25310078.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24143",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24142"
@@ -9346,6 +9525,10 @@
     "https://www.zenithwakfu.com/images/items/11111868.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25556",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25555"
+    },
+    "https://www.zenithwakfu.com/images/items/11711865.webp": {
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25554",
+        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25553"
     },
     "https://www.zenithwakfu.com/images/items/25311866.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25549",
@@ -9568,6 +9751,9 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24637",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24636"
     },
+    "https://www.zenithwakfu.com/images/items/11717204.webp": {
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24635"
+    },
     "https://www.zenithwakfu.com/images/items/10117201.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24634",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24633"
@@ -9758,6 +9944,9 @@
     "https://www.zenithwakfu.com/images/items/22325124.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25124"
     },
+    "https://www.zenithwakfu.com/images/items/22324307.webp": {
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24307"
+    },
     "https://www.zenithwakfu.com/images/items/11112448.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23790",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12448"
@@ -9940,6 +10129,10 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29246",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29245"
     },
+    "https://www.zenithwakfu.com/images/items/13329239.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29240",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29239"
+    },
     "https://www.zenithwakfu.com/images/items/13329223.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29225",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29224",
@@ -10087,13 +10280,25 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27556"
     },
     "https://www.zenithwakfu.com/images/items/13327441.webp": {
-        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27442",
-        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27441"
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27448",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27447"
+    },
+    "https://www.zenithwakfu.com/images/items/13327409.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27410",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27409"
     },
     "https://www.zenithwakfu.com/images/items/13327394.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27397",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27396",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27395"
+    },
+    "https://www.zenithwakfu.com/images/items/13327303.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27304",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27303"
+    },
+    "https://www.zenithwakfu.com/images/items/13327289.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27290",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27289"
     },
     "https://www.zenithwakfu.com/images/items/13327015.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27017",
@@ -10128,6 +10333,10 @@
         "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26725",
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26064",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13604"
+    },
+    "https://www.zenithwakfu.com/images/items/13326296.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26317",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26296"
     },
     "https://www.zenithwakfu.com/images/items/13326288.webp": {
         "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26288"
@@ -10978,6 +11187,9 @@
     "https://www.zenithwakfu.com/images/items/13315023.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15023"
     },
+    "https://www.zenithwakfu.com/images/items/13311594.webp": {
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25315"
+    },
     "https://www.zenithwakfu.com/images/items/13310056.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25248"
     },
@@ -11340,6 +11552,12 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27766",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27765"
     },
+    "https://www.zenithwakfu.com/images/items/11916045.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27752",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23061",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23060",
+        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16045"
+    },
     "https://www.zenithwakfu.com/images/items/11927731.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27733",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27732",
@@ -11415,6 +11633,11 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27013",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27012"
     },
+    "https://www.zenithwakfu.com/images/items/11926994.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26996",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26995",
+        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26994"
+    },
     "https://www.zenithwakfu.com/images/items/11926971.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26974",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26973",
@@ -11442,6 +11665,9 @@
     "https://www.zenithwakfu.com/images/items/11926293.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26314",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26293"
+    },
+    "https://www.zenithwakfu.com/images/items/11926298.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26298"
     },
     "https://www.zenithwakfu.com/images/items/11924716.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24820",
@@ -11730,6 +11956,10 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31354",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31353"
     },
+    "https://www.zenithwakfu.com/images/items/11931343.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31344",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31343"
+    },
     "https://www.zenithwakfu.com/images/items/11931326.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31327",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31326"
@@ -11780,6 +12010,9 @@
     "https://www.zenithwakfu.com/images/items/11926753.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26754",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26753"
+    },
+    "https://www.zenithwakfu.com/images/items/11923959.webp": {
+        "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23959"
     },
     "https://www.zenithwakfu.com/images/items/11918643.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22764",
@@ -12008,11 +12241,6 @@
     "https://www.zenithwakfu.com/images/items/11916058.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23101",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16058"
-    },
-    "https://www.zenithwakfu.com/images/items/11916045.webp": {
-        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23061",
-        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23060",
-        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16045"
     },
     "https://www.zenithwakfu.com/images/items/11915949.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23044",
@@ -12947,6 +13175,11 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27711",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27710"
     },
+    "https://www.zenithwakfu.com/images/items/13214131.webp": {
+        "memory": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27695",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23857",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14131"
+    },
     "https://www.zenithwakfu.com/images/items/13227670.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27672",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27671",
@@ -12997,6 +13230,10 @@
     "https://www.zenithwakfu.com/images/items/13227358.webp": {
         "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27358"
     },
+    "https://www.zenithwakfu.com/images/items/13227293.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27294",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27293"
+    },
     "https://www.zenithwakfu.com/images/items/1324212.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27065"
     },
@@ -13019,6 +13256,14 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26042",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26041",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26040"
+    },
+    "https://www.zenithwakfu.com/images/items/13226302.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26322",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26302"
+    },
+    "https://www.zenithwakfu.com/images/items/13226291.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26312",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26291"
     },
     "https://www.zenithwakfu.com/images/items/13224728.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24829",
@@ -13144,6 +13389,10 @@
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27468",
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27467",
         "common": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27466"
+    },
+    "https://www.zenithwakfu.com/images/items/13227445.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27446",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27445"
     },
     "https://www.zenithwakfu.com/images/items/13227030.webp": {
         "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27030"
@@ -13436,6 +13685,11 @@
     "https://www.zenithwakfu.com/images/items/13217128.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24494",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24493"
+    },
+    "https://www.zenithwakfu.com/images/items/13224321.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24350",
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24349",
+        "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24321"
     },
     "https://www.zenithwakfu.com/images/items/13210047.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24145",
@@ -13804,10 +14058,6 @@
     "https://www.zenithwakfu.com/images/items/13212589.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23860",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12589"
-    },
-    "https://www.zenithwakfu.com/images/items/13214131.webp": {
-        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23857",
-        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14131"
     },
     "https://www.zenithwakfu.com/images/items/13215205.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23557",
@@ -14335,6 +14585,10 @@
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26865",
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26864"
     },
+    "https://www.zenithwakfu.com/images/items/18920367.webp": {
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22453",
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20367"
+    },
     "https://www.zenithwakfu.com/images/items/18919883.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22166",
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19883"
@@ -14590,6 +14844,9 @@
     "https://www.zenithwakfu.com/images/items/1899975.webp": {
         "rare": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9975"
     },
+    "https://www.zenithwakfu.com/images/items/18915739.webp": {
+        "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15739"
+    },
     "https://www.zenithwakfu.com/images/items/1892080.webp": {
         "mythic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9254"
     },
@@ -14668,6 +14925,9 @@
     },
     "https://www.zenithwakfu.com/images/items/64631361.webp": {
         "relic": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/31361"
+    },
+    "https://www.zenithwakfu.com/images/items/51325075.webp": {
+        "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25075"
     },
     "https://www.zenithwakfu.com/images/items/34714271.webp": {
         "legendary": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26560"
