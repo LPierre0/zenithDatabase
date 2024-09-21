@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Item Analysis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <h2>Level Range</h2>
+        <div class="range_container">
+            <div class="sliders_control">
+                <input id="fromSlider" type="range" value="10" min="0" max="230"/>
+                <input id="toSlider" type="range" value="40" min="0" max="230"/>
+            </div>
+            <div class="form_control">
+                <div class="form_control_container">
+                    <div class="form_control_container__time">Min</div>
+                    <input class="form_control_container__time__input" type="number" id="fromInput" value="10" min="0" max="230"/>
+                </div>
+                <div class="form_control_container">
+                    <div class="form_control_container__time">Max</div>
+                    <input class="form_control_container__time__input" type="number" id="toInput" value="40" min="0" max="230"/>
+                </div>
+            </div>
+        </div>
+        <h2>Item Type</h2>
+        <div class="item_type">
+            <button class="item-btn" value="casque">Casque</button>
+            <button class="item-btn" value="plastron">Plastron</button>
+            <button class="item-btn" value="ceinture">Ceinture</button>
+            <button class="item-btn" value="bottes">Bottes</button>
+            <button class="item-btn" value="armes">Armes</button>
+            <button class="item-btn" value="amulette">Amulettes</button>
+            <button class="item-btn" value="anneau1">Anneaux</button>
+            <button class="item-btn" value="cape">Cape</button>
+            <button class="item-btn" value="epaulettes">Epaulettes</button>
+            <button class="item-btn" value="embleme">Embleme</button>
+            <button class="item-btn" value="dague_or_bouclier_or_armes">Seconde Main</button>
+        </div>
+
+        <div id="lastClickedInfo_item">Dernier bouton cliqué : Aucun</div>
+        
+        <h2>Item Rarity</h2>
+        <div class="item_rarity">
+            <button class="rarity-btn" value="common">Commun</button>
+            <button class="rarity-btn" value="rare">Rare</button>
+            <button class="rarity-btn" value="mythic">Mythique</button>
+            <button class="rarity-btn" value="legendary">Legendaire</button>
+            <button class="rarity-btn" value="relic">Relique</button>
+            <button class="rarity-btn" value="epic">Epique</button>
+            <button class="rarity-btn" value="memory">Memoire</button>
+            <button class="rarity-btn" value= None>Toutes</button>
+        </div>
+        <div id="lastClickedInfo_rarity">Dernier bouton cliqué : Aucun</div>
+        
+        <div class="results__header">
+            <h2>Results</h2>
+            <button id="fetchButton">Fetch Result</button>
+        </div>
+        <div id="resultsDiv" class="item-container"></div>
+            <div id="results"></div>
+        </div>
+        <script src="main.js"></script>
+</body>
