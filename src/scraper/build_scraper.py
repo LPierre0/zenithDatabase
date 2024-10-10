@@ -1,7 +1,11 @@
 import datetime
 import sys
 import os
-sys.path.append('/home/pierre/Documents/PersonnalProject/wakfuDb/src')
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+src_path = os.path.join(project_root, 'src')
+
+# Append to sys.path
+sys.path.append(src_path)
 from utils import *
 
 class Build_Scrapper:
@@ -344,7 +348,6 @@ def main():
     date_fixed = None
     debug = False
     builder_scrapper = Build_Scrapper(driver, path_bdd, path_json_output, date_fixed, debug)
-
     builder_scrapper.get_all_build()
     driver.quit()
 

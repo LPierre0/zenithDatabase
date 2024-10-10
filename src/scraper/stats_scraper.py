@@ -1,6 +1,10 @@
 import os
 import sys
-sys.path.append('/home/pierre/Documents/PersonnalProject/wakfuDb/src')
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+src_path = os.path.join(project_root, 'src')
+
+# Append to sys.path
+sys.path.append(src_path)
 from utils import *
 
 
@@ -141,7 +145,7 @@ def main():
     stats_scraper = Stats_Scraper(driver, path_json)
     stats_scraper.get_all_stats_items()
     driver.quit()
-    
+
 
 if __name__ == '__main__':
     test_stats()

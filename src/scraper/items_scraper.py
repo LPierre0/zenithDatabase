@@ -1,6 +1,9 @@
 import sys
 import time
-sys.path.append('/home/pierre/Documents/PersonnalProject/wakfuDb/src')
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+src_path = os.path.join(project_root, 'src')
+
+sys.path.append(src_path)
 from utils import *
 
 
