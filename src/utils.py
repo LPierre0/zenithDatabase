@@ -37,24 +37,6 @@ user_agents = [
 ]
 
 
-list_profile = [
-    "google-chrome-profile1",
-    "google-chrome-profile2",
-    "google-chrome-profile3",
-    "google-chrome-profile4",
-    "google-chrome-profile5",
-    "google-chrome-profile6",
-    "google-chrome-profile7",
-    "google-chrome-profile8",
-    "google-chrome-profile9",
-    "google-chrome-profile10",
-    "google-chrome-profile11",
-    "google-chrome-profile12",
-    "google-chrome-profile13",
-    "google-chrome-profile14",
-    "google-chrome-profile15",
-    "google-chrome-profile16"
-]
 
 def concat_list(list1, list2):
     for item in list2:
@@ -62,11 +44,12 @@ def concat_list(list1, list2):
             list1.append(item)
     return list1
 
-def get_driver(url, chrome_profile, headless = True, max_retry = 5, backoff_factor = 10):
+def get_driver(url, headless = True, max_retry = 5, backoff_factor = 10):
     
     global list_profile
-    user_data_dir = f"/home/pierre/Documents/Scraping/chrome-profile/{list_profile[chrome_profile - 1]}"
+    user_data_dir = f"/home/pierre/.config/google-chrome"
     if not os.path.exists(user_data_dir):
+        print("User data directory not found, using default.")
         user_data_dir = "/root/.config/google-chrome"
 
     chrome_options = Options()
@@ -110,7 +93,8 @@ def get_soup(url):
     return bs4.BeautifulSoup(response.content, 'lxml')
 
 
-def get_soup_from_driver(html):
+def get_soup_from_driver(driver):
+    html = get_html(driver)
     return bs4.BeautifulSoup(html, 'lxml')
 
 def is_build_page(url):
@@ -219,6 +203,13 @@ def change_level_item(driver, lvl_min = 0, lvl_max = LVL_MAX):
     sleep(1)
 
 
+def progress_bar(nb_treated, nb_total):
+    bar_length = 50
+    progress = nb_treated / nb_total
+    block = int(round(bar_length * progress))
+    text = f"Progress: [{'#' * block}{'-' * (bar_length - block)}] {progress * 100:.1f}%"
+    print(text, end='\r')
+
 
 def save_dict_to_json(dict, filename):
     print(f"Saving dict to {filename}")
@@ -226,6 +217,10 @@ def save_dict_to_json(dict, filename):
         json.dump(dict, file, indent=4, ensure_ascii=False)
 
 def get_json(filename):
+    if not os.path.exists(filename):
+        with open(filename, 'w') as file:
+            json.dump({}, file)
+
     with open(filename, 'r') as file:
         return json.load(file)
 
@@ -235,7 +230,7 @@ def relink(url):
     return f"https://www.zenithwakfu.com{url}"
 
 def test_slider():
-    driver = get_driver('https://www.zenithwakfu.com/builder/f265c', 1)
+    driver = get_driver('https://www.zenithwakfu.com/builder/f265c')
     change_level_item(driver, 0, 230)
     change_level_item(driver, 0, 100)
     change_level_item(driver, 0, 50)

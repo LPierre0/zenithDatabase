@@ -1,7 +1,7 @@
 import argparse
-from scraping_build import * 
-from scraping_items import *
-from scraping_recipe import *
+from scraper.build_scraper import Build_Scrapper
+from scraper.stats_scraper import Stats_Scraper
+from scraper.items_scraper import Items_Scraper
 
 
 import sqlite3

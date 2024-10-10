@@ -4,7 +4,7 @@ import os
 sys.path.append('/home/pierre/Documents/PersonnalProject/wakfuDb/src')
 from utils import *
 
-class Builder_Scrapper:
+class Build_Scrapper:
 
     def __init__(self, driver, path_bdd, path_json_output, date_fixed, debug) -> None:
         self.driver = driver
@@ -15,6 +15,8 @@ class Builder_Scrapper:
         self.dict_build = get_json(os.path.join(path_json_output, 'builds.json'))
         self.data_item_key = get_json(os.path.join(path_json_output, 'key_item.json'))
         self.dict_items = get_json(os.path.join(path_json_output, 'items.json'))
+        self.temp_state = get_nb_page_scrapped()
+        self.path_temp_state = "temp_state_build.txt"
         self.debug = debug
 
     def relink(self, link) -> str:
@@ -139,20 +141,13 @@ class Builder_Scrapper:
 
 
 
-    def preprocess_page(self) -> None:
+    def process_page(self):
         """
-        Preprocess the page.
+        Process the page.
         """
-        print(f"Preprocessing page {self.current_url}")
-        print(type(self.driver))
+        print(f"Processing page {self.current_url}")
         self.driver.get(self.current_url)
-        print("Page loaded.")
         sleep(2)
-        print("Sleep done.")
-        print("Getting soup.")
-        self.get_soup()
-        print("Soup got.")
-        print("Getting all build of the page.")
         self.get_all_build_of_page()
 
 
@@ -164,11 +159,7 @@ class Builder_Scrapper:
             return None
         print("Number of pages found: ", nb_pages)
 
-        dico_all = {}
-        self.data_item_key = get_json('json/key_item.json')
         nb_lines_treated = 1
-        if os.path.exists('json/builds.json'):
-            dico_all = get_json('json/builds.json')
 
         nb_lines_treated = get_nb_page_scrapped()
         print(f"Temp state found, {nb_lines_treated} page already scraped.")
@@ -176,10 +167,10 @@ class Builder_Scrapper:
         for i in range (nb_lines_treated, nb_pages + 1):
             try : 
                 self.current_url = f"https://www.zenithwakfu.com/builder?page={i}"
-                self.preprocess_page()
+                self.process_page()
                 if i % 1000 == 0:
-                    save_dict_to_json(dico_all, self.path_json_output)
-                    with open("temp_state_build.txt", 'a') as file:
+                    save_dict_to_json(self.dict_build, self.path_json_output)
+                    with open("temp_state_build.txt", 'w') as file:
                         file.write(str(i))
                 
             except Exception as e:
@@ -187,7 +178,7 @@ class Builder_Scrapper:
                 actualize_error_file(i)
                 continue
 
-        save_dict_to_json(dico_all, f'json/builds.json')
+        save_dict_to_json(self.dict_build, os.path.join(self.path_json_output, 'builds.json'))
     
 
 def get_rarity_item(soup) -> str | None:
@@ -329,7 +320,7 @@ def test_one_page():
     path_json_output = 'json/'
     date_fixed = None
     debug = False
-    builder_scrapper = Builder_Scrapper(driver, path_bdd, path_json_output, date_fixed, debug)
+    builder_scrapper = Build_Scrapper(driver, path_bdd, path_json_output, date_fixed, debug)
     sleep(2)
     builder_scrapper.get_all_build_of_page()
     save_dict_to_json(builder_scrapper.dict_build, 'json/test_builds.json')
@@ -341,10 +332,21 @@ def test():
     path_json_output = 'json/'
     date_fixed = None
     debug = False
-    builder_scrapper = Builder_Scrapper(driver, path_bdd, path_json_output, date_fixed, debug)
+    builder_scrapper = Build_Scrapper(driver, path_bdd, path_json_output, date_fixed, debug)
+
+    builder_scrapper.get_all_build()
+    driver.quit()
+
+def main():
+    driver = get_driver("https://www.zenithwakfu.com/builder?page=1", headless=True)
+    path_bdd = ''
+    path_json_output = 'json/'
+    date_fixed = None
+    debug = False
+    builder_scrapper = Build_Scrapper(driver, path_bdd, path_json_output, date_fixed, debug)
 
     builder_scrapper.get_all_build()
     driver.quit()
 
 if __name__ == "__main__":
-    test_one_page()
+    main()
