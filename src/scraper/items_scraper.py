@@ -159,7 +159,7 @@ class Items_Scraper:
     
 
 def main():
-    driver = get_driver("https://www.zenithwakfu.com/builder/671f4", headless=False)
+    driver = get_driver("https://www.zenithwakfu.com/builder/671f4", headless=True)
     path_folder_json = 'json'
     items_scraper = Items_Scraper(driver, path_folder_json)
     items_scraper.get_items()
