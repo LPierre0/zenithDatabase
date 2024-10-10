@@ -1,9 +1,11 @@
+import os
 import sys
 import time
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-src_path = os.path.join(project_root, 'src')
+src_path = os.path.join(project_root)
 
 sys.path.append(src_path)
+print(sys.path)
 from utils import *
 
 

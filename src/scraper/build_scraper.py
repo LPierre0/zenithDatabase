@@ -2,10 +2,11 @@ import datetime
 import sys
 import os
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-src_path = os.path.join(project_root, 'src')
+src_path = os.path.join(project_root)
 
 # Append to sys.path
 sys.path.append(src_path)
+print(src_path)
 from utils import *
 
 class Build_Scrapper:

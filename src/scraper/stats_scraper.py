@@ -1,7 +1,7 @@
 import os
 import sys
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-src_path = os.path.join(project_root, 'src')
+src_path = os.path.join(project_root)
 
 # Append to sys.path
 sys.path.append(src_path)
