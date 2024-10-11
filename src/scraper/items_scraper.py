@@ -40,9 +40,9 @@ class Items_Scraper:
         self.driver = driver
         self.path_folder_json = path_folder_json
         self.url = "https://www.zenithwakfu.com/builder/671f4"
-        self.lvl_max = 230
-        self.lvl_min = 1
-        self.tranche_scale = 15
+        self.dict_items = {}
+        if not os.path.exists(path_folder_json):
+            os.mkdir(path_folder_json)
 
 
     def scroll_to_bottom(self):
